@@ -32,5 +32,5 @@ jobs:
           git add data/news.json
 
           git diff --cached --quiet || git commit -m "Update news data"
-
+          git pull --rebase origin main
           git push
