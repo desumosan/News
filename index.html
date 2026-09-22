@@ -133,7 +133,39 @@ function impact(a){
  if(/税|減税|増税|予算|政府|財務省/.test(t))return"家計や企業の負担、政府支出などに関係する可能性があります。";
  return"日本経済や企業活動に関係するニュースです。";
 }
+function comment(a){
+ const t=a.title || "";
 
+ if(/日銀|政策金利|利上げ|利下げ|金融政策/.test(t)){
+   return "金融政策に関するニュースです。金利や円相場を通じて、企業や家計に影響する可能性があります。";
+ }
+
+ if(/円安|円高|為替|ドル円/.test(t)){
+   return "為替に関するニュースです。輸入価格や海外旅行、企業の海外売上などに影響する可能性があります。";
+ }
+
+ if(/物価|インフレ|消費者物価|CPI|電気料金|ガソリン/.test(t)){
+   return "物価に関するニュースです。食品や光熱費など、日々の生活費や企業のコストに関係します。";
+ }
+
+ if(/賃金|実質賃金|給与|給料|雇用|失業率|求人/.test(t)){
+   return "雇用や賃金に関するニュースです。家計の所得や消費、企業の人件費などに関係します。";
+ }
+
+ if(/GDP|景気|景況|消費|設備投資/.test(t)){
+   return "日本の景気に関するニュースです。企業活動や個人消費など、日本経済全体の動きを見る材料になります。";
+ }
+
+ if(/税|減税|増税|予算|政府|財務省|補助金/.test(t)){
+   return "政府の政策に関するニュースです。税負担や政府支出を通じて、家計や企業に影響する可能性があります。";
+ }
+
+ if(/企業|決算|業績|売上|利益|倒産|買収|M&A/.test(t)){
+   return "企業活動に関するニュースです。企業の業績や投資、雇用などを通じて経済に影響する可能性があります。";
+ }
+
+ return "日本経済に関係するニュースです。企業や家計、景気などへの影響を確認する材料になります。";
+}
 let allArticles = [];
 let currentCategory = "null";
 
@@ -154,7 +186,10 @@ function renderNews(){
  <article class="news-card ${i===0?"featured":""}">
  <div class="tag">${esc(x.category||"経済ニュース")}</div>
  <h3>${esc(x.title)}</h3>
- <p class="summary">今日の日本経済に関係する重要ニュースとして自動選出された話題です。原記事で詳細をご確認ください。</p>
+<div class="summary">
+  <strong>このニュースを30秒で理解</strong>
+  <p>${esc(comment(x))}</p>
+</div>
  <div class="why"><div><b>なぜ重要？</b><br>経済との関連度が高いテーマとして自動選出されています。</div>
  <div><b>生活への影響</b><br>${esc(impact(x))}</div></div>
  <div class="source">出典：${esc(x.source)}　<a href="${esc(x.link)}" target="_blank" rel="noopener noreferrer">原記事を見る ↗</a></div>
