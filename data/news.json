@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-21T13:18:38.734354+00:00",
+  "updated_at": "2026-09-22T00:39:55.903795+00:00",
   "articles": [
     {
       "title": "日銀 どう物価安定図るか 今後の利上げも難しい判断",
@@ -15,22 +15,6 @@
       "published": "Fri, 18 Sep 2026 18:20:09 +0900",
       "source": "NHK 経済",
       "score": 29,
-      "category": "金融政策"
-    },
-    {
-      "title": "日本経済指標【日銀政策金利】 - みんかぶ FX/為替",
-      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE11NEdEWU1wYWVpWGN0SnJzbHRTWUJUUHJjS08xVEVxN3MtRExtcU1wUl9tU3AwVFhIelo2UDJGSUVYLTFNOGRJZg?oc=5",
-      "published": "Fri, 18 Sep 2026 02:54:57 GMT",
-      "source": "Google News 日本経済",
-      "score": 28,
-      "category": "金融政策"
-    },
-    {
-      "title": "株価 値上がり 日銀利上げ決定後に上昇幅拡大",
-      "link": "https://news.web.nhk/newsweb/na/nd-20260918de51005",
-      "published": "Fri, 18 Sep 2026 16:00:00 +0900",
-      "source": "NHK 経済",
-      "score": 26,
       "category": "金融政策"
     },
     {
@@ -106,12 +90,28 @@
       "category": "為替・金利"
     },
     {
+      "title": "NY株式市場 ナスダック株価指数 約3か月半ぶりに最高値を更新",
+      "link": "https://news.web.nhk/newsweb/na/nd-20260922de51819",
+      "published": "Tue, 22 Sep 2026 09:25:40 +0900",
+      "source": "NHK 経済",
+      "score": 7,
+      "category": "経済ニュース"
+    },
+    {
       "title": "政府備蓄米 8事業者から21万トン買い戻しへ 農水省",
       "link": "https://news.web.nhk/newsweb/na/nd-20260918de51118",
       "published": "Fri, 18 Sep 2026 19:58:00 +0900",
       "source": "NHK 経済",
       "score": 7,
       "category": "政策・財政"
+    },
+    {
+      "title": "中国AIのKimi、米クロードに｢代理回答｣させる アンソロピックが指摘 - 日本経済新聞",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1YeGNUVldWcHhIc2tvQVEyT291Y3I5dUN0eDc3VDdXMjYxSUUzd1gzLVNEY2pqVkt3cDJfcmp0TVk3OTFfRUxkUFpDZVdGU0h4YnNOb1hCQS0tUjkxUHdSN1NUUnZ6OEl3OW85Vg?oc=5",
+      "published": "Mon, 21 Sep 2026 18:38:10 GMT",
+      "source": "Google News 日本経済",
+      "score": 7,
+      "category": "企業・産業"
     },
     {
       "title": "［社説］ジャガイモの輸入解禁は科学的見地から - 日本経済新聞",
@@ -122,17 +122,17 @@
       "category": "経済ニュース"
     },
     {
-      "title": "食料品の消費税1%法案、賛成53%反対41% 日経世論調査 - 日本経済新聞",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1IREhsbk56eFNxbG5ybW5sMGwxSm5BaVc5SldnWjExZEljNWtzeUNoRUYtY0luODVVX2N2dF96RzI2YXg0dXVKYjlCakhnYkpybXZJT0lkRDdyVHBRT292SzBQWmFsekJpcWhzbg?oc=5",
-      "published": "Sun, 20 Sep 2026 17:00:00 GMT",
-      "source": "Google News 日本経済",
-      "score": 6,
-      "category": "政策・財政"
-    },
-    {
       "title": "国産AIへ機械に「マイナンバー」 官民でデータ収集、DMG森など100社 - 日本経済新聞",
       "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBuMEFJVVVyOW5CZmpla1RNcE13Xy1VSElsTFc3MThReklCQTIyTVlSQkU4YVBZcFVRR1BNNmIza0JSaHYxbUo2eTRJT3hYbTdhVlpxUUZTOWZFYlhvbkFfT21tay11NTJ1Q0Znbg?oc=5",
       "published": "Sun, 20 Sep 2026 17:00:00 GMT",
+      "source": "Google News 日本経済",
+      "score": 4,
+      "category": "企業・産業"
+    },
+    {
+      "title": "AI俳優ティリーと対話してみた、｢夢はオスカー｣ ハリウッドは猛反発 - 日本経済新聞",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE52bHFyYklObFNkMFZPaFdHbzBWTlBhVmlkM3NRWDdnSFE4MWpaZW5sVll2dnV1bGFhQlY2NzIyUFRNbDg3ZDQ1dTJYVFZRVXNBbERYemRLYzZZRExZV1ltR21vMjB6bFVOYnBoYw?oc=5",
+      "published": "Mon, 21 Sep 2026 19:01:22 GMT",
       "source": "Google News 日本経済",
       "score": 4,
       "category": "企業・産業"
@@ -180,11 +180,11 @@
       "category": "金融政策"
     },
     {
-      "title": "日本経済指標【日銀政策金利】 - みんかぶ FX/為替",
-      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE11NEdEWU1wYWVpWGN0SnJzbHRTWUJUUHJjS08xVEVxN3MtRExtcU1wUl9tU3AwVFhIelo2UDJGSUVYLTFNOGRJZg?oc=5",
-      "published": "Fri, 18 Sep 2026 02:54:57 GMT",
-      "source": "Google News 日本経済",
-      "score": 28,
+      "title": "【きょうのおはBiz 9月18日（金）】日銀 政策金利引き上げ",
+      "link": "https://news.web.nhk/newsweb/na/nd-20260918de50964",
+      "published": "Fri, 18 Sep 2026 13:55:16 +0900",
+      "source": "NHK 経済",
+      "score": 22,
       "category": "金融政策"
     }
   ]
