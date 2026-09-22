@@ -138,12 +138,12 @@ let allArticles = [];
 let currentCategory = "すべて";
 
 function renderNews(){
- const list = currentCategory === "すべて"
+ const list = currentCategory === "null"
    ? allArticles.slice(0,3)
    : allArticles.filter(x => (x.category || "経済ニュース") === currentCategory);
 
  const title = document.querySelector("#newsList").closest(".section").querySelector(".section-title h2");
- title.textContent = currentCategory === "すべて" ? "今日の3大ニュース" : "今日の" + currentCategory + "ニュース";
+ title.textContent = currentCategory === "null" ? "今日の3大ニュース" : "今日の" + currentCategory + "ニュース";
 
  const target = document.getElementById("newsList");
  if(!list.length){
