@@ -74,6 +74,19 @@
 <div class="quick-card"><span>選別</span><strong>ルールベース</strong><small>金利・物価・為替などを重視</small></div>
 <div class="quick-card"><span>更新</span><strong>GitHub Actions</strong><small>定期実行で自動更新</small></div>
 </section>
+
+<section class="genre-filter section">
+  <div class="section-title"><span>NEWS FILTER</span><h2>ジャンルから探す</h2></div>
+  <div class="genre-buttons" id="genreButtons" aria-label="ニュースジャンル">
+    <button class="genre-btn active" data-category="すべて">すべて</button>
+    <button class="genre-btn" data-category="金融政策">金融政策</button>
+    <button class="genre-btn" data-category="為替・金利">為替・金利</button>
+    <button class="genre-btn" data-category="政策・財政">政策・財政</button>
+    <button class="genre-btn" data-category="企業・産業">企業・産業</button>
+    <button class="genre-btn" data-category="経済ニュース">経済ニュース</button>
+  </div>
+</section>
+
 <!-- 広告① -->
 <div class="ad-area">
   <a href="https://rpx.a8.net/svt/ejp?a8mat=4BCFNO+EAZZ1U+2HOM+7K7DT&rakuten=y&a8ejpredirect=http%3A%2F%2Fhb.afl.rakuten.co.jp%2Fhgc%2F0eb4cf04.fd65a65c.0eb4cf05.fa3f041c%2Fa26092060800_4BCFNO_EAZZ1U_2HOM_7K7DT%3Fpc%3Dhttp%253A%252F%252Fgora.golf.rakuten.co.jp%252F%26m%3Dhttp%253A%252F%252Fwww.rakuten.co.jp%252F" rel="nofollow">
@@ -126,11 +139,24 @@ function impact(a){
  if(/税|減税|増税|予算|政府|財務省/.test(t))return"家計や企業の負担、政府支出などに関係する可能性があります。";
  return"日本経済や企業活動に関係するニュースです。";
 }
-fetch("data/news.json?ts="+Date.now()).then(r=>r.json()).then(data=>{
- document.getElementById("updated").textContent="更新："+date(data.updated_at);
- document.getElementById("updatedMeta").textContent="データ更新："+date(data.updated_at);
- const a=(data.top_articles||data.articles||[]).slice(0,3);
- document.getElementById("newsList").innerHTML=a.map((x,i)=>`
+
+let allArticles = [];
+let currentCategory = "すべて";
+
+function renderNews(){
+ const list = currentCategory === "すべて"
+   ? allArticles.slice(0,3)
+   : allArticles.filter(x => (x.category || "経済ニュース") === currentCategory);
+
+ const title = document.querySelector("#newsList").closest(".section").querySelector(".section-title h2");
+ title.textContent = currentCategory === "すべて" ? "今日の3大ニュース" : "今日の" + currentCategory + "ニュース";
+
+ const target = document.getElementById("newsList");
+ if(!list.length){
+   target.innerHTML = '<p class="empty-news">このジャンルのニュースはありません。</p>';
+   return;
+ }
+ target.innerHTML = list.map((x,i)=>`
  <article class="news-card ${i===0?"featured":""}">
  <div class="tag">${esc(x.category||"経済ニュース")}</div>
  <h3>${esc(x.title)}</h3>
@@ -139,8 +165,26 @@ fetch("data/news.json?ts="+Date.now()).then(r=>r.json()).then(data=>{
  <div><b>生活への影響</b><br>${esc(impact(x))}</div></div>
  <div class="source">出典：${esc(x.source)}　<a href="${esc(x.link)}" target="_blank" rel="noopener noreferrer">原記事を見る ↗</a></div>
  </article>`).join("");
-}).catch(e=>{document.getElementById("newsList").innerHTML="<p>ニュースの読み込みに失敗しました。</p>";console.error(e);});
+}
+
+document.addEventListener("click", e=>{
+ const btn = e.target.closest(".genre-btn");
+ if(!btn) return;
+ document.querySelectorAll(".genre-btn").forEach(b=>b.classList.remove("active"));
+ btn.classList.add("active");
+ currentCategory = btn.dataset.category;
+ renderNews();
+});
+
+fetch("data/news.json?ts="+Date.now()).then(r=>r.json()).then(data=>{
+ document.getElementById("updated").textContent="更新："+date(data.updated_at);
+ document.getElementById("updatedMeta").textContent="データ更新："+date(data.updated_at);
+ allArticles = data.articles || data.top_articles || [];
+ renderNews();
+}).catch(e=>{
+ document.getElementById("newsList").innerHTML="<p>ニュースの読み込みに失敗しました。</p>";
+ console.error(e);
+});
 </script>
 </body>
 </html>
-
