@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-22T12:25:49.530172+00:00",
+  "updated_at": "2026-09-23T00:11:17.512504+00:00",
   "articles": [
     {
       "title": "日銀 どう物価安定図るか 今後の利上げも難しい判断",
@@ -15,14 +15,6 @@
       "published": "Fri, 18 Sep 2026 18:20:09 +0900",
       "source": "NHK 経済",
       "score": 29,
-      "category": "金融政策"
-    },
-    {
-      "title": "【きょうのおはBiz 9月18日（金）】日銀 政策金利引き上げ",
-      "link": "https://news.web.nhk/newsweb/na/nd-20260918de50964",
-      "published": "Fri, 18 Sep 2026 13:55:16 +0900",
-      "source": "NHK 経済",
-      "score": 22,
       "category": "金融政策"
     },
     {
@@ -50,20 +42,20 @@
       "category": "金融政策"
     },
     {
-      "title": "日銀会合後、原油高で日本経済・日本株はどうなるか 注目材料と当面シナリオ 野村證券ストラテジストが解説 - nomura.co.jp",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBCUVRqMUR2MWRMbFZkbDRsUjNQdnpPZXdWOW1LR3FGTUZZcFFPakNEUElXN1ZGMVRHSjhvcUY5TXJVbGxIRVR2dFNUM1B6b1BwazZiSWRJUURZNWdvbnlv?oc=5",
-      "published": "Fri, 18 Sep 2026 07:00:00 GMT",
-      "source": "Google News 日本経済",
-      "score": 16,
-      "category": "金融政策"
-    },
-    {
       "title": "日本商工会議所 食料品消費税減税でレジ改修費補助など支援を",
       "link": "https://news.web.nhk/newsweb/na/nd-20260918de51142",
       "published": "Sat, 19 Sep 2026 05:52:10 +0900",
       "source": "NHK 経済",
       "score": 15,
       "category": "政策・財政"
+    },
+    {
+      "title": "ダウ平均株価は下落もナスダック最高値更新 半導体に買い注文",
+      "link": "https://news.web.nhk/newsweb/na/nd-20260923de51940",
+      "published": "Wed, 23 Sep 2026 06:59:52 +0900",
+      "source": "NHK 経済",
+      "score": 12,
+      "category": "企業・産業"
     },
     {
       "title": "政策金利引き上げ 私たちの生活はどう変わる？【詳しく】",
@@ -82,9 +74,9 @@
       "category": "企業・産業"
     },
     {
-      "title": "ジャガイモ輸入解禁手続きで説明会 生産者「やっていけない」",
-      "link": "https://news.web.nhk/newsweb/na/nd-20260918de51050",
-      "published": "Fri, 18 Sep 2026 19:59:34 +0900",
+      "title": "トランプ大統領 軽油の輸出禁止措置“政権内部に求めてきた”",
+      "link": "https://news.web.nhk/newsweb/na/nd-20260923de51939",
+      "published": "Wed, 23 Sep 2026 07:32:55 +0900",
       "source": "NHK 経済",
       "score": 8,
       "category": "経済ニュース"
@@ -122,11 +114,19 @@
       "category": "企業・産業"
     },
     {
-      "title": "受験戦争の中国、日本の文具に熱視線 コクヨのイベント来場者5割増 - 日本経済新聞",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE10WlhBcVU3UGRia0xQTjBtc3dyeEZkNHhHYm9qcDRPc1YzMGsyYmR4cHNJQnFEYmJkQ3k3a2RhMDhtcGxFS3lWczZVaXRKV0tFN0J3ZGk1NGVTWFlSTERRX19MOGNlamhEOG1teA?oc=5",
-      "published": "Mon, 21 Sep 2026 20:00:00 GMT",
+      "title": "［社説］ジャガイモの輸入解禁は科学的見地から - 日本経済新聞",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1YVy1VM0VpOE1mbk9NUm1vVVBLVnNmdVhzVzlwYzdFbVN5X0ZZWFI2SENibVFneU9RckFSSVZrZ016WTdzNnE4UjllX0IyUXpPNDN0emw1ODNuMlV0Nmk0dlV1Zi1rbnhrMXppbw?oc=5",
+      "published": "Mon, 21 Sep 2026 10:05:00 GMT",
       "source": "Google News 日本経済",
-      "score": 3,
+      "score": 6,
+      "category": "経済ニュース"
+    },
+    {
+      "title": "損壊したサウジアラビアのパイプライン操業再開と報道",
+      "link": "https://news.web.nhk/newsweb/na/nd-20260923de51932",
+      "published": "Wed, 23 Sep 2026 05:59:00 +0900",
+      "source": "NHK 経済",
+      "score": 2,
       "category": "経済ニュース"
     },
     {
@@ -146,17 +146,17 @@
       "category": "経済ニュース"
     },
     {
-      "title": "セブン＆アイ・HD名誉顧問 鈴木敏文氏の「お別れの会」",
-      "link": "https://news.web.nhk/newsweb/na/nd-20260918de51039",
-      "published": "Fri, 18 Sep 2026 14:45:00 +0900",
-      "source": "NHK 経済",
-      "score": 2,
+      "title": "［社説］ドイツは極右台頭に対応急げ - 日本経済新聞",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9lTFNHOGtTQTN3M0RYeWN1cnh0V0FwOUlDMDZaelc2blV4RjYySmVWdERsajdOcGhxMThRcUdVX3p2UWFmNFo5YnAtZFV1Z2dmN3JVREJxRHlJX1BWb2syMldVZWFyczB1WHhHaQ?oc=5",
+      "published": "Tue, 22 Sep 2026 10:00:00 GMT",
+      "source": "Google News 日本経済",
+      "score": -5,
       "category": "経済ニュース"
     },
     {
-      "title": "名古屋「国から仕送り」に転落 財政窮屈な政令市、県から独立論再燃 - 日本経済新聞",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE13STc3WUVJempJR2ZPLW9MVXFGTmE0REJMNFJuYy01UDRtcG9hNXhsWW83V3FvMGVPaHhUbzNCdjJZMmJXcVZ0UzctbnVpM2ptUUREdThEX3hacmx4WU5LRFNnMGtneFI0S2hXSw?oc=5",
-      "published": "Mon, 21 Sep 2026 17:00:00 GMT",
+      "title": "「日本経済の大動脈を守る重要業務」 海上保安庁が管制官を募集（毎日新聞） - Yahoo!ニュース",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5OVlRrWnYxMjVLVTlJMDRMeUloOUJ4azQ2ZVc1Q2w4dElVdUw4dWdzSVczSi00QlZKdWZCMXNxc2dIbWxNbGhZbWp4Q0dJcnlpUmlkdlZnaUcxRkpEeW9sSHlIbjNHR2JhbHU5ZkpuOUVXdnZwUzkzOGFINU8tclE?oc=5",
+      "published": "Mon, 21 Sep 2026 21:45:21 GMT",
       "source": "Google News 日本経済",
       "score": -5,
       "category": "経済ニュース"
@@ -180,11 +180,11 @@
       "category": "金融政策"
     },
     {
-      "title": "【きょうのおはBiz 9月18日（金）】日銀 政策金利引き上げ",
-      "link": "https://news.web.nhk/newsweb/na/nd-20260918de50964",
-      "published": "Fri, 18 Sep 2026 13:55:16 +0900",
+      "title": "日銀 利上げ 専門家「今後も金利上昇続くこと見越して対応を」",
+      "link": "https://news.web.nhk/newsweb/na/nd-20260919de51243",
+      "published": "Sat, 19 Sep 2026 19:32:29 +0900",
       "source": "NHK 経済",
-      "score": 22,
+      "score": 21,
       "category": "金融政策"
     }
   ]
