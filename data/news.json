@@ -1,22 +1,6 @@
 {
-  "updated_at": "2026-09-23T00:11:17.512504+00:00",
+  "updated_at": "2026-09-24T00:19:38.294397+00:00",
   "articles": [
-    {
-      "title": "日銀 どう物価安定図るか 今後の利上げも難しい判断",
-      "link": "https://news.web.nhk/newsweb/na/nd-20260919de51165",
-      "published": "Sat, 19 Sep 2026 05:45:00 +0900",
-      "source": "NHK 経済",
-      "score": 29,
-      "category": "金融政策"
-    },
-    {
-      "title": "円安進む 日銀利上げペース示唆せずの見方",
-      "link": "https://news.web.nhk/newsweb/na/nd-20260918de51089",
-      "published": "Fri, 18 Sep 2026 18:20:09 +0900",
-      "source": "NHK 経済",
-      "score": 29,
-      "category": "金融政策"
-    },
     {
       "title": "日銀 利上げ 専門家「今後も金利上昇続くこと見越して対応を」",
       "link": "https://news.web.nhk/newsweb/na/nd-20260919de51243",
@@ -26,28 +10,12 @@
       "category": "金融政策"
     },
     {
-      "title": "日銀が「レートチェック」を実施 円安けん制か",
-      "link": "https://news.web.nhk/newsweb/na/nd-20260919de51169",
-      "published": "Sat, 19 Sep 2026 03:43:25 +0900",
+      "title": "TOPIX銘柄選定ルール見直し 企業価値高める動き広がるか",
+      "link": "https://news.web.nhk/newsweb/na/nd-20260923de52006",
+      "published": "Wed, 23 Sep 2026 17:27:00 +0900",
       "source": "NHK 経済",
-      "score": 20,
-      "category": "金融政策"
-    },
-    {
-      "title": "円安進む 1ドル＝158円台に 日銀植田総裁の発言受け",
-      "link": "https://news.web.nhk/newsweb/na/nd-20260918de51120",
-      "published": "Fri, 18 Sep 2026 20:47:43 +0900",
-      "source": "NHK 経済",
-      "score": 20,
-      "category": "金融政策"
-    },
-    {
-      "title": "日本商工会議所 食料品消費税減税でレジ改修費補助など支援を",
-      "link": "https://news.web.nhk/newsweb/na/nd-20260918de51142",
-      "published": "Sat, 19 Sep 2026 05:52:10 +0900",
-      "source": "NHK 経済",
-      "score": 15,
-      "category": "政策・財政"
+      "score": 12,
+      "category": "企業・産業"
     },
     {
       "title": "ダウ平均株価は下落もナスダック最高値更新 半導体に買い注文",
@@ -58,12 +26,28 @@
       "category": "企業・産業"
     },
     {
-      "title": "政策金利引き上げ 私たちの生活はどう変わる？【詳しく】",
-      "link": "https://news.web.nhk/newsweb/na/nd-20260918de50967",
-      "published": "Fri, 18 Sep 2026 19:46:43 +0900",
+      "title": "日経平均株価、連休中の米ハイテク株上昇が追い風（先読み株式相場） - 日本経済新聞",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE0zdkRraGRXVjd2LTRYamMwYkFKQUdqcTBUVHlnTDNIb3dnMEhuUzlnQmlMZVVJaE5EZ2hrN3JMZ3c4WlpFb25xbXdkdl8tVFBHdENGUEcyanp0YnpmWmt4S21kcTNoOERpRUVmag?oc=5",
+      "published": "Wed, 23 Sep 2026 22:40:33 GMT",
+      "source": "Google News 日本経済",
+      "score": 11,
+      "category": "経済ニュース"
+    },
+    {
+      "title": "OECD 物価上昇率予測 来年3.6％に引き上げ エネルギー高騰受け",
+      "link": "https://news.web.nhk/newsweb/na/nd-20260924de52090",
+      "published": "Thu, 24 Sep 2026 08:50:07 +0900",
       "source": "NHK 経済",
-      "score": 12,
-      "category": "金融政策"
+      "score": 10,
+      "category": "物価・家計"
+    },
+    {
+      "title": "NY市場 1ドル158円台 3週間ぶり円安 米長期金利19年ぶり高水準",
+      "link": "https://news.web.nhk/newsweb/na/nd-20260924de52083",
+      "published": "Thu, 24 Sep 2026 04:56:44 +0900",
+      "source": "NHK 経済",
+      "score": 10,
+      "category": "為替・金利"
     },
     {
       "title": "米新興AI企業 最新モデルを生命科学分野で提供 安全対策も",
@@ -98,27 +82,75 @@
       "category": "経済ニュース"
     },
     {
-      "title": "政府備蓄米 8事業者から21万トン買い戻しへ 農水省",
-      "link": "https://news.web.nhk/newsweb/na/nd-20260918de51118",
-      "published": "Fri, 18 Sep 2026 19:58:00 +0900",
-      "source": "NHK 経済",
-      "score": 7,
-      "category": "政策・財政"
-    },
-    {
-      "title": "中国AIのKimi、米クロードに｢代理回答｣させる アンソロピックが指摘 - 日本経済新聞",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1YeGNUVldWcHhIc2tvQVEyT291Y3I5dUN0eDc3VDdXMjYxSUUzd1gzLVNEY2pqVkt3cDJfcmp0TVk3OTFfRUxkUFpDZVdGU0h4YnNOb1hCQS0tUjkxUHdSN1NUUnZ6OEl3OW85Vg?oc=5",
-      "published": "Mon, 21 Sep 2026 18:38:10 GMT",
+      "title": "米中晩さん会、GMやNVIDIAトップ出席 中国企業は参加せずと米報道 - 日本経済新聞",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE8zUkNHMlN3ZEFrUkJBNmEzbWFzZzIwZkRpWkJSMEpHdFlwNHJFQ1d6T2p1SURCRnh2ZmxiZjdJZlZDN0J3ZW9PU0NTRFdOcllFWElIU0VGODFIN0FESjV0UFgzRngwWl9YWUVsUg?oc=5",
+      "published": "Wed, 23 Sep 2026 19:36:50 GMT",
       "source": "Google News 日本経済",
       "score": 7,
       "category": "企業・産業"
     },
     {
-      "title": "［社説］ジャガイモの輸入解禁は科学的見地から - 日本経済新聞",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1YVy1VM0VpOE1mbk9NUm1vVVBLVnNmdVhzVzlwYzdFbVN5X0ZZWFI2SENibVFneU9RckFSSVZrZ016WTdzNnE4UjllX0IyUXpPNDN0emw1ODNuMlV0Nmk0dlV1Zi1rbnhrMXppbw?oc=5",
-      "published": "Mon, 21 Sep 2026 10:05:00 GMT",
+      "title": "ドイツで世界最大級の鉄道見本市 AIやロボット活用の最新技術",
+      "link": "https://news.web.nhk/newsweb/na/nd-20260923de52073",
+      "published": "Thu, 24 Sep 2026 04:10:00 +0900",
+      "source": "NHK 経済",
+      "score": 6,
+      "category": "企業・産業"
+    },
+    {
+      "title": "仏マクロン大統領 米中へのAI依存脱却へ協力の枠組み呼びかけ",
+      "link": "https://news.web.nhk/newsweb/na/nd-20260923de51978",
+      "published": "Wed, 23 Sep 2026 12:53:11 +0900",
+      "source": "NHK 経済",
+      "score": 6,
+      "category": "企業・産業"
+    },
+    {
+      "title": "「雇用なき成長」インド、データセンター誘致に期待 - 日本経済新聞",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE15aEFmRWdzUzJKdlhiZHhxZjgxbEIyeDB5RTFHS1NJc2tROHNETG1nMjI2SDlxdVhjMDhyWkUwM0ItdGllcm0xTVEtV1NuRnB3VmJ4RjVKMDQxaEkweThYMEN2eGNBSmNmeFNfNQ?oc=5",
+      "published": "Wed, 23 Sep 2026 20:00:00 GMT",
       "source": "Google News 日本経済",
       "score": 6,
+      "category": "景気・雇用"
+    },
+    {
+      "title": "ＳＣＲＥＥＮＨＤ－続伸 27年にインド進出 半導体製造装置の保守拠点を開設＝日経(トレーダーズ・ウェブ) - Yahoo!ファイナンス",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNTzFEVWtsS1VvV0Q3bWVlSC14bVNhTVZNY3dIRkNLblVNeTltVU5NSWJnRjNXVFJXUko0TEMxT3A4VlVCeUNpQ010YTdtZzF5eXpJd3BpLWN1MUJUbDAtUzdYX1MxYTVTcWdQWUEyOGFhLVNwT1h0OTF3bkhReDladUUyQWlKVm8?oc=5",
+      "published": "Thu, 24 Sep 2026 00:05:04 GMT",
+      "source": "Google News 日本経済",
+      "score": 5,
+      "category": "企業・産業"
+    },
+    {
+      "title": "ＤＭＧ森精機－反発 フィジカルAIのデータ、官民で収集＝日経(トレーダーズ・ウェブ) - Yahoo!ファイナンス",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNcFRpOXFoNkNpU3J0LW1WT09ON1ozeXhrVWJId09QdmlHaGItVFdKMlZqRUFXMlpWQk5PaG1XYU1JVGpCYXZLMmgwSEs2eG1QT285MHBlYm9DQmt5bGdXRmVBUlpIallXb29Ld0Q3NFV1S2gwdGxyNDY1cWtiR3pVT0JQODBLOWM?oc=5",
+      "published": "Thu, 24 Sep 2026 00:10:02 GMT",
+      "source": "Google News 日本経済",
+      "score": 4,
+      "category": "企業・産業"
+    },
+    {
+      "title": "ジャングリア沖縄 親会社が173億円余の赤字",
+      "link": "https://news.web.nhk/newsweb/na/nd-20260923de52050",
+      "published": "Thu, 24 Sep 2026 05:47:53 +0900",
+      "source": "NHK 経済",
+      "score": 2,
+      "category": "経済ニュース"
+    },
+    {
+      "title": "JCOM ネット接続サービス障害が復旧",
+      "link": "https://news.web.nhk/newsweb/na/nd-20260923de52037",
+      "published": "Wed, 23 Sep 2026 21:10:00 +0900",
+      "source": "NHK 経済",
+      "score": 2,
+      "category": "経済ニュース"
+    },
+    {
+      "title": "JCOMでネット接続サービスに障害",
+      "link": "https://news.web.nhk/newsweb/na/nd-20260923de52004",
+      "published": "Wed, 23 Sep 2026 16:17:00 +0900",
+      "source": "NHK 経済",
+      "score": 2,
       "category": "経済ニュース"
     },
     {
@@ -128,57 +160,9 @@
       "source": "NHK 経済",
       "score": 2,
       "category": "経済ニュース"
-    },
-    {
-      "title": "“投資の神様”バフェット氏会長退任「時の流れに逆らえない」",
-      "link": "https://news.web.nhk/newsweb/na/nd-20260919de51202",
-      "published": "Sat, 19 Sep 2026 08:23:00 +0900",
-      "source": "NHK 経済",
-      "score": 2,
-      "category": "経済ニュース"
-    },
-    {
-      "title": "コメ平均価格5キロ2971円 約2年ぶりに2000円台に",
-      "link": "https://news.web.nhk/newsweb/na/nd-20260918de51070",
-      "published": "Fri, 18 Sep 2026 20:39:00 +0900",
-      "source": "NHK 経済",
-      "score": 2,
-      "category": "経済ニュース"
-    },
-    {
-      "title": "［社説］ドイツは極右台頭に対応急げ - 日本経済新聞",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9lTFNHOGtTQTN3M0RYeWN1cnh0V0FwOUlDMDZaelc2blV4RjYySmVWdERsajdOcGhxMThRcUdVX3p2UWFmNFo5YnAtZFV1Z2dmN3JVREJxRHlJX1BWb2syMldVZWFyczB1WHhHaQ?oc=5",
-      "published": "Tue, 22 Sep 2026 10:00:00 GMT",
-      "source": "Google News 日本経済",
-      "score": -5,
-      "category": "経済ニュース"
-    },
-    {
-      "title": "「日本経済の大動脈を守る重要業務」 海上保安庁が管制官を募集（毎日新聞） - Yahoo!ニュース",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5OVlRrWnYxMjVLVTlJMDRMeUloOUJ4azQ2ZVc1Q2w4dElVdUw4dWdzSVczSi00QlZKdWZCMXNxc2dIbWxNbGhZbWp4Q0dJcnlpUmlkdlZnaUcxRkpEeW9sSHlIbjNHR2JhbHU5ZkpuOUVXdnZwUzkzOGFINU8tclE?oc=5",
-      "published": "Mon, 21 Sep 2026 21:45:21 GMT",
-      "source": "Google News 日本経済",
-      "score": -5,
-      "category": "経済ニュース"
     }
   ],
   "top_articles": [
-    {
-      "title": "日銀 どう物価安定図るか 今後の利上げも難しい判断",
-      "link": "https://news.web.nhk/newsweb/na/nd-20260919de51165",
-      "published": "Sat, 19 Sep 2026 05:45:00 +0900",
-      "source": "NHK 経済",
-      "score": 29,
-      "category": "金融政策"
-    },
-    {
-      "title": "円安進む 日銀利上げペース示唆せずの見方",
-      "link": "https://news.web.nhk/newsweb/na/nd-20260918de51089",
-      "published": "Fri, 18 Sep 2026 18:20:09 +0900",
-      "source": "NHK 経済",
-      "score": 29,
-      "category": "金融政策"
-    },
     {
       "title": "日銀 利上げ 専門家「今後も金利上昇続くこと見越して対応を」",
       "link": "https://news.web.nhk/newsweb/na/nd-20260919de51243",
@@ -186,6 +170,22 @@
       "source": "NHK 経済",
       "score": 21,
       "category": "金融政策"
+    },
+    {
+      "title": "TOPIX銘柄選定ルール見直し 企業価値高める動き広がるか",
+      "link": "https://news.web.nhk/newsweb/na/nd-20260923de52006",
+      "published": "Wed, 23 Sep 2026 17:27:00 +0900",
+      "source": "NHK 経済",
+      "score": 12,
+      "category": "企業・産業"
+    },
+    {
+      "title": "ダウ平均株価は下落もナスダック最高値更新 半導体に買い注文",
+      "link": "https://news.web.nhk/newsweb/na/nd-20260923de51940",
+      "published": "Wed, 23 Sep 2026 06:59:52 +0900",
+      "source": "NHK 経済",
+      "score": 12,
+      "category": "企業・産業"
     }
   ]
 }
