@@ -1,42 +1,50 @@
 {
-  "updated_at": "2026-09-24T00:19:38.294397+00:00",
+  "updated_at": "2026-09-25T00:22:24.997915+00:00",
   "articles": [
     {
-      "title": "日銀 利上げ 専門家「今後も金利上昇続くこと見越して対応を」",
-      "link": "https://news.web.nhk/newsweb/na/nd-20260919de51243",
-      "published": "Sat, 19 Sep 2026 19:32:29 +0900",
-      "source": "NHK 経済",
-      "score": 21,
+      "title": "円安止まらず一時159円台 ドル全面高、政府・日銀の介入に限界論 - 日本経済新聞",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE8yRng1LTV4VDRIYnBpS2tZUXYyUHNpWkFwcmdZLWhTc2czNW9SUW1mN0xBYkhOZHJFODNObUZUTXlueVloejEwOG5nRmhfTDdKLW9lWmhSX2prODNvaFhDa3o2WGwwTFhCaDVsaA?oc=5",
+      "published": "Thu, 24 Sep 2026 15:43:32 GMT",
+      "source": "Google News 日本経済",
+      "score": 23,
       "category": "金融政策"
     },
     {
-      "title": "TOPIX銘柄選定ルール見直し 企業価値高める動き広がるか",
-      "link": "https://news.web.nhk/newsweb/na/nd-20260923de52006",
-      "published": "Wed, 23 Sep 2026 17:27:00 +0900",
+      "title": "きょうのおはBiz 9月24日(木) 消費税減税とセットの新制度とは",
+      "link": "https://news.web.nhk/newsweb/na/nd-20260924de52108",
+      "published": "Thu, 24 Sep 2026 12:09:17 +0900",
       "source": "NHK 経済",
-      "score": 12,
-      "category": "企業・産業"
+      "score": 15,
+      "category": "政策・財政"
     },
     {
-      "title": "ダウ平均株価は下落もナスダック最高値更新 半導体に買い注文",
-      "link": "https://news.web.nhk/newsweb/na/nd-20260923de51940",
-      "published": "Wed, 23 Sep 2026 06:59:52 +0900",
-      "source": "NHK 経済",
-      "score": 12,
-      "category": "企業・産業"
-    },
-    {
-      "title": "日経平均株価、連休中の米ハイテク株上昇が追い風（先読み株式相場） - 日本経済新聞",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE0zdkRraGRXVjd2LTRYamMwYkFKQUdqcTBUVHlnTDNIb3dnMEhuUzlnQmlMZVVJaE5EZ2hrN3JMZ3c4WlpFb25xbXdkdl8tVFBHdENGUEcyanp0YnpmWmt4S21kcTNoOERpRUVmag?oc=5",
-      "published": "Wed, 23 Sep 2026 22:40:33 GMT",
+      "title": "日経平均、続伸で始まる AI・半導体関連に買い - 日本経済新聞",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE8tNWw2NXc5UWVXTlhFUzNFeUNhZmpEcGdLNGNHeXI1YklwbUVDSG9sWEhIWEpXb2lnczdlV0lzSlJhZzQxU2x3bzgyQkdqOFo1VVlDLXh6cF9kLXlGZUJiRlpZbHVBZG5ZVkpTSw?oc=5",
+      "published": "Fri, 25 Sep 2026 00:10:54 GMT",
       "source": "Google News 日本経済",
-      "score": 11,
-      "category": "経済ニュース"
+      "score": 15,
+      "category": "企業・産業"
+    },
+    {
+      "title": "日本経済：今年度の成長率は潜在成長率超えか 鍵は実質賃金のプラス維持 前田和孝 - 週刊エコノミスト Online",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFAtTW0xeDZjRkJLdXJQQl84M2xaTWo3RWJ2ZmZjUk90QkV4NWZqTldVeUVoWlBRRnhpLTJ2RlN3Q2NqTVU0UkNWYzlJQVFTWTdEX1BSa3lud3I1Z191a3hIZ2RrM3FwVThGVHQxNVJFdnZaMG1Hd24zTUFsOGtaNU0?oc=5",
+      "published": "Thu, 24 Sep 2026 15:41:38 GMT",
+      "source": "Google News 日本経済",
+      "score": 15,
+      "category": "物価・家計"
+    },
+    {
+      "title": "株価 値上がり 半導体関連の銘柄に買い注文",
+      "link": "https://news.web.nhk/newsweb/na/nd-20260924de52130",
+      "published": "Thu, 24 Sep 2026 16:01:45 +0900",
+      "source": "NHK 経済",
+      "score": 12,
+      "category": "企業・産業"
     },
     {
       "title": "OECD 物価上昇率予測 来年3.6％に引き上げ エネルギー高騰受け",
       "link": "https://news.web.nhk/newsweb/na/nd-20260924de52090",
-      "published": "Thu, 24 Sep 2026 08:50:07 +0900",
+      "published": "Thu, 24 Sep 2026 08:50:00 +0900",
       "source": "NHK 経済",
       "score": 10,
       "category": "物価・家計"
@@ -50,46 +58,6 @@
       "category": "為替・金利"
     },
     {
-      "title": "米新興AI企業 最新モデルを生命科学分野で提供 安全対策も",
-      "link": "https://news.web.nhk/newsweb/na/nd-20260919de51203",
-      "published": "Sat, 19 Sep 2026 08:26:00 +0900",
-      "source": "NHK 経済",
-      "score": 10,
-      "category": "企業・産業"
-    },
-    {
-      "title": "トランプ大統領 軽油の輸出禁止措置“政権内部に求めてきた”",
-      "link": "https://news.web.nhk/newsweb/na/nd-20260923de51939",
-      "published": "Wed, 23 Sep 2026 07:32:55 +0900",
-      "source": "NHK 経済",
-      "score": 8,
-      "category": "経済ニュース"
-    },
-    {
-      "title": "39年ぶりの円安水準 日本経済にとって必ずしも「悪い円安」ではないと考える理由 野村證券・森田京平 - nomura.co.jp",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1xRUNyRHlWUERjUm4xdm81VklqS1lEZE5uZHBkN2R3cF9yamZJT3R5RTRnOHF3b1otaXVfR2wtbXcxcTBvdW1IeHRXOFlPV1cwX0tkcXFEWjNrbkg5ZnIw?oc=5",
-      "published": "Fri, 18 Sep 2026 07:00:00 GMT",
-      "source": "Google News 日本経済",
-      "score": 8,
-      "category": "為替・金利"
-    },
-    {
-      "title": "NY株式市場 ナスダック株価指数 約3か月半ぶりに最高値を更新",
-      "link": "https://news.web.nhk/newsweb/na/nd-20260922de51819",
-      "published": "Tue, 22 Sep 2026 09:25:00 +0900",
-      "source": "NHK 経済",
-      "score": 7,
-      "category": "経済ニュース"
-    },
-    {
-      "title": "米中晩さん会、GMやNVIDIAトップ出席 中国企業は参加せずと米報道 - 日本経済新聞",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE8zUkNHMlN3ZEFrUkJBNmEzbWFzZzIwZkRpWkJSMEpHdFlwNHJFQ1d6T2p1SURCRnh2ZmxiZjdJZlZDN0J3ZW9PU0NTRFdOcllFWElIU0VGODFIN0FESjV0UFgzRngwWl9YWUVsUg?oc=5",
-      "published": "Wed, 23 Sep 2026 19:36:50 GMT",
-      "source": "Google News 日本経済",
-      "score": 7,
-      "category": "企業・産業"
-    },
-    {
       "title": "ドイツで世界最大級の鉄道見本市 AIやロボット活用の最新技術",
       "link": "https://news.web.nhk/newsweb/na/nd-20260923de52073",
       "published": "Thu, 24 Sep 2026 04:10:00 +0900",
@@ -98,65 +66,97 @@
       "category": "企業・産業"
     },
     {
-      "title": "仏マクロン大統領 米中へのAI依存脱却へ協力の枠組み呼びかけ",
-      "link": "https://news.web.nhk/newsweb/na/nd-20260923de51978",
-      "published": "Wed, 23 Sep 2026 12:53:11 +0900",
-      "source": "NHK 経済",
-      "score": 6,
-      "category": "企業・産業"
-    },
-    {
-      "title": "「雇用なき成長」インド、データセンター誘致に期待 - 日本経済新聞",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE15aEFmRWdzUzJKdlhiZHhxZjgxbEIyeDB5RTFHS1NJc2tROHNETG1nMjI2SDlxdVhjMDhyWkUwM0ItdGllcm0xTVEtV1NuRnB3VmJ4RjVKMDQxaEkweThYMEN2eGNBSmNmeFNfNQ?oc=5",
-      "published": "Wed, 23 Sep 2026 20:00:00 GMT",
-      "source": "Google News 日本経済",
-      "score": 6,
-      "category": "景気・雇用"
-    },
-    {
-      "title": "ＳＣＲＥＥＮＨＤ－続伸 27年にインド進出 半導体製造装置の保守拠点を開設＝日経(トレーダーズ・ウェブ) - Yahoo!ファイナンス",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNTzFEVWtsS1VvV0Q3bWVlSC14bVNhTVZNY3dIRkNLblVNeTltVU5NSWJnRjNXVFJXUko0TEMxT3A4VlVCeUNpQ010YTdtZzF5eXpJd3BpLWN1MUJUbDAtUzdYX1MxYTVTcWdQWUEyOGFhLVNwT1h0OTF3bkhReDladUUyQWlKVm8?oc=5",
-      "published": "Thu, 24 Sep 2026 00:05:04 GMT",
+      "title": "旭化成－続伸 営業益200億円上振れの公算 27.3期、半導体材料けん引＝日経(トレーダーズ・ウェブ) - Yahoo!ファイナンス",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOa2tyOVdwR0xIM1dJQXA0SDVtSlhuWkpmb0hURHVZN1RLdkkzSXhlYUJJdVZEZWpzSVBoWXpqcTZ4UGEtZVF1NDJ4Vl9RUGZnVFVJSXFnYWlRMG5vTC1xR2JUaXU2R1RWVHBKMHRpdHVCNGRKZHdnWGZVbW1CVERVNV9jT0dob0U?oc=5",
+      "published": "Fri, 25 Sep 2026 00:03:03 GMT",
       "source": "Google News 日本経済",
       "score": 5,
       "category": "企業・産業"
     },
     {
-      "title": "ＤＭＧ森精機－反発 フィジカルAIのデータ、官民で収集＝日経(トレーダーズ・ウェブ) - Yahoo!ファイナンス",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNcFRpOXFoNkNpU3J0LW1WT09ON1ozeXhrVWJId09QdmlHaGItVFdKMlZqRUFXMlpWQk5PaG1XYU1JVGpCYXZLMmgwSEs2eG1QT285MHBlYm9DQmt5bGdXRmVBUlpIallXb29Ld0Q3NFV1S2gwdGxyNDY1cWtiR3pVT0JQODBLOWM?oc=5",
-      "published": "Thu, 24 Sep 2026 00:10:02 GMT",
+      "title": "カドー[628A]の株価・株主優待など。 - 日本経済新聞",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5BaFQzU1VHdloxNVJyMGRjS2dJclFUOXZaRnd0YXZHSHB4RTZNN3NDOUc0MDNSQmFLQWZFOWVuMldzUXBScG9UNmhCOVN5Si1wUFVqSXBZdmNiQQ?oc=5",
+      "published": "Thu, 24 Sep 2026 23:03:00 GMT",
+      "source": "Google News 日本経済",
+      "score": 5,
+      "category": "経済ニュース"
+    },
+    {
+      "title": "レイヤード[634A]の株価・株主優待など。 - 日本経済新聞",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE11QjFtX04xMGg4OG1MX1o5WGVoRWdBMDVpMDNLTDQtOWYxSlpuSjFNazJJVldiOFkzdUJkcFZ2amdzTUxYbWF4ZFlzQkZpTGRTY0I5UzIzbUNJQQ?oc=5",
+      "published": "Thu, 24 Sep 2026 23:44:23 GMT",
+      "source": "Google News 日本経済",
+      "score": 5,
+      "category": "経済ニュース"
+    },
+    {
+      "title": "英語ポッドキャスト番組シーズン3第2回「日本経済の未来：高齢化、AI、そして自動化（政治経済学術院・金子昭彦教授）」配信開始 - waseda.jp",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5lYmtSMDk2eDByVUJfdEF3VHY2ZnFJX2JtaDFFVzVWQ3Y5THdaMmtuMUdLc3NWV05xUkRrYXMybHdZSHNFc0QzSlFYN0xJWmo2RXdUdTk3VC1Udw?oc=5",
+      "published": "Thu, 24 Sep 2026 05:47:10 GMT",
       "source": "Google News 日本経済",
       "score": 4,
       "category": "企業・産業"
     },
     {
-      "title": "ジャングリア沖縄 親会社が173億円余の赤字",
-      "link": "https://news.web.nhk/newsweb/na/nd-20260923de52050",
-      "published": "Thu, 24 Sep 2026 05:47:53 +0900",
+      "title": "ホンダが米国にHV新工場 オハイオ州で最終調整、4000億円規模投資 - 日本経済新聞",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBqck5BcEpXV3BoZUdwRXotWThYc2plTkhOOThnMG8xLW9jd1hvbG9zd29pNEQ0ZEZfdHFtdk1laXh1eWY0cUp3U1RtVUYxVzJrQXhDYzdtbjJPbDVYakN4TzZIMlloLTJzY0lDeg?oc=5",
+      "published": "Thu, 24 Sep 2026 02:43:23 GMT",
+      "source": "Google News 日本経済",
+      "score": 3,
+      "category": "経済ニュース"
+    },
+    {
+      "title": "［社説］米国のグリーンランド領有断念は当然だ - 日本経済新聞",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9hUGZLNTdBWkdVeVRCLWtJVDFaNmx3NWM3Z0lqa0xjckNFYmstaHQyazE5Q0dGLVpYUzI4WDQ1R3BvNWc2eGZUMXRyYWRCcmZPeDh3cWEtOVQzYVBGUG9aRF9hcDVnczVsUWZqZA?oc=5",
+      "published": "Thu, 24 Sep 2026 10:00:00 GMT",
+      "source": "Google News 日本経済",
+      "score": 3,
+      "category": "経済ニュース"
+    },
+    {
+      "title": "トヨタの次世代EV、主要部品は中国メーカー 現地日本勢の失注相次ぐ - 日本経済新聞",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9YVlZ3TzdSeGVYVW5SLVZBSmZoZVJPanFNSHI5UlBrNjdiUjRYcnpXTEcxVEFDVG90ay1qN0pGUm96ZU5TZVhSTGFPVVRBM28zYVhnMlAzenJoN0I0aEthMXlibTRyS1l2ZldnMQ?oc=5",
+      "published": "Thu, 24 Sep 2026 20:00:00 GMT",
+      "source": "Google News 日本経済",
+      "score": 3,
+      "category": "経済ニュース"
+    },
+    {
+      "title": "トランプ氏｢中国は大戦時の同盟国｣ 習氏の抗日歴史観に呼応の危うさ - 日本経済新聞",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9qdTlIUVhaU1pUMkxpeTJON05kTVFnSHdDd01rd2N3RDlMRVJBdERQbEROOGxaeUVxcWFlR0NJQlY2UVZfZ01TT0dITDNYSGxzSmVkM2RSM0dFQW90Y1BjT1paMEJHejUtNGItUg?oc=5",
+      "published": "Thu, 24 Sep 2026 20:51:51 GMT",
+      "source": "Google News 日本経済",
+      "score": 3,
+      "category": "経済ニュース"
+    },
+    {
+      "title": "円相場1ドル＝159円台に下落 米30年債利回り22年ぶり高水準",
+      "link": "https://news.web.nhk/newsweb/na/nd-20260925de52281",
+      "published": "Fri, 25 Sep 2026 05:55:07 +0900",
       "source": "NHK 経済",
       "score": 2,
       "category": "経済ニュース"
     },
     {
-      "title": "JCOM ネット接続サービス障害が復旧",
-      "link": "https://news.web.nhk/newsweb/na/nd-20260923de52037",
-      "published": "Wed, 23 Sep 2026 21:10:00 +0900",
+      "title": "災害時の支援物資管理など デジタル技術活用の動き",
+      "link": "https://news.web.nhk/newsweb/na/nd-20260925de52275",
+      "published": "Fri, 25 Sep 2026 05:27:24 +0900",
       "source": "NHK 経済",
       "score": 2,
       "category": "経済ニュース"
     },
     {
-      "title": "JCOMでネット接続サービスに障害",
-      "link": "https://news.web.nhk/newsweb/na/nd-20260923de52004",
-      "published": "Wed, 23 Sep 2026 16:17:00 +0900",
+      "title": "日中の経済交流正常化に向け 岩屋前外相率いる代表団が訪中へ",
+      "link": "https://news.web.nhk/newsweb/na/nd-20260924de52261",
+      "published": "Thu, 24 Sep 2026 22:02:16 +0900",
       "source": "NHK 経済",
       "score": 2,
       "category": "経済ニュース"
     },
     {
-      "title": "損壊したサウジアラビアのパイプライン操業再開と報道",
-      "link": "https://news.web.nhk/newsweb/na/nd-20260923de51932",
-      "published": "Wed, 23 Sep 2026 05:59:00 +0900",
+      "title": "コメの「需要に応じた生産」徹底を 自民が緊急決議文を提出",
+      "link": "https://news.web.nhk/newsweb/na/nd-20260924de52215",
+      "published": "Thu, 24 Sep 2026 18:48:00 +0900",
       "source": "NHK 経済",
       "score": 2,
       "category": "経済ニュース"
@@ -164,27 +164,27 @@
   ],
   "top_articles": [
     {
-      "title": "日銀 利上げ 専門家「今後も金利上昇続くこと見越して対応を」",
-      "link": "https://news.web.nhk/newsweb/na/nd-20260919de51243",
-      "published": "Sat, 19 Sep 2026 19:32:29 +0900",
-      "source": "NHK 経済",
-      "score": 21,
+      "title": "円安止まらず一時159円台 ドル全面高、政府・日銀の介入に限界論 - 日本経済新聞",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE8yRng1LTV4VDRIYnBpS2tZUXYyUHNpWkFwcmdZLWhTc2czNW9SUW1mN0xBYkhOZHJFODNObUZUTXlueVloejEwOG5nRmhfTDdKLW9lWmhSX2prODNvaFhDa3o2WGwwTFhCaDVsaA?oc=5",
+      "published": "Thu, 24 Sep 2026 15:43:32 GMT",
+      "source": "Google News 日本経済",
+      "score": 23,
       "category": "金融政策"
     },
     {
-      "title": "TOPIX銘柄選定ルール見直し 企業価値高める動き広がるか",
-      "link": "https://news.web.nhk/newsweb/na/nd-20260923de52006",
-      "published": "Wed, 23 Sep 2026 17:27:00 +0900",
+      "title": "きょうのおはBiz 9月24日(木) 消費税減税とセットの新制度とは",
+      "link": "https://news.web.nhk/newsweb/na/nd-20260924de52108",
+      "published": "Thu, 24 Sep 2026 12:09:17 +0900",
       "source": "NHK 経済",
-      "score": 12,
-      "category": "企業・産業"
+      "score": 15,
+      "category": "政策・財政"
     },
     {
-      "title": "ダウ平均株価は下落もナスダック最高値更新 半導体に買い注文",
-      "link": "https://news.web.nhk/newsweb/na/nd-20260923de51940",
-      "published": "Wed, 23 Sep 2026 06:59:52 +0900",
-      "source": "NHK 経済",
-      "score": 12,
+      "title": "日経平均、続伸で始まる AI・半導体関連に買い - 日本経済新聞",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE8tNWw2NXc5UWVXTlhFUzNFeUNhZmpEcGdLNGNHeXI1YklwbUVDSG9sWEhIWEpXb2lnczdlV0lzSlJhZzQxU2x3bzgyQkdqOFo1VVlDLXh6cF9kLXlGZUJiRlpZbHVBZG5ZVkpTSw?oc=5",
+      "published": "Fri, 25 Sep 2026 00:10:54 GMT",
+      "source": "Google News 日本経済",
+      "score": 15,
       "category": "企業・産業"
     }
   ]
