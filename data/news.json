@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-09-29T01:39:49.475962+00:00",
+  "updated_at": "2026-09-30T01:10:25.671976+00:00",
   "articles": [
     {
-      "title": "日銀 7月会合の議事要旨公表 “利上げペース加速”意見相次ぐ",
-      "link": "https://news.web.nhk/newsweb/na/nd-20260928de52787",
-      "published": "Mon, 28 Sep 2026 10:49:00 +0900",
-      "source": "NHK 経済",
-      "score": 21,
-      "category": "金融政策"
+      "title": "日経平均が３日ぶり大幅反発スタート、ＡＩや半導体関連に買い優勢＝３０日寄り付き 速報 - kabushiki.jp",
+      "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFBzMUJHRVgzTFA1VU9Nem56UTh3bldLSXJoalV2OFFlaGY2NUc5aGptXzJaSVo2ellYVFgyLWs1Q0szOUctdEg4?oc=5",
+      "published": "Wed, 30 Sep 2026 00:04:00 GMT",
+      "source": "Google News 日本経済",
+      "score": 11,
+      "category": "企業・産業"
     },
     {
       "title": "日経平均は6日ぶり反落、韓国株安受け半導体関連下落 - 日経CNBC online",
@@ -18,158 +18,158 @@
       "category": "企業・産業"
     },
     {
-      "title": "人型ロボット事業 中国に拠点開設や現地企業と協業の動き",
-      "link": "https://news.web.nhk/newsweb/na/nd-20260927de52740",
-      "published": "Mon, 28 Sep 2026 06:28:07 +0900",
+      "title": "原油の調達多角化に向け新法案 臨時国会に提出へ",
+      "link": "https://news.web.nhk/newsweb/na/nd-20260929de53226",
+      "published": "Wed, 30 Sep 2026 04:44:00 +0900",
       "source": "NHK 経済",
-      "score": 9,
-      "category": "企業・産業"
-    },
-    {
-      "title": "39年ぶりの円安水準 日本経済にとって必ずしも「悪い円安」ではないと考える理由 野村證券・森田京平 - nomura.co.jp",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1xRUNyRHlWUERjUm4xdm81VklqS1lEZE5uZHBkN2R3cF9yamZJT3R5RTRnOHF3b1otaXVfR2wtbXcxcTBvdW1IeHRXOFlPV1cwX0tkcXFEWjNrbkg5ZnIw?oc=5",
-      "published": "Fri, 25 Sep 2026 07:00:00 GMT",
-      "source": "Google News 日本経済",
       "score": 8,
-      "category": "為替・金利"
-    },
-    {
-      "title": "ニデック30日決算発表 巨額損失計上へ 岸田社長など交代検討",
-      "link": "https://news.web.nhk/newsweb/na/nd-20260928de52956",
-      "published": "Tue, 29 Sep 2026 06:23:00 +0900",
-      "source": "NHK 経済",
-      "score": 7,
-      "category": "企業・産業"
-    },
-    {
-      "title": "株価 値下がり 利益確定の売り注文広がる",
-      "link": "https://news.web.nhk/newsweb/na/nd-20260928de52817",
-      "published": "Mon, 28 Sep 2026 16:12:40 +0900",
-      "source": "NHK 経済",
-      "score": 7,
       "category": "経済ニュース"
     },
     {
-      "title": "10月1日こう変わる ビール系の税率統一、年収「106万円の壁」撤廃 - 日本経済新聞",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1WazlKZUxBNWdJaElsVU14OVZlM192U3FvVUpDS2lTT19tU1JfQWQ1cWJpM0VJOFRIc0l5NEFIeEVWQVg1b3FfTTdocGVUaDU4ckd3MGt4Y3BfRXRXc0hkMzZnbFh5WFRhWjhrZw?oc=5",
-      "published": "Mon, 28 Sep 2026 17:00:00 GMT",
+      "title": "サウジアラビア原油パイプライン 輸送能力半分まで回復 米報道",
+      "link": "https://news.web.nhk/newsweb/na/nd-20260929de53201",
+      "published": "Tue, 29 Sep 2026 21:36:00 +0900",
+      "source": "NHK 経済",
+      "score": 8,
+      "category": "経済ニュース"
+    },
+    {
+      "title": "電気料金が「過去最高」の水準へ この冬はどうなる？【Q＆A】",
+      "link": "https://news.web.nhk/newsweb/na/nd-20260929de52999",
+      "published": "Tue, 29 Sep 2026 18:13:00 +0900",
+      "source": "NHK 経済",
+      "score": 8,
+      "category": "物価・家計"
+    },
+    {
+      "title": "東証寄り付き 日経平均は反発 上げ幅1000円、太陽誘電とTDKに買い先行 - 日本経済新聞",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9vY3FacWJGUkhmRlg0cjdGeFpZbGpoVTZlMDNyRjNIN2lKWWJDX0IzbFlrUzhmeGxoR0sxSVVVV2lwbWFwaGYyUmY4clB4WkJLMWhra1dMY3VuNnlReTVjZmhkOVgyTERMODd3SA?oc=5",
+      "published": "Wed, 30 Sep 2026 00:29:11 GMT",
       "source": "Google News 日本経済",
       "score": 6,
-      "category": "政策・財政"
+      "category": "経済ニュース"
     },
     {
-      "title": "クラサスケミカル[646A]の株価・株主優待など。 - 日本経済新聞",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9QZmJ5UzFaUGpoM0ZNNHUwUWx3TG5aOUJadnVpWWhEYThWbEE2WWdQUzBXUUgwU0t0aHZtRnN5LURZaGhqZUdOUThpalZwV2Y1TEROMkp0eXBEQQ?oc=5",
-      "published": "Mon, 28 Sep 2026 23:56:04 GMT",
+      "title": "単身世帯が初の4割超え おひとりさま時代、社会保障や企業の対応遅れ - 日本経済新聞",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE42TlB2Ti1pVDBEai1JeFdJX1V6YWpQOFo1eWlIT1ZhMHYtaThzNHFIbHJQT3ltTGdELVZfSTNsVzZaWnVNcndUdzFIZTlURUtkZUZQX1A3bTRxMTFvcVVJMjZWdUpOdG5LSWw4Zg?oc=5",
+      "published": "Tue, 29 Sep 2026 10:30:00 GMT",
       "source": "Google News 日本経済",
-      "score": 5,
+      "score": 4,
+      "category": "企業・産業"
+    },
+    {
+      "title": "8月の鉱工業生産指数 前月を1.7％下回る",
+      "link": "https://news.web.nhk/newsweb/na/nd-20260930de53257",
+      "published": "Wed, 30 Sep 2026 10:01:15 +0900",
+      "source": "NHK 経済",
+      "score": 2,
       "category": "経済ニュース"
     },
     {
-      "title": "ニデック、株価ストップ安 「巨額減損損失の計上」報道で - 日本経済新聞",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFAxeGpYNHpmZGFWQjlfMHJVS093SEtRVU1idEtTZ1Zqd2h5cUI5ZUR6X1JUeEpSQkZuc3RMZXQ3VElwRUtQb1hLYlJSWVJBWVBQNnp6elEyQkhvN1hpNnlqNWJnbzZWSXAwYWQ3dQ?oc=5",
-      "published": "Mon, 28 Sep 2026 02:08:12 GMT",
+      "title": "ローソン 大雨による店舗の浸水対策で止水板の導入拡大へ",
+      "link": "https://news.web.nhk/newsweb/na/nd-20260929de53224",
+      "published": "Wed, 30 Sep 2026 04:52:23 +0900",
+      "source": "NHK 経済",
+      "score": 2,
+      "category": "経済ニュース"
+    },
+    {
+      "title": "ニデック 再建に向け電子部品子会社を売却へ 1000億円規模か",
+      "link": "https://news.web.nhk/newsweb/na/nd-20260930de53227",
+      "published": "Wed, 30 Sep 2026 01:21:10 +0900",
+      "source": "NHK 経済",
+      "score": 2,
+      "category": "経済ニュース"
+    },
+    {
+      "title": "三菱商事 カナダのLNG生産事業に追加投資",
+      "link": "https://news.web.nhk/newsweb/na/nd-20260929de53221",
+      "published": "Wed, 30 Sep 2026 01:15:00 +0900",
+      "source": "NHK 経済",
+      "score": 2,
+      "category": "経済ニュース"
+    },
+    {
+      "title": "YKK AP “経費不正の額は約1億3300万円”調査結果公表",
+      "link": "https://news.web.nhk/newsweb/na/nd-20260929de53211",
+      "published": "Tue, 29 Sep 2026 23:16:42 +0900",
+      "source": "NHK 経済",
+      "score": 2,
+      "category": "経済ニュース"
+    },
+    {
+      "title": "自動車各社の8月海外販売台数 8社中6社で去年同月を下回る",
+      "link": "https://news.web.nhk/newsweb/na/nd-20260929de53212",
+      "published": "Tue, 29 Sep 2026 22:27:21 +0900",
+      "source": "NHK 経済",
+      "score": 2,
+      "category": "経済ニュース"
+    },
+    {
+      "title": "関西電力の過大請求 経産省に再発防止策など報告",
+      "link": "https://news.web.nhk/newsweb/na/nd-20260929de53193",
+      "published": "Tue, 29 Sep 2026 20:42:00 +0900",
+      "source": "NHK 経済",
+      "score": 2,
+      "category": "経済ニュース"
+    },
+    {
+      "title": "円相場 売り買いが交錯して小幅な値動きに",
+      "link": "https://news.web.nhk/newsweb/na/nd-20260929de53176",
+      "published": "Tue, 29 Sep 2026 20:05:26 +0900",
+      "source": "NHK 経済",
+      "score": 2,
+      "category": "経済ニュース"
+    },
+    {
+      "title": "ニデック 岸田社長の辞任を発表 相次ぐ不祥事を受けて引責",
+      "link": "https://news.web.nhk/newsweb/na/nd-20260929de53189",
+      "published": "Tue, 29 Sep 2026 20:50:55 +0900",
+      "source": "NHK 経済",
+      "score": 2,
+      "category": "経済ニュース"
+    },
+    {
+      "title": "キャンディなど製造のサクマ製菓が金太郎飴本店を買収で合意",
+      "link": "https://news.web.nhk/newsweb/na/nd-20260929de53137",
+      "published": "Tue, 29 Sep 2026 17:47:00 +0900",
+      "source": "NHK 経済",
+      "score": 2,
+      "category": "経済ニュース"
+    },
+    {
+      "title": "中部電力の料金過大請求「社内の論理優先でミスを正せず」",
+      "link": "https://news.web.nhk/newsweb/na/nd-20260929de53114",
+      "published": "Tue, 29 Sep 2026 16:28:00 +0900",
+      "source": "NHK 経済",
+      "score": 2,
+      "category": "経済ニュース"
+    },
+    {
+      "title": "9月月例経済報告「緩やかに回復している」維持",
+      "link": "https://news.web.nhk/newsweb/na/nd-20260929de53103",
+      "published": "Tue, 29 Sep 2026 15:50:56 +0900",
+      "source": "NHK 経済",
+      "score": 2,
+      "category": "経済ニュース"
+    },
+    {
+      "title": "レタス1玉400円超、パニック級高値の恐れ 日照不足で供給減 - 日本経済新聞",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1mSXdTRVJxdUdCLXlsZkJiVzRtOGhWS2FJZG9CMkp2QktRZnJVVE1CYUpMWVJwa3RQZFZtRXdhc184VTYzRzBqYzhEdldOZHliR3ZVWUhCeEZaWjZFWXRLM3U1SHV2dW9TSGRxdw?oc=5",
+      "published": "Tue, 29 Sep 2026 02:00:00 GMT",
       "source": "Google News 日本経済",
-      "score": 5,
-      "category": "経済ニュース"
-    },
-    {
-      "title": "オーリーズ[637A]の株価・株主優待など。 - 日本経済新聞",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1fSllEOWdiV05UNmprMWRId0RZUXYzQi1aeUI2TDJ2SVVWcGM2VWNTNm9MRXg0UEFXcWNZVXlJSTJQN0x2ckgyNFphanJCcWRORDBRZFhWbE9Qdw?oc=5",
-      "published": "Mon, 28 Sep 2026 23:56:05 GMT",
-      "source": "Google News 日本経済",
-      "score": 5,
-      "category": "経済ニュース"
-    },
-    {
-      "title": "中国・大連、秋恒例の「日本商品展覧会」開催せず 関係冷え込み続く - 日本経済新聞",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9nbW9CSVVoVFRFa09uQXNKNUsxenV6MjF1TG8zNGtXa2tFMHRteXB1UFN4Tm5PaHpJN1hSTVJ4N1lCUWlqQUI3eGlCbGljNTlKSnMzVEdkbUl5OFhLTkNndjY2Mkg3NmlfUmhNVA?oc=5",
-      "published": "Tue, 29 Sep 2026 01:09:26 GMT",
-      "source": "Google News 日本経済",
-      "score": 3,
-      "category": "経済ニュース"
-    },
-    {
-      "title": "卵の卸売価格 年末にかけ例年より高い水準続く見通し",
-      "link": "https://news.web.nhk/newsweb/na/nd-20260928de52904",
-      "published": "Mon, 28 Sep 2026 19:07:00 +0900",
-      "source": "NHK 経済",
-      "score": 2,
-      "category": "経済ニュース"
-    },
-    {
-      "title": "熊本地震 日本製紙工場停止で取引先の仕事減少 地域経済に影響",
-      "link": "https://news.web.nhk/newsweb/na/nd-20260928de52860",
-      "published": "Mon, 28 Sep 2026 18:44:40 +0900",
-      "source": "NHK 経済",
-      "score": 2,
-      "category": "経済ニュース"
-    },
-    {
-      "title": "円相場 値上がり 日米当局が協調対応の可能性を意識",
-      "link": "https://news.web.nhk/newsweb/na/nd-20260928de52897",
-      "published": "Mon, 28 Sep 2026 18:18:16 +0900",
-      "source": "NHK 経済",
-      "score": 2,
-      "category": "経済ニュース"
-    },
-    {
-      "title": "パーク24 不正アクセスで会員の個人情報660万件漏えい",
-      "link": "https://news.web.nhk/newsweb/na/nd-20260928de52885",
-      "published": "Mon, 28 Sep 2026 17:32:00 +0900",
-      "source": "NHK 経済",
-      "score": 2,
-      "category": "経済ニュース"
-    },
-    {
-      "title": "航空業界 3人に1人が“カスハラ”被害 労働組合の調査",
-      "link": "https://news.web.nhk/newsweb/na/nd-20260928de52877",
-      "published": "Mon, 28 Sep 2026 16:28:00 +0900",
-      "source": "NHK 経済",
-      "score": 2,
-      "category": "経済ニュース"
-    },
-    {
-      "title": "東京23区 単身者向け賃貸マンション平均家賃 8月は過去最高に",
-      "link": "https://news.web.nhk/newsweb/na/nd-20260928de52847",
-      "published": "Mon, 28 Sep 2026 15:55:00 +0900",
-      "source": "NHK 経済",
-      "score": 2,
-      "category": "経済ニュース"
-    },
-    {
-      "title": "KDDIと日本郵便 郵便局にドローン常設へ 実証実験開始",
-      "link": "https://news.web.nhk/newsweb/na/nd-20260928de52850",
-      "published": "Mon, 28 Sep 2026 14:13:00 +0900",
-      "source": "NHK 経済",
-      "score": 2,
-      "category": "経済ニュース"
-    },
-    {
-      "title": "不正会計など不適切行為相次ぐ「ニデック」 社長ら交代検討",
-      "link": "https://news.web.nhk/newsweb/na/nd-20260928de52811",
-      "published": "Mon, 28 Sep 2026 13:17:00 +0900",
-      "source": "NHK 経済",
-      "score": 2,
-      "category": "経済ニュース"
-    },
-    {
-      "title": "【きょうのおはBiz 9月28日(月)】冷凍×介護食",
-      "link": "https://news.web.nhk/newsweb/na/nd-20260928de52786",
-      "published": "Mon, 28 Sep 2026 11:53:32 +0900",
-      "source": "NHK 経済",
-      "score": 2,
+      "score": -5,
       "category": "経済ニュース"
     }
   ],
   "top_articles": [
     {
-      "title": "日銀 7月会合の議事要旨公表 “利上げペース加速”意見相次ぐ",
-      "link": "https://news.web.nhk/newsweb/na/nd-20260928de52787",
-      "published": "Mon, 28 Sep 2026 10:49:00 +0900",
-      "source": "NHK 経済",
-      "score": 21,
-      "category": "金融政策"
+      "title": "日経平均が３日ぶり大幅反発スタート、ＡＩや半導体関連に買い優勢＝３０日寄り付き 速報 - kabushiki.jp",
+      "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFBzMUJHRVgzTFA1VU9Nem56UTh3bldLSXJoalV2OFFlaGY2NUc5aGptXzJaSVo2ellYVFgyLWs1Q0szOUctdEg4?oc=5",
+      "published": "Wed, 30 Sep 2026 00:04:00 GMT",
+      "source": "Google News 日本経済",
+      "score": 11,
+      "category": "企業・産業"
     },
     {
       "title": "日経平均は6日ぶり反落、韓国株安受け半導体関連下落 - 日経CNBC online",
@@ -180,12 +180,12 @@
       "category": "企業・産業"
     },
     {
-      "title": "人型ロボット事業 中国に拠点開設や現地企業と協業の動き",
-      "link": "https://news.web.nhk/newsweb/na/nd-20260927de52740",
-      "published": "Mon, 28 Sep 2026 06:28:07 +0900",
+      "title": "原油の調達多角化に向け新法案 臨時国会に提出へ",
+      "link": "https://news.web.nhk/newsweb/na/nd-20260929de53226",
+      "published": "Wed, 30 Sep 2026 04:44:00 +0900",
       "source": "NHK 経済",
-      "score": 9,
-      "category": "企業・産業"
+      "score": 8,
+      "category": "経済ニュース"
     }
   ]
 }
