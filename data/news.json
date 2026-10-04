@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-03T01:00:27.763473+00:00",
+  "updated_at": "2026-10-04T00:24:51.310057+00:00",
   "articles": [
     {
       "title": "日本経済指標【東京消費者物価指数】 - みんかぶ FX/為替",
@@ -13,14 +13,6 @@
       "title": "ユーロ圏 消費者物価9月は3.8％上昇 3年ぶりの高水準",
       "link": "https://news.web.nhk/newsweb/na/nd-20261002de53985",
       "published": "Fri, 02 Oct 2026 22:56:03 +0900",
-      "source": "NHK 経済",
-      "score": 19,
-      "category": "物価・家計"
-    },
-    {
-      "title": "東京23区の9月の消費者物価指数 前年同月比2.7％上昇",
-      "link": "https://news.web.nhk/newsweb/na/nd-20261002de53786",
-      "published": "Fri, 02 Oct 2026 13:45:00 +0900",
       "source": "NHK 経済",
       "score": 19,
       "category": "物価・家計"
@@ -60,10 +52,18 @@
     {
       "title": "日経平均株価の指数情報・推移 - Yahoo!ファイナンス",
       "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5SRDk1ZENIQUIzSUZyMHZRNHpCR2xlcTI5UTJRYXVoMDBrM3BmNndBT29vV0dDZWdQazZHb2tURGZNYy1OMU93R0kyUUZUT3VmU2VhbA?oc=5",
-      "published": "Fri, 02 Oct 2026 18:58:43 GMT",
+      "published": "Sat, 03 Oct 2026 20:04:41 GMT",
       "source": "Google News 日本経済",
       "score": 11,
       "category": "経済ニュース"
+    },
+    {
+      "title": "簗農相が熊本地震の被災地を視察 予算配分発言への言及避ける",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261003de54127",
+      "published": "Sat, 03 Oct 2026 23:55:47 +0900",
+      "source": "NHK 経済",
+      "score": 8,
+      "category": "政策・財政"
     },
     {
       "title": "焦点：AI需要、関連企業に恩恵 日本経済を底上げ 景況感6期連続改善 - 毎日新聞",
@@ -82,11 +82,27 @@
       "category": "企業・産業"
     },
     {
-      "title": "中国、高市首相を異例の呼び捨て 「日本首相」の呼称使わず敵視鮮明 - 日本経済新聞",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5EYmZSblRzcDlNNTlTc3NSVndHbDJnUy1oNmYxMEJNX2pLMmJlR0JxRkF6aS1hbmxXTWFZZ20yQVIydllWOVZFYm95WnV3R0xWbTR0RXFvWHNkRTVUM3NUVkVwVWpobEU5V245cA?oc=5",
-      "published": "Fri, 02 Oct 2026 03:14:00 GMT",
-      "source": "Google News 日本経済",
-      "score": 3,
+      "title": "初入閣 中司規制改革相に聞く",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261004de54163",
+      "published": "Sun, 04 Oct 2026 07:50:12 +0900",
+      "source": "NHK 経済",
+      "score": 2,
+      "category": "経済ニュース"
+    },
+    {
+      "title": "第一ライフに不正アクセス 12万人分の従業員情報が流出か",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261003de54037",
+      "published": "Sat, 03 Oct 2026 11:58:35 +0900",
+      "source": "NHK 経済",
+      "score": 2,
+      "category": "経済ニュース"
+    },
+    {
+      "title": "老舗の「パラマウント」と「ワーナー」の社名が買収で消失へ",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261003de54032",
+      "published": "Sat, 03 Oct 2026 11:17:00 +0900",
+      "source": "NHK 経済",
+      "score": 2,
       "category": "経済ニュース"
     },
     {
@@ -144,22 +160,6 @@
       "source": "NHK 経済",
       "score": 2,
       "category": "経済ニュース"
-    },
-    {
-      "title": "【きょうのおはBiz 10月2日(金)】東北3県 地方銀行 統合協議へ",
-      "link": "https://news.web.nhk/newsweb/na/nd-20261002de53795",
-      "published": "Fri, 02 Oct 2026 10:54:20 +0900",
-      "source": "NHK 経済",
-      "score": 2,
-      "category": "経済ニュース"
-    },
-    {
-      "title": "米長期金利 24年ぶりの高水準に 住宅ローンは7％台前半",
-      "link": "https://news.web.nhk/newsweb/na/nd-20261002de53787",
-      "published": "Fri, 02 Oct 2026 08:46:00 +0900",
-      "source": "NHK 経済",
-      "score": 2,
-      "category": "為替・金利"
     }
   ],
   "top_articles": [
@@ -180,11 +180,11 @@
       "category": "物価・家計"
     },
     {
-      "title": "東京23区の9月の消費者物価指数 前年同月比2.7％上昇",
-      "link": "https://news.web.nhk/newsweb/na/nd-20261002de53786",
-      "published": "Fri, 02 Oct 2026 13:45:00 +0900",
+      "title": "円相場 値上がり 原油先物価格の下落でドル売られる",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261002de53961",
+      "published": "Fri, 02 Oct 2026 20:48:38 +0900",
       "source": "NHK 経済",
-      "score": 19,
+      "score": 16,
       "category": "物価・家計"
     }
   ]
