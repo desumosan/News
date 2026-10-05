@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-04T00:24:51.310057+00:00",
+  "updated_at": "2026-10-05T00:36:31.402364+00:00",
   "articles": [
     {
       "title": "日本経済指標【東京消費者物価指数】 - みんかぶ FX/為替",
@@ -26,22 +26,6 @@
       "category": "物価・家計"
     },
     {
-      "title": "米雇用伸び悩み、連続利上げ観測しぼむ 10月据え置き予想8割に - 日本経済新聞",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBBbENFcDBwVXRWWFBTek1STkNKRlp5eU1QMF9rWEFzV21VMTVqTU5CX0c2bXJmNXBfd1NVWG1uMldkMjVUNmNPYnFFX2NWT2k2TWY3Q1dwNVQ3aFVmdFQxNDJmbUJ2dEV0eGkySw?oc=5",
-      "published": "Fri, 02 Oct 2026 18:32:11 GMT",
-      "source": "Google News 日本経済",
-      "score": 15,
-      "category": "金融政策"
-    },
-    {
-      "title": "株価 値下がり アメリカ雇用統計発表前に値上がり銘柄売る動き",
-      "link": "https://news.web.nhk/newsweb/na/nd-20261002de53831",
-      "published": "Fri, 02 Oct 2026 12:06:00 +0900",
-      "source": "NHK 経済",
-      "score": 13,
-      "category": "景気・雇用"
-    },
-    {
       "title": "アメリカ就業者数 市場予想大幅に下回る FRB利上げ観測が後退",
       "link": "https://news.web.nhk/newsweb/na/nd-20261003de53999",
       "published": "Sat, 03 Oct 2026 01:19:01 +0900",
@@ -50,12 +34,36 @@
       "category": "金融政策"
     },
     {
-      "title": "日経平均株価の指数情報・推移 - Yahoo!ファイナンス",
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5SRDk1ZENIQUIzSUZyMHZRNHpCR2xlcTI5UTJRYXVoMDBrM3BmNndBT29vV0dDZWdQazZHb2tURGZNYy1OMU93R0kyUUZUT3VmU2VhbA?oc=5",
-      "published": "Sat, 03 Oct 2026 20:04:41 GMT",
+      "title": "日経平均株価、反発で始まる 米株高が追い風 - nikkei.com",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBtdFdUckxrOFk1SzV5WXVQODdyMFdMZUV3bmVxNUJDUlk3akdlRGNfZTJINkU5OUc3MklhaGtabk5OQV9PcFQxQnBjZ1NLZUFFNXFtNFY1Y2V2NDA4LWh5U1lEQmo3ZHhJVTZ2cQ?oc=5",
+      "published": "Mon, 05 Oct 2026 00:05:38 GMT",
       "source": "Google News 日本経済",
       "score": 11,
       "category": "経済ニュース"
+    },
+    {
+      "title": "日経平均株価の指数情報・推移 - Yahoo!ファイナンス",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5SRDk1ZENIQUIzSUZyMHZRNHpCR2xlcTI5UTJRYXVoMDBrM3BmNndBT29vV0dDZWdQazZHb2tURGZNYy1OMU93R0kyUUZUT3VmU2VhbA?oc=5",
+      "published": "Sun, 04 Oct 2026 20:10:36 GMT",
+      "source": "Google News 日本経済",
+      "score": 11,
+      "category": "経済ニュース"
+    },
+    {
+      "title": "日経7万円トライ、米利上げ観測後退支え ＡＩ株買い継続＝今週の東京株式市場 - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQbVNYSDA4Qmc1NUpNLXlWZWFUaTFBdWI0TTJMUElqM244bnFMTk1nb0NyYUZDeGRGZHhpdzVvQnVxTU00MWVwMzVMLW9GQU5rRGlnZWE2b3dRMVZISjVUbURBLWlNbEkwaHUzQU1UTWp6WlpOMTZwTmY3S05lSjE5NU9GNEh1QQ?oc=5",
+      "published": "Sun, 04 Oct 2026 22:35:18 GMT",
+      "source": "Google News 日本経済",
+      "score": 9,
+      "category": "金融政策"
+    },
+    {
+      "title": "簗農相“予算カット”発言への言及避け「現場主義で対応」",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261004de54280",
+      "published": "Sun, 04 Oct 2026 20:33:54 +0900",
+      "source": "NHK 経済",
+      "score": 8,
+      "category": "政策・財政"
     },
     {
       "title": "簗農相が熊本地震の被災地を視察 予算配分発言への言及避ける",
@@ -66,11 +74,19 @@
       "category": "政策・財政"
     },
     {
-      "title": "焦点：AI需要、関連企業に恩恵 日本経済を底上げ 景況感6期連続改善 - 毎日新聞",
-      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBBODFmd2RKajBtWG9ORkZUUTFGREdYWnY2MTlYVUU5Tm5kZXNGZXhLZkVVTTZxN2VNNFNTZFpIWkZaQTd1aS1JelMtLW5sUktqSndfMTVKZ0hoc0ZBNm1hWEszcE5GemdE?oc=5",
-      "published": "Thu, 01 Oct 2026 17:00:48 GMT",
+      "title": "「円安で苦しい」トランプ発言招いた8カ月の不作為 次の壁は防衛費 - nikkei.com",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFAzMkt0V1M5Q1I1LUZpTFAyN0tIRmdlUm1jSU5LTW0zRWpyUmxHNVZLVUVYcGwxNV90RVphbU93cFhFNnJkRXI4eTlaWUtJMkhadWNGZWVDbzlUZ2VLamlwWkl0RTYzVjlOTElKaQ?oc=5",
+      "published": "Sat, 03 Oct 2026 20:00:00 GMT",
       "source": "Google News 日本経済",
       "score": 8,
+      "category": "為替・金利"
+    },
+    {
+      "title": "中東情勢の価格転嫁 中小企業の半数\"一部受け入れ\" 公取調査",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261004de54367",
+      "published": "Mon, 05 Oct 2026 07:00:52 +0900",
+      "source": "NHK 経済",
+      "score": 6,
       "category": "企業・産業"
     },
     {
@@ -80,6 +96,22 @@
       "source": "Google News 日本経済",
       "score": 4,
       "category": "企業・産業"
+    },
+    {
+      "title": "【日経解説】最高値更新の台湾株 AI特需は続くか【アジアスポットライト】 - テレ東BIZ",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE81bHpPcm5fX09hZkg2bjlwR2hwT3huNUpzYVN1b2hZYjFYWHNIWXJiS0hURE5weURuaEJwTVFSeWQ3SXZtZXRKckpXQXlnR3NxODdlRlVXclBZSWxtWThYYW1uLUJjQQ?oc=5",
+      "published": "Sun, 04 Oct 2026 22:05:00 GMT",
+      "source": "Google News 日本経済",
+      "score": 4,
+      "category": "企業・産業"
+    },
+    {
+      "title": "ジャガイモ 注目の「抵抗性品種」 食品大手で採用広がる",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261004de54271",
+      "published": "Sun, 04 Oct 2026 19:31:44 +0900",
+      "source": "NHK 経済",
+      "score": 2,
+      "category": "経済ニュース"
     },
     {
       "title": "初入閣 中司規制改革相に聞く",
@@ -125,38 +157,6 @@
       "title": "金融庁 プルデンシャル生命に業務停止命令を検討",
       "link": "https://news.web.nhk/newsweb/na/nd-20261002de53976",
       "published": "Fri, 02 Oct 2026 21:20:00 +0900",
-      "source": "NHK 経済",
-      "score": 2,
-      "category": "経済ニュース"
-    },
-    {
-      "title": "コメ価格は5キロ2926円に 7週連続で値下がり",
-      "link": "https://news.web.nhk/newsweb/na/nd-20261002de53967",
-      "published": "Fri, 02 Oct 2026 20:46:00 +0900",
-      "source": "NHK 経済",
-      "score": 2,
-      "category": "経済ニュース"
-    },
-    {
-      "title": "青森みちのく銀 岩手銀 秋田銀 経営統合の検討開始を表明",
-      "link": "https://news.web.nhk/newsweb/na/nd-20261002de53829",
-      "published": "Fri, 02 Oct 2026 18:35:00 +0900",
-      "source": "NHK 経済",
-      "score": 2,
-      "category": "経済ニュース"
-    },
-    {
-      "title": "簗農相が会見「国交省に問い合わせ 党支部会合で報告」",
-      "link": "https://news.web.nhk/newsweb/na/nd-20261002de53817",
-      "published": "Fri, 02 Oct 2026 19:10:00 +0900",
-      "source": "NHK 経済",
-      "score": 2,
-      "category": "経済ニュース"
-    },
-    {
-      "title": "飲酒乗務問題の東海汽船に20日間の船舶使用停止命令 国交省",
-      "link": "https://news.web.nhk/newsweb/na/nd-20261002de53794",
-      "published": "Fri, 02 Oct 2026 19:53:53 +0900",
       "source": "NHK 経済",
       "score": 2,
       "category": "経済ニュース"
