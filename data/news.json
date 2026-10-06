@@ -1,93 +1,77 @@
 {
-  "updated_at": "2026-10-05T00:36:31.402364+00:00",
+  "updated_at": "2026-10-06T02:08:19.657707+00:00",
   "articles": [
     {
-      "title": "日本経済指標【東京消費者物価指数】 - みんかぶ FX/為替",
-      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFA5RjRvaFpPeVVkb2ZQa3pfeXFlbFNWVE85NVhDbU9ZUnJSb0gydEt3QXNDbEJqbnZrZUlYLWM2YklPcHZ6Y1lmNw?oc=5",
-      "published": "Thu, 01 Oct 2026 23:30:29 GMT",
+      "title": "日本経済にとって円安と円高のどちらが良いか 「二匹目のどじょう」ならぬ「抹茶の二番煎じ」から考える 野村證券・岡崎康平 | NOMURA ウェルスタイル – 野村の投資＆マネーライフ - nomura.co.jp",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1jdUpKY2tHOVlvaVpqbk9UY0gzQ1U1NGdNQ2dnTXpWQTZ2SktTS1JxcFZkVHdkemJEMXRXamx6dENCZS10cjZHaDZnMlEzOHVMaE5pOTNEcjN1UFhiVXNv?oc=5",
+      "published": "Fri, 02 Oct 2026 07:00:00 GMT",
       "source": "Google News 日本経済",
-      "score": 25,
-      "category": "為替・金利"
-    },
-    {
-      "title": "ユーロ圏 消費者物価9月は3.8％上昇 3年ぶりの高水準",
-      "link": "https://news.web.nhk/newsweb/na/nd-20261002de53985",
-      "published": "Fri, 02 Oct 2026 22:56:03 +0900",
-      "source": "NHK 経済",
-      "score": 19,
-      "category": "物価・家計"
-    },
-    {
-      "title": "円相場 値上がり 原油先物価格の下落でドル売られる",
-      "link": "https://news.web.nhk/newsweb/na/nd-20261002de53961",
-      "published": "Fri, 02 Oct 2026 20:48:38 +0900",
-      "source": "NHK 経済",
       "score": 16,
-      "category": "物価・家計"
-    },
-    {
-      "title": "アメリカ就業者数 市場予想大幅に下回る FRB利上げ観測が後退",
-      "link": "https://news.web.nhk/newsweb/na/nd-20261003de53999",
-      "published": "Sat, 03 Oct 2026 01:19:01 +0900",
-      "source": "NHK 経済",
-      "score": 11,
-      "category": "金融政策"
-    },
-    {
-      "title": "日経平均株価、反発で始まる 米株高が追い風 - nikkei.com",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBtdFdUckxrOFk1SzV5WXVQODdyMFdMZUV3bmVxNUJDUlk3akdlRGNfZTJINkU5OUc3MklhaGtabk5OQV9PcFQxQnBjZ1NLZUFFNXFtNFY1Y2V2NDA4LWh5U1lEQmo3ZHhJVTZ2cQ?oc=5",
-      "published": "Mon, 05 Oct 2026 00:05:38 GMT",
-      "source": "Google News 日本経済",
-      "score": 11,
-      "category": "経済ニュース"
-    },
-    {
-      "title": "日経平均株価の指数情報・推移 - Yahoo!ファイナンス",
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5SRDk1ZENIQUIzSUZyMHZRNHpCR2xlcTI5UTJRYXVoMDBrM3BmNndBT29vV0dDZWdQazZHb2tURGZNYy1OMU93R0kyUUZUT3VmU2VhbA?oc=5",
-      "published": "Sun, 04 Oct 2026 20:10:36 GMT",
-      "source": "Google News 日本経済",
-      "score": 11,
-      "category": "経済ニュース"
-    },
-    {
-      "title": "日経7万円トライ、米利上げ観測後退支え ＡＩ株買い継続＝今週の東京株式市場 - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQbVNYSDA4Qmc1NUpNLXlWZWFUaTFBdWI0TTJMUElqM244bnFMTk1nb0NyYUZDeGRGZHhpdzVvQnVxTU00MWVwMzVMLW9GQU5rRGlnZWE2b3dRMVZISjVUbURBLWlNbEkwaHUzQU1UTWp6WlpOMTZwTmY3S05lSjE5NU9GNEh1QQ?oc=5",
-      "published": "Sun, 04 Oct 2026 22:35:18 GMT",
-      "source": "Google News 日本経済",
-      "score": 9,
-      "category": "金融政策"
-    },
-    {
-      "title": "簗農相“予算カット”発言への言及避け「現場主義で対応」",
-      "link": "https://news.web.nhk/newsweb/na/nd-20261004de54280",
-      "published": "Sun, 04 Oct 2026 20:33:54 +0900",
-      "source": "NHK 経済",
-      "score": 8,
-      "category": "政策・財政"
-    },
-    {
-      "title": "簗農相が熊本地震の被災地を視察 予算配分発言への言及避ける",
-      "link": "https://news.web.nhk/newsweb/na/nd-20261003de54127",
-      "published": "Sat, 03 Oct 2026 23:55:47 +0900",
-      "source": "NHK 経済",
-      "score": 8,
-      "category": "政策・財政"
-    },
-    {
-      "title": "「円安で苦しい」トランプ発言招いた8カ月の不作為 次の壁は防衛費 - nikkei.com",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFAzMkt0V1M5Q1I1LUZpTFAyN0tIRmdlUm1jSU5LTW0zRWpyUmxHNVZLVUVYcGwxNV90RVphbU93cFhFNnJkRXI4eTlaWUtJMkhadWNGZWVDbzlUZ2VLamlwWkl0RTYzVjlOTElKaQ?oc=5",
-      "published": "Sat, 03 Oct 2026 20:00:00 GMT",
-      "source": "Google News 日本経済",
-      "score": 8,
       "category": "為替・金利"
     },
     {
-      "title": "中東情勢の価格転嫁 中小企業の半数\"一部受け入れ\" 公取調査",
-      "link": "https://news.web.nhk/newsweb/na/nd-20261004de54367",
-      "published": "Mon, 05 Oct 2026 07:00:52 +0900",
+      "title": "焦点は“食料品の消費税減税” 臨時国会が召集",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261005de54878",
+      "published": "Mon, 05 Oct 2026 22:15:00 +0900",
       "source": "NHK 経済",
-      "score": 6,
+      "score": 15,
+      "category": "政策・財政"
+    },
+    {
+      "title": "［社説］首相演説は減税財源も熟議も道筋見えぬ - 日本経済新聞",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5VYU9TcEx2Wm5YWUlhcElFdnYwMHdvNzJOZ1BCZk5PdHZqN1NURlZyTEdTc01hd1lWeFl2dVVsdV95czZlTnFFSXdDWVRLaHJoMUVZTkR5TFRZU1BxOUhzMFphblZzVUhfd1dYRA?oc=5",
+      "published": "Mon, 05 Oct 2026 10:05:00 GMT",
+      "source": "Google News 日本経済",
+      "score": 13,
+      "category": "政策・財政"
+    },
+    {
+      "title": "日経平均反発、一時7万円台 半導体株買われアドバンテスト上場来高値 - online.nikkei-cnbc.co.jp",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBDNzJjY3B2ellnd1pTWEd1bC1IcWF3eGhqZUZBZmVOV2xyblJPVUhkOTQzM2lVRUVndVVsbFE0U1JPSExwSTlwaXViUG9KXy13TmpXWA?oc=5",
+      "published": "Mon, 05 Oct 2026 07:07:00 GMT",
+      "source": "Google News 日本経済",
+      "score": 11,
       "category": "企業・産業"
+    },
+    {
+      "title": "簗農相 地元の道路“予算カット”発言撤回 「深く反省」陳謝",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261005de54586",
+      "published": "Mon, 05 Oct 2026 21:56:18 +0900",
+      "source": "NHK 経済",
+      "score": 8,
+      "category": "政策・財政"
+    },
+    {
+      "title": "ラピダス 半導体設計17社と連携 量産へ受注目指す",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261005de54694",
+      "published": "Mon, 05 Oct 2026 17:21:00 +0900",
+      "source": "NHK 経済",
+      "score": 7,
+      "category": "企業・産業"
+    },
+    {
+      "title": "株価 取り引き時間中 3か月ぶりに7万円台回復",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261005de54437",
+      "published": "Mon, 05 Oct 2026 16:00:00 +0900",
+      "source": "NHK 経済",
+      "score": 7,
+      "category": "経済ニュース"
+    },
+    {
+      "title": "原田喜美枝 教授が日本経済新聞社・日本経済研究センター主催「景気討論会」に登壇しました | - chuo-u.ac.jp",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBSeWplZ1lHTkRYTlF0TmYtcC1uZmtMN1Z1Z01WWG9vUmJ2MnBOa1J1Y1VKSHdUenRlTmJUUmFwQld5MHc0QWIycTg3WGFkVWhFRVNBZV9BZnY0emwtdXhoRldwRGwycjBsRXFlSjctZjlEdU5nQklxRkE1WldKZw?oc=5",
+      "published": "Mon, 05 Oct 2026 14:22:38 GMT",
+      "source": "Google News 日本経済",
+      "score": 7,
+      "category": "景気・雇用"
+    },
+    {
+      "title": "日経平均終値6万9946円、一時7万円台 アドバンテストがけん引 - 日本経済新聞",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9STktUcGl0MUl1ZVIteTR1RWN0ZlZBdW9VTVFKNWdKbmRVVHdmYWlKWEpZRk9RVXJyYzJyc1dhWDlVN1J2NlJwOHU5YURTbmR1SFF6VkNxd1djYkdSWVVua0ZtbkstMlNHY0k2cg?oc=5",
+      "published": "Mon, 05 Oct 2026 02:45:42 GMT",
+      "source": "Google News 日本経済",
+      "score": 6,
+      "category": "経済ニュース"
     },
     {
       "title": "日本経済の“最大の問題”は、「財政の赤字」ではなく「企業の黒字」である - ダイヤモンド・オンライン",
@@ -98,65 +82,81 @@
       "category": "企業・産業"
     },
     {
-      "title": "【日経解説】最高値更新の台湾株 AI特需は続くか【アジアスポットライト】 - テレ東BIZ",
-      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE81bHpPcm5fX09hZkg2bjlwR2hwT3huNUpzYVN1b2hZYjFYWHNIWXJiS0hURE5weURuaEJwTVFSeWQ3SXZtZXRKckpXQXlnR3NxODdlRlVXclBZSWxtWThYYW1uLUJjQQ?oc=5",
-      "published": "Sun, 04 Oct 2026 22:05:00 GMT",
-      "source": "Google News 日本経済",
-      "score": 4,
-      "category": "企業・産業"
-    },
-    {
-      "title": "ジャガイモ 注目の「抵抗性品種」 食品大手で採用広がる",
-      "link": "https://news.web.nhk/newsweb/na/nd-20261004de54271",
-      "published": "Sun, 04 Oct 2026 19:31:44 +0900",
+      "title": "GMOグループ会社に不正アクセス 会員の個人情報94万件余流出か",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261006de55007",
+      "published": "Tue, 06 Oct 2026 11:00:22 +0900",
       "source": "NHK 経済",
       "score": 2,
       "category": "経済ニュース"
     },
     {
-      "title": "初入閣 中司規制改革相に聞く",
-      "link": "https://news.web.nhk/newsweb/na/nd-20261004de54163",
-      "published": "Sun, 04 Oct 2026 07:50:12 +0900",
+      "title": "ナスダックが最高値更新 長期金利上昇でもハイテク銘柄に買い",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261006de54963",
+      "published": "Tue, 06 Oct 2026 06:09:00 +0900",
+      "source": "NHK 経済",
+      "score": 2,
+      "category": "為替・金利"
+    },
+    {
+      "title": "日豪財務相が会談 新たな対話の枠組みを立ち上げへ",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261005de54890",
+      "published": "Mon, 05 Oct 2026 21:03:28 +0900",
       "source": "NHK 経済",
       "score": 2,
       "category": "経済ニュース"
     },
     {
-      "title": "第一ライフに不正アクセス 12万人分の従業員情報が流出か",
-      "link": "https://news.web.nhk/newsweb/na/nd-20261003de54037",
-      "published": "Sat, 03 Oct 2026 11:58:35 +0900",
+      "title": "日豪経済会議 重要鉱物の安定供給など議論",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261005de54885",
+      "published": "Mon, 05 Oct 2026 20:49:27 +0900",
       "source": "NHK 経済",
       "score": 2,
       "category": "経済ニュース"
     },
     {
-      "title": "老舗の「パラマウント」と「ワーナー」の社名が買収で消失へ",
-      "link": "https://news.web.nhk/newsweb/na/nd-20261003de54032",
-      "published": "Sat, 03 Oct 2026 11:17:00 +0900",
+      "title": "大起水産 不正アクセスで約17万5000人分の個人情報漏えいか",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261005de54848",
+      "published": "Mon, 05 Oct 2026 19:44:18 +0900",
       "source": "NHK 経済",
       "score": 2,
       "category": "経済ニュース"
     },
     {
-      "title": "テスラ 世界の新車販売台数減少“去年の駆け込み需要の反動”",
-      "link": "https://news.web.nhk/newsweb/na/nd-20261003de54014",
-      "published": "Sat, 03 Oct 2026 08:16:42 +0900",
+      "title": "円相場 小幅な値動き",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261005de54797",
+      "published": "Mon, 05 Oct 2026 18:31:28 +0900",
       "source": "NHK 経済",
       "score": 2,
       "category": "経済ニュース"
     },
     {
-      "title": "三菱重工 下関の市有地取得 工場新設へ 造船業の競争力強化で",
-      "link": "https://news.web.nhk/newsweb/na/nd-20261003de54009",
-      "published": "Sat, 03 Oct 2026 05:35:31 +0900",
+      "title": "船舶使用停止命令の東海汽船 社長の山崎氏 辞任し顧問に就任へ",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261005de54783",
+      "published": "Mon, 05 Oct 2026 18:24:14 +0900",
       "source": "NHK 経済",
       "score": 2,
       "category": "経済ニュース"
     },
     {
-      "title": "金融庁 プルデンシャル生命に業務停止命令を検討",
-      "link": "https://news.web.nhk/newsweb/na/nd-20261002de53976",
-      "published": "Fri, 02 Oct 2026 21:20:00 +0900",
+      "title": "「焼肉きんぐ」運営会社 1000万件余のユーザー情報が漏えい",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261005de54760",
+      "published": "Mon, 05 Oct 2026 19:13:08 +0900",
+      "source": "NHK 経済",
+      "score": 2,
+      "category": "経済ニュース"
+    },
+    {
+      "title": "【きょうのおはBiz 10月5日(月)】最新オフィスの形とは",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261005de54426",
+      "published": "Mon, 05 Oct 2026 15:41:28 +0900",
+      "source": "NHK 経済",
+      "score": 2,
+      "category": "経済ニュース"
+    },
+    {
+      "title": "大和証券 委託先サーバー不正アクセス 個人情報11万人分流出か",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261005de54568",
+      "published": "Mon, 05 Oct 2026 15:24:00 +0900",
       "source": "NHK 経済",
       "score": 2,
       "category": "経済ニュース"
@@ -164,28 +164,28 @@
   ],
   "top_articles": [
     {
-      "title": "日本経済指標【東京消費者物価指数】 - みんかぶ FX/為替",
-      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFA5RjRvaFpPeVVkb2ZQa3pfeXFlbFNWVE85NVhDbU9ZUnJSb0gydEt3QXNDbEJqbnZrZUlYLWM2YklPcHZ6Y1lmNw?oc=5",
-      "published": "Thu, 01 Oct 2026 23:30:29 GMT",
+      "title": "日本経済にとって円安と円高のどちらが良いか 「二匹目のどじょう」ならぬ「抹茶の二番煎じ」から考える 野村證券・岡崎康平 | NOMURA ウェルスタイル – 野村の投資＆マネーライフ - nomura.co.jp",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1jdUpKY2tHOVlvaVpqbk9UY0gzQ1U1NGdNQ2dnTXpWQTZ2SktTS1JxcFZkVHdkemJEMXRXamx6dENCZS10cjZHaDZnMlEzOHVMaE5pOTNEcjN1UFhiVXNv?oc=5",
+      "published": "Fri, 02 Oct 2026 07:00:00 GMT",
       "source": "Google News 日本経済",
-      "score": 25,
+      "score": 16,
       "category": "為替・金利"
     },
     {
-      "title": "ユーロ圏 消費者物価9月は3.8％上昇 3年ぶりの高水準",
-      "link": "https://news.web.nhk/newsweb/na/nd-20261002de53985",
-      "published": "Fri, 02 Oct 2026 22:56:03 +0900",
+      "title": "焦点は“食料品の消費税減税” 臨時国会が召集",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261005de54878",
+      "published": "Mon, 05 Oct 2026 22:15:00 +0900",
       "source": "NHK 経済",
-      "score": 19,
-      "category": "物価・家計"
+      "score": 15,
+      "category": "政策・財政"
     },
     {
-      "title": "円相場 値上がり 原油先物価格の下落でドル売られる",
-      "link": "https://news.web.nhk/newsweb/na/nd-20261002de53961",
-      "published": "Fri, 02 Oct 2026 20:48:38 +0900",
-      "source": "NHK 経済",
-      "score": 16,
-      "category": "物価・家計"
+      "title": "［社説］首相演説は減税財源も熟議も道筋見えぬ - 日本経済新聞",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5VYU9TcEx2Wm5YWUlhcElFdnYwMHdvNzJOZ1BCZk5PdHZqN1NURlZyTEdTc01hd1lWeFl2dVVsdV95czZlTnFFSXdDWVRLaHJoMUVZTkR5TFRZU1BxOUhzMFphblZzVUhfd1dYRA?oc=5",
+      "published": "Mon, 05 Oct 2026 10:05:00 GMT",
+      "source": "Google News 日本経済",
+      "score": 13,
+      "category": "政策・財政"
     }
   ]
 }
