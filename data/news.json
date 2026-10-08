@@ -1,37 +1,37 @@
 {
-  "updated_at": "2026-10-07T01:18:53.929120+00:00",
+  "updated_at": "2026-10-08T01:40:15.249130+00:00",
   "articles": [
     {
-      "title": "日銀植田総裁 物価上振れリスク警戒しながら利上げ進める考え",
-      "link": "https://news.web.nhk/newsweb/na/nd-20261006de55495",
-      "published": "Tue, 06 Oct 2026 19:55:47 +0900",
+      "title": "高市首相“消費税減税 最善の方法”“道路予算 適切配分徹底”",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261007de55662",
+      "published": "Wed, 07 Oct 2026 18:21:24 +0900",
       "source": "NHK 経済",
-      "score": 29,
+      "score": 21,
+      "category": "政策・財政"
+    },
+    {
+      "title": "FRB利上げ インフレ上振れに警戒感 多くが追加利上げ支持",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261008de56230",
+      "published": "Thu, 08 Oct 2026 07:06:59 +0900",
+      "source": "NHK 経済",
+      "score": 19,
       "category": "金融政策"
     },
     {
-      "title": "日本経済指標（実質賃金） - みんかぶ",
-      "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE80UTFTcWV4cExfOGItUHkzOGJnTm1VOG04T3hpN3VRNHJ0TEdrZHVwZ21iaXNiWVdkODR3LTZPanRLVGZwOUE?oc=5",
-      "published": "Tue, 06 Oct 2026 23:40:00 GMT",
-      "source": "Google News 日本経済",
-      "score": 15,
-      "category": "物価・家計"
+      "title": "8月の景気動向指数 前月比1.9ポイント低下 6か月ぶりに低下",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261007de55893",
+      "published": "Wed, 07 Oct 2026 16:37:43 +0900",
+      "source": "NHK 経済",
+      "score": 17,
+      "category": "景気・雇用"
     },
     {
-      "title": "政府・日銀、銀行の融資データ外部開放 社外秘の金利など政策に反映 - 日本経済新聞",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5BWl92WlRDZ2UxM0JEOWltUGdpa2I4Y01iZkpOZlFuLThiUzFnUERBTGZtNHdndzAxcTZYYkdkemF4c2wzOG9wd0RmNU1vOGFtSGJGV3NhZ0R1SWJkbHNPVTd3OENDU2tEaWZYUA?oc=5",
-      "published": "Tue, 06 Oct 2026 17:00:00 GMT",
-      "source": "Google News 日本経済",
-      "score": 15,
-      "category": "金融政策"
-    },
-    {
-      "title": "日経平均株価、反落で始まる 利益確定売り先行 - 日本経済新聞",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5Ja2ZSRWpPLXlWSzdVSTdaVW11SWVrOW1FaXNKcURETk91SWdJQ0V1REdIQkJrSlVxMno4dUE4QUVNcTMtOGNuYnVTVlQzMUlWbnFENTFYeDY0cmpLRmU4eDVmSXlaNXo4RlNJdg?oc=5",
-      "published": "Wed, 07 Oct 2026 00:09:00 GMT",
-      "source": "Google News 日本経済",
+      "title": "インド中央銀行が3年8か月ぶり利上げ 中東情勢背景に",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261007de56183",
+      "published": "Wed, 07 Oct 2026 23:58:00 +0900",
+      "source": "NHK 経済",
       "score": 11,
-      "category": "経済ニュース"
+      "category": "金融政策"
     },
     {
       "title": "日経平均反発、一時7万円台 半導体株買われアドバンテスト上場来高値 - 日経CNBC online",
@@ -44,119 +44,119 @@
     {
       "title": "日経平均株価の指数情報・推移 - Yahoo!ファイナンス",
       "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5SRDk1ZENIQUIzSUZyMHZRNHpCR2xlcTI5UTJRYXVoMDBrM3BmNndBT29vV0dDZWdQazZHb2tURGZNYy1OMU93R0kyUUZUT3VmU2VhbA?oc=5",
-      "published": "Tue, 06 Oct 2026 20:21:09 GMT",
+      "published": "Wed, 07 Oct 2026 20:28:27 GMT",
       "source": "Google News 日本経済",
       "score": 11,
       "category": "経済ニュース"
     },
     {
-      "title": "ふるさと納税「越前がに」不正表示 提供会社にも措置命令",
-      "link": "https://news.web.nhk/newsweb/na/nd-20261006de55496",
-      "published": "Tue, 06 Oct 2026 19:58:01 +0900",
+      "title": "TOPIX改革で構成銘柄が変更 銘柄数は大きく減少へ",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261007de56177",
+      "published": "Wed, 07 Oct 2026 23:54:00 +0900",
       "source": "NHK 経済",
       "score": 8,
-      "category": "政策・財政"
-    },
-    {
-      "title": "川崎重工、ロボット企業へトランスフォーム 全事業にフィジカルAI - 日本経済新聞",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1lLXpsRnhyb1dUaWR3akp6czg2Z1pOUTFkbHhJMHZ3TkVISlVWT0RCbnhsSFZfWHF0OVR6SXR5YXk4cDV3T0xtRkx3VjItaS1rVk1EVlZZUmhaZlRBNGg1TWlLVzlSRFBkZ2lWcw?oc=5",
-      "published": "Tue, 06 Oct 2026 08:11:14 GMT",
-      "source": "Google News 日本経済",
-      "score": 8,
-      "category": "企業・産業"
-    },
-    {
-      "title": "株価 値上がり 終値約3か月ぶりに7万円台回復",
-      "link": "https://news.web.nhk/newsweb/na/nd-20261006de55526",
-      "published": "Tue, 06 Oct 2026 20:48:39 +0900",
-      "source": "NHK 経済",
-      "score": 7,
       "category": "経済ニュース"
     },
     {
-      "title": "ニューヨーク株式市場でS＆P500が最高値更新 AI関連銘柄に買い",
-      "link": "https://news.web.nhk/newsweb/na/nd-20261007de55633",
-      "published": "Wed, 07 Oct 2026 07:56:12 +0900",
+      "title": "日本経済指標【国際収支】 - みんかぶ FX/為替",
+      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5WbmFZV193cDhTa1U4SjdvS3lPZm5SaVpjRTJMTXRJQVJITUI1ekV6cHQ2amZZa25yazNCdmVOQlRRQmhRZE9aTA?oc=5",
+      "published": "Wed, 07 Oct 2026 23:52:29 GMT",
+      "source": "Google News 日本経済",
+      "score": 8,
+      "category": "為替・金利"
+    },
+    {
+      "title": "国債バブルは続くのか - 日本経済新聞",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5JMEdkek81aWx0Z0Q2dGR4RS1URXp2dkZnb1Rta3ppSkl6dnJ0N0RWUnhKUWtCcW1KM0ZaY0pGdEtTQnliX1ZTbU44N0pLbzZ0emZ4SXJGSnlXVGc3bjhzSjhaMnNFRGF4dV9jdg?oc=5",
+      "published": "Wed, 07 Oct 2026 17:00:00 GMT",
+      "source": "Google News 日本経済",
+      "score": 7,
+      "category": "為替・金利"
+    },
+    {
+      "title": "“AI主権”のあり方は シンガポールで大規模な国際会議",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261007de56122",
+      "published": "Wed, 07 Oct 2026 19:56:00 +0900",
       "source": "NHK 経済",
       "score": 6,
       "category": "企業・産業"
     },
     {
-      "title": "フィジカルAI 日立とファナックなど大手連携の開発相次ぐ",
-      "link": "https://news.web.nhk/newsweb/na/nd-20261006de55581",
-      "published": "Wed, 07 Oct 2026 06:03:40 +0900",
-      "source": "NHK 経済",
+      "title": "東証10時 日経平均、下げ幅一時800円強 ソフトバンクGに売り - 日本経済新聞",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5YV0xpWnhpbGpBV2ZMZVlNZVc4M1ZqQzB0Z3REcExobFl2eFFyQkhhTEF3XzQ4X2pXbVk0WFM0ajVzWGVkSFlnV2VkS0lwaGFoTVFjRlA2UlFqcU9DaHowOE1RZDU2Q3lNQjdXMg?oc=5",
+      "published": "Thu, 08 Oct 2026 01:14:50 GMT",
+      "source": "Google News 日本経済",
       "score": 6,
-      "category": "企業・産業"
+      "category": "経済ニュース"
     },
     {
-      "title": "企業への不正アクセス被害相次ぐ 個人情報の大規模流出も",
-      "link": "https://news.web.nhk/newsweb/na/nd-20261006de55532",
-      "published": "Tue, 06 Oct 2026 20:53:33 +0900",
-      "source": "NHK 経済",
-      "score": 6,
-      "category": "企業・産業"
-    },
-    {
-      "title": "川崎重工 造船向けのフィジカルAI活用ロボット 試作機を公開",
-      "link": "https://news.web.nhk/newsweb/na/nd-20261006de55161",
-      "published": "Tue, 06 Oct 2026 19:49:00 +0900",
-      "source": "NHK 経済",
-      "score": 6,
-      "category": "企業・産業"
-    },
-    {
-      "title": "ＴＯＷＡ－3日続伸 国内に半導体製造装置の新工場＝日経(トレーダーズ・ウェブ) - Yahoo!ファイナンス",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQeFVoOXllSHNVbjFZVmdnYjF3WFRlRG4tODg5RHlZVXZZeUtJZ0R5ZlhOWFFfNjRCWGJBZFdBcTdjam4zNVJYMmVqZzF5M1EyM1NjSFBtRm04cXdtR0FLMGpxS1c4X1FqcGpVcjhqMUhIeS1wRjJLZ2hST1RQNGM5NnR4akI5am8?oc=5",
-      "published": "Wed, 07 Oct 2026 00:06:04 GMT",
+      "title": "デジタルベリー[645A]の株価・株主優待など。 - 日本経済新聞",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9iRXdzcm5Wc0prSUlXbi12R1RwYURVdlFnTFNuSU1zVTRpQzhtNEZoQzBSNkg4RU13dkxjSHlfTFVDazdKZ2pOMzJXajJ6RjhjVEc0TE9QRWVMdw?oc=5",
+      "published": "Wed, 07 Oct 2026 23:46:11 GMT",
       "source": "Google News 日本経済",
       "score": 5,
-      "category": "企業・産業"
+      "category": "経済ニュース"
     },
     {
-      "title": "スペースX、6兆円調達でNVIDIA半導体の購入計画 FT報道 - 日本経済新聞",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9RR0hZWU40OXFoRHF5SENMbWRIdk1udUtyc1NLWTg1ZjdSeW51WkRyakFaUmUtZExQR1o5TURYTFJRMXFnLU9xNHBUeDFqTGVSR1ptOTJ1S1RrRGtXRDlNZDBTMHFjZ2JtaXhiUw?oc=5",
-      "published": "Wed, 07 Oct 2026 00:37:01 GMT",
-      "source": "Google News 日本経済",
-      "score": 5,
-      "category": "企業・産業"
-    },
-    {
-      "title": "日本経済復活のカギはAX 経産省、100億企業創出ネット - 日刊工業新聞",
-      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFByMHRMQ3E2SGNRaldzNlZyUzRkU0FGNVdBcGh1d2s3M2R0ci1Lc1N4ZTNiTVdHQzR6WGZSYjJWYUZleUVzdVpXLWVlY05MejBZWWh0S1Jsd2o?oc=5",
-      "published": "Tue, 06 Oct 2026 08:00:00 GMT",
+      "title": "ニッスイグループの低温物流企業でシステム障害 商品の入出荷停止 - 日本経済新聞",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE43QkRQMXl6Ym1VbjNMMVdETG1WY1JXbkFhMzQwY09wdGVJM2k1V0JUSHJZWnZRek1VZldmbnRpOE12a2Jrc2tiNy0teldQb3NBeHRGeHptT3Q4SjZTRlRDMXRqNXE1MW9jZVVrbA?oc=5",
+      "published": "Wed, 07 Oct 2026 12:48:01 GMT",
       "source": "Google News 日本経済",
       "score": 4,
       "category": "企業・産業"
     },
     {
-      "title": "日本・東南アジアなど 緊急時に石油備蓄放出する枠組み検討へ",
-      "link": "https://news.web.nhk/newsweb/na/nd-20261006de55579",
-      "published": "Wed, 07 Oct 2026 06:01:56 +0900",
+      "title": "8月経常収支 4兆620億円の黒字 海外からの配当増加などで",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261008de56259",
+      "published": "Thu, 08 Oct 2026 09:55:10 +0900",
       "source": "NHK 経済",
       "score": 2,
       "category": "経済ニュース"
     },
     {
-      "title": "旭化成子会社 個人情報55万人余 漏えいの可能性と発表",
-      "link": "https://news.web.nhk/newsweb/na/nd-20261007de55592",
-      "published": "Wed, 07 Oct 2026 00:53:39 +0900",
+      "title": "ローカル線に続き「幹線」も 鉄道網見直しへ新たな議論",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261008de56192",
+      "published": "Thu, 08 Oct 2026 05:30:00 +0900",
       "source": "NHK 経済",
       "score": 2,
       "category": "経済ニュース"
     },
     {
-      "title": "片山財務相 「選挙運動ということではない」 一部報道に",
-      "link": "https://news.web.nhk/newsweb/na/nd-20261006de55560",
-      "published": "Tue, 06 Oct 2026 22:28:00 +0900",
+      "title": "大手ビールメーカー4社 出荷価格の一覧表“裏会”で示し協議か",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261008de56219",
+      "published": "Thu, 08 Oct 2026 05:26:00 +0900",
       "source": "NHK 経済",
       "score": 2,
       "category": "経済ニュース"
     },
     {
-      "title": "相次ぐ不正アクセス 自分の情報をどう守る リスクと対策は",
-      "link": "https://news.web.nhk/newsweb/na/nd-20261006de55543",
-      "published": "Tue, 06 Oct 2026 22:08:42 +0900",
+      "title": "原子力人材確保へ 官民が共同で新団体を設立",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261007de56174",
+      "published": "Wed, 07 Oct 2026 23:55:00 +0900",
+      "source": "NHK 経済",
+      "score": 2,
+      "category": "経済ニュース"
+    },
+    {
+      "title": "HIS 去年の不正アクセスで最大627人分のパスポート情報流出か",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261007de56092",
+      "published": "Wed, 07 Oct 2026 18:59:00 +0900",
+      "source": "NHK 経済",
+      "score": 2,
+      "category": "経済ニュース"
+    },
+    {
+      "title": "円相場 夕方時点ではきのうとほぼ同じ水準に",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261007de56073",
+      "published": "Wed, 07 Oct 2026 18:31:21 +0900",
+      "source": "NHK 経済",
+      "score": 2,
+      "category": "経済ニュース"
+    },
+    {
+      "title": "ソフトバンク子会社に不正アクセス クラウドサービスに障害",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261007de56048",
+      "published": "Wed, 07 Oct 2026 19:54:00 +0900",
       "source": "NHK 経済",
       "score": 2,
       "category": "経済ニュース"
@@ -164,28 +164,28 @@
   ],
   "top_articles": [
     {
-      "title": "日銀植田総裁 物価上振れリスク警戒しながら利上げ進める考え",
-      "link": "https://news.web.nhk/newsweb/na/nd-20261006de55495",
-      "published": "Tue, 06 Oct 2026 19:55:47 +0900",
+      "title": "高市首相“消費税減税 最善の方法”“道路予算 適切配分徹底”",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261007de55662",
+      "published": "Wed, 07 Oct 2026 18:21:24 +0900",
       "source": "NHK 経済",
-      "score": 29,
+      "score": 21,
+      "category": "政策・財政"
+    },
+    {
+      "title": "FRB利上げ インフレ上振れに警戒感 多くが追加利上げ支持",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261008de56230",
+      "published": "Thu, 08 Oct 2026 07:06:59 +0900",
+      "source": "NHK 経済",
+      "score": 19,
       "category": "金融政策"
     },
     {
-      "title": "日本経済指標（実質賃金） - みんかぶ",
-      "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE80UTFTcWV4cExfOGItUHkzOGJnTm1VOG04T3hpN3VRNHJ0TEdrZHVwZ21iaXNiWVdkODR3LTZPanRLVGZwOUE?oc=5",
-      "published": "Tue, 06 Oct 2026 23:40:00 GMT",
-      "source": "Google News 日本経済",
-      "score": 15,
-      "category": "物価・家計"
-    },
-    {
-      "title": "政府・日銀、銀行の融資データ外部開放 社外秘の金利など政策に反映 - 日本経済新聞",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5BWl92WlRDZ2UxM0JEOWltUGdpa2I4Y01iZkpOZlFuLThiUzFnUERBTGZtNHdndzAxcTZYYkdkemF4c2wzOG9wd0RmNU1vOGFtSGJGV3NhZ0R1SWJkbHNPVTd3OENDU2tEaWZYUA?oc=5",
-      "published": "Tue, 06 Oct 2026 17:00:00 GMT",
-      "source": "Google News 日本経済",
-      "score": 15,
-      "category": "金融政策"
+      "title": "8月の景気動向指数 前月比1.9ポイント低下 6か月ぶりに低下",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261007de55893",
+      "published": "Wed, 07 Oct 2026 16:37:43 +0900",
+      "source": "NHK 経済",
+      "score": 17,
+      "category": "景気・雇用"
     }
   ]
 }
