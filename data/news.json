@@ -1,61 +1,37 @@
 {
-  "updated_at": "2026-10-08T01:40:15.249130+00:00",
+  "updated_at": "2026-10-09T01:53:00.306662+00:00",
   "articles": [
     {
-      "title": "高市首相“消費税減税 最善の方法”“道路予算 適切配分徹底”",
-      "link": "https://news.web.nhk/newsweb/na/nd-20261007de55662",
-      "published": "Wed, 07 Oct 2026 18:21:24 +0900",
+      "title": "日銀の地域経済報告“AI関連需要拡大 多くの地域で生産増加”",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261008de56554",
+      "published": "Thu, 08 Oct 2026 20:01:11 +0900",
       "source": "NHK 経済",
-      "score": 21,
-      "category": "政策・財政"
-    },
-    {
-      "title": "FRB利上げ インフレ上振れに警戒感 多くが追加利上げ支持",
-      "link": "https://news.web.nhk/newsweb/na/nd-20261008de56230",
-      "published": "Thu, 08 Oct 2026 07:06:59 +0900",
-      "source": "NHK 経済",
-      "score": 19,
+      "score": 16,
       "category": "金融政策"
     },
     {
-      "title": "8月の景気動向指数 前月比1.9ポイント低下 6か月ぶりに低下",
-      "link": "https://news.web.nhk/newsweb/na/nd-20261007de55893",
-      "published": "Wed, 07 Oct 2026 16:37:43 +0900",
+      "title": "今年度上半期の倒産 2年連続5000件超 中東情勢や円安が背景に",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261008de56677",
+      "published": "Thu, 08 Oct 2026 17:57:00 +0900",
       "source": "NHK 経済",
-      "score": 17,
+      "score": 16,
+      "category": "為替・金利"
+    },
+    {
+      "title": "円相場 小幅に値下がり インフレ懸念で円が売られる",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261008de56768",
+      "published": "Thu, 08 Oct 2026 18:14:23 +0900",
+      "source": "NHK 経済",
+      "score": 10,
+      "category": "物価・家計"
+    },
+    {
+      "title": "9月の街角景気 5か月連続で上昇 連休で消費堅調",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261008de56691",
+      "published": "Thu, 08 Oct 2026 17:51:00 +0900",
+      "source": "NHK 経済",
+      "score": 9,
       "category": "景気・雇用"
-    },
-    {
-      "title": "インド中央銀行が3年8か月ぶり利上げ 中東情勢背景に",
-      "link": "https://news.web.nhk/newsweb/na/nd-20261007de56183",
-      "published": "Wed, 07 Oct 2026 23:58:00 +0900",
-      "source": "NHK 経済",
-      "score": 11,
-      "category": "金融政策"
-    },
-    {
-      "title": "日経平均反発、一時7万円台 半導体株買われアドバンテスト上場来高値 - 日経CNBC online",
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBDNzJjY3B2ellnd1pTWEd1bC1IcWF3eGhqZUZBZmVOV2xyblJPVUhkOTQzM2lVRUVndVVsbFE0U1JPSExwSTlwaXViUG9KXy13TmpXWA?oc=5",
-      "published": "Mon, 05 Oct 2026 07:07:00 GMT",
-      "source": "Google News 日本経済",
-      "score": 11,
-      "category": "企業・産業"
-    },
-    {
-      "title": "日経平均株価の指数情報・推移 - Yahoo!ファイナンス",
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5SRDk1ZENIQUIzSUZyMHZRNHpCR2xlcTI5UTJRYXVoMDBrM3BmNndBT29vV0dDZWdQazZHb2tURGZNYy1OMU93R0kyUUZUT3VmU2VhbA?oc=5",
-      "published": "Wed, 07 Oct 2026 20:28:27 GMT",
-      "source": "Google News 日本経済",
-      "score": 11,
-      "category": "経済ニュース"
-    },
-    {
-      "title": "TOPIX改革で構成銘柄が変更 銘柄数は大きく減少へ",
-      "link": "https://news.web.nhk/newsweb/na/nd-20261007de56177",
-      "published": "Wed, 07 Oct 2026 23:54:00 +0900",
-      "source": "NHK 経済",
-      "score": 8,
-      "category": "経済ニュース"
     },
     {
       "title": "日本経済指標【国際収支】 - みんかぶ FX/為替",
@@ -66,97 +42,121 @@
       "category": "為替・金利"
     },
     {
-      "title": "国債バブルは続くのか - 日本経済新聞",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5JMEdkek81aWx0Z0Q2dGR4RS1URXp2dkZnb1Rta3ppSkl6dnJ0N0RWUnhKUWtCcW1KM0ZaY0pGdEtTQnliX1ZTbU44N0pLbzZ0emZ4SXJGSnlXVGc3bjhzSjhaMnNFRGF4dV9jdg?oc=5",
-      "published": "Wed, 07 Oct 2026 17:00:00 GMT",
-      "source": "Google News 日本経済",
+      "title": "ファーストリテイリング決算 国内外好調で過去最高益",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261008de56898",
+      "published": "Fri, 09 Oct 2026 00:50:00 +0900",
+      "source": "NHK 経済",
       "score": 7,
-      "category": "為替・金利"
+      "category": "企業・産業"
     },
     {
-      "title": "“AI主権”のあり方は シンガポールで大規模な国際会議",
-      "link": "https://news.web.nhk/newsweb/na/nd-20261007de56122",
-      "published": "Wed, 07 Oct 2026 19:56:00 +0900",
+      "title": "企業への不正アクセス 相次いで明らかに",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261009de56931",
+      "published": "Fri, 09 Oct 2026 05:38:00 +0900",
       "source": "NHK 経済",
       "score": 6,
       "category": "企業・産業"
     },
     {
-      "title": "東証10時 日経平均、下げ幅一時800円強 ソフトバンクGに売り - 日本経済新聞",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5YV0xpWnhpbGpBV2ZMZVlNZVc4M1ZqQzB0Z3REcExobFl2eFFyQkhhTEF3XzQ4X2pXbVk0WFM0ajVzWGVkSFlnV2VkS0lwaGFoTVFjRlA2UlFqcU9DaHowOE1RZDU2Q3lNQjdXMg?oc=5",
-      "published": "Thu, 08 Oct 2026 01:14:50 GMT",
+      "title": "東証10時 日経平均は底堅い 先物への押し目買いが下支え - 日本経済新聞",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1nbXYwSWRIWFhKcHpiSTdoVm9OaU5sLTZwWFRNOFdONkhkU2N2bkR6Y09mMzg5RjRpU3JadkFYZ3p5Wmg0X3Ayc2EzT2F0TG1vRFJTRmJNTGFxQkFUbVBXUEVOdklDX0k3Mm5abg?oc=5",
+      "published": "Fri, 09 Oct 2026 01:14:10 GMT",
       "source": "Google News 日本経済",
       "score": 6,
       "category": "経済ニュース"
     },
     {
-      "title": "デジタルベリー[645A]の株価・株主優待など。 - 日本経済新聞",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9iRXdzcm5Wc0prSUlXbi12R1RwYURVdlFnTFNuSU1zVTRpQzhtNEZoQzBSNkg4RU13dkxjSHlfTFVDazdKZ2pOMzJXajJ6RjhjVEc0TE9QRWVMdw?oc=5",
-      "published": "Wed, 07 Oct 2026 23:46:11 GMT",
+      "title": "食品消費税1%へ法案閣議決定 所得連動給付、30年度以降は年1回 - 日本経済新聞",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE53dWFCdDNvSHhWU3dNVFA0ajVSWURYWjE1eFJIZjNFMTRoMkdsN0NpbVBZV3ZZZjl2anRxd2daLWltYTE4RWctRjY0TktaZUxhQ2dsSEtEUFpvaWNQQ0VJaldqSmxaTVBWY0QwNQ?oc=5",
+      "published": "Fri, 09 Oct 2026 00:25:30 GMT",
       "source": "Google News 日本経済",
+      "score": 6,
+      "category": "政策・財政"
+    },
+    {
+      "title": "トヨタ 中国で競争力強化へ 中国の車大手と3社で戦略提携",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261009de56905",
+      "published": "Fri, 09 Oct 2026 01:14:00 +0900",
+      "source": "NHK 経済",
       "score": 5,
       "category": "経済ニュース"
     },
     {
-      "title": "ニッスイグループの低温物流企業でシステム障害 商品の入出荷停止 - 日本経済新聞",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE43QkRQMXl6Ym1VbjNMMVdETG1WY1JXbkFhMzQwY09wdGVJM2k1V0JUSHJZWnZRek1VZldmbnRpOE12a2Jrc2tiNy0teldQb3NBeHRGeHptT3Q4SjZTRlRDMXRqNXE1MW9jZVVrbA?oc=5",
-      "published": "Wed, 07 Oct 2026 12:48:01 GMT",
+      "title": "不正アクセスが世界で急増、9月以降に情報漏洩3億人 攻撃にAIの影 - 日本経済新聞",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5IbmFWMzV2a21mSGNFMDlfb1FXTEhOR3FFeFk0VHdKWkdqbV9aeHhOYXB6YXE5dy1Kc1g5YjZ4NGJ6ajZxT2cyMTB4VkZhTzY5ajBXZ29vTlM5Ty1DaFEyTS16cE41VTVDbHExeg?oc=5",
+      "published": "Thu, 08 Oct 2026 20:00:00 GMT",
       "source": "Google News 日本経済",
       "score": 4,
       "category": "企業・産業"
     },
     {
-      "title": "8月経常収支 4兆620億円の黒字 海外からの配当増加などで",
-      "link": "https://news.web.nhk/newsweb/na/nd-20261008de56259",
-      "published": "Thu, 08 Oct 2026 09:55:10 +0900",
+      "title": "ファームノートデーリィプラットフォーム、日本経済新聞社主催「生成AIサミット（GenAI/SUM）2026」IMPACT PITCHで最優秀賞「日経賞」を受賞 - 日本農業新聞",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE4tSUhtSEtMOHdzVUdSUVI5cExmdHNUSGlTRXZBU0tOVUVnRGkzWUxlR2JSTzJYNVBGU2t6Sm54ODdZaklvNnRGUE9KekVDZzAxVmp1T1A0RWlCUQ?oc=5",
+      "published": "Thu, 08 Oct 2026 05:44:07 GMT",
+      "source": "Google News 日本経済",
+      "score": 4,
+      "category": "企業・産業"
+    },
+    {
+      "title": "【感謝】「NIKKEI企業キャラクター総選挙2026」で ファミマの“ファミッペ”が4位にランクイン！ ｜ニュースリリース - ファミリーマート",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBlZk9VcVhIenJUNWxlRk11Q0Q5bWNpbl9MWHZ3NVdCYW9uREhHbnVDdkxKbnNVN2ZiWDRvQnE0YUpGMk83MDg0V3VkUXJUZkd4U3VETy1FbWw3NzNjbWtRcmpqWU9uWDdXSWh4dzAwei1fOVRNeVFR?oc=5",
+      "published": "Fri, 09 Oct 2026 01:02:43 GMT",
+      "source": "Google News 日本経済",
+      "score": 4,
+      "category": "企業・産業"
+    },
+    {
+      "title": "ブックオフ 不正アクセスで最大643万件の会員情報漏えいか",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261009de56955",
+      "published": "Fri, 09 Oct 2026 10:20:00 +0900",
       "source": "NHK 経済",
       "score": 2,
       "category": "経済ニュース"
     },
     {
-      "title": "ローカル線に続き「幹線」も 鉄道網見直しへ新たな議論",
-      "link": "https://news.web.nhk/newsweb/na/nd-20261008de56192",
-      "published": "Thu, 08 Oct 2026 05:30:00 +0900",
+      "title": "8月家計調査 実質の消費支出9か月連続減少",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261009de56954",
+      "published": "Fri, 09 Oct 2026 08:46:00 +0900",
       "source": "NHK 経済",
       "score": 2,
       "category": "経済ニュース"
     },
     {
-      "title": "大手ビールメーカー4社 出荷価格の一覧表“裏会”で示し協議か",
-      "link": "https://news.web.nhk/newsweb/na/nd-20261008de56219",
-      "published": "Thu, 08 Oct 2026 05:26:00 +0900",
+      "title": "ソフトバンク子会社 サイバー攻撃受け データ復旧などは困難",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261009de56918",
+      "published": "Fri, 09 Oct 2026 06:28:00 +0900",
       "source": "NHK 経済",
       "score": 2,
       "category": "経済ニュース"
     },
     {
-      "title": "原子力人材確保へ 官民が共同で新団体を設立",
-      "link": "https://news.web.nhk/newsweb/na/nd-20261007de56174",
-      "published": "Wed, 07 Oct 2026 23:55:00 +0900",
+      "title": "日本や東南アジアなど緊急時の石油備蓄放出検討で合意",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261009de56915",
+      "published": "Fri, 09 Oct 2026 01:15:00 +0900",
       "source": "NHK 経済",
       "score": 2,
       "category": "経済ニュース"
     },
     {
-      "title": "HIS 去年の不正アクセスで最大627人分のパスポート情報流出か",
-      "link": "https://news.web.nhk/newsweb/na/nd-20261007de56092",
-      "published": "Wed, 07 Oct 2026 18:59:00 +0900",
+      "title": "第一興商で個人情報漏えいのおそれ ローソンでは漏えいが確認",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261008de56831",
+      "published": "Thu, 08 Oct 2026 19:17:00 +0900",
       "source": "NHK 経済",
       "score": 2,
       "category": "経済ニュース"
     },
     {
-      "title": "円相場 夕方時点ではきのうとほぼ同じ水準に",
-      "link": "https://news.web.nhk/newsweb/na/nd-20261007de56073",
-      "published": "Wed, 07 Oct 2026 18:31:21 +0900",
+      "title": "ビール カルテル疑い 複数メーカー担当者 価格協議認める説明",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261008de56827",
+      "published": "Thu, 08 Oct 2026 18:59:53 +0900",
       "source": "NHK 経済",
       "score": 2,
       "category": "経済ニュース"
     },
     {
-      "title": "ソフトバンク子会社に不正アクセス クラウドサービスに障害",
-      "link": "https://news.web.nhk/newsweb/na/nd-20261007de56048",
-      "published": "Wed, 07 Oct 2026 19:54:00 +0900",
+      "title": "中部電力 安井稔社長 浜岡の地震想定データ再計算の方針",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261008de56692",
+      "published": "Thu, 08 Oct 2026 17:43:00 +0900",
       "source": "NHK 経済",
       "score": 2,
       "category": "経済ニュース"
@@ -164,28 +164,28 @@
   ],
   "top_articles": [
     {
-      "title": "高市首相“消費税減税 最善の方法”“道路予算 適切配分徹底”",
-      "link": "https://news.web.nhk/newsweb/na/nd-20261007de55662",
-      "published": "Wed, 07 Oct 2026 18:21:24 +0900",
+      "title": "日銀の地域経済報告“AI関連需要拡大 多くの地域で生産増加”",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261008de56554",
+      "published": "Thu, 08 Oct 2026 20:01:11 +0900",
       "source": "NHK 経済",
-      "score": 21,
-      "category": "政策・財政"
-    },
-    {
-      "title": "FRB利上げ インフレ上振れに警戒感 多くが追加利上げ支持",
-      "link": "https://news.web.nhk/newsweb/na/nd-20261008de56230",
-      "published": "Thu, 08 Oct 2026 07:06:59 +0900",
-      "source": "NHK 経済",
-      "score": 19,
+      "score": 16,
       "category": "金融政策"
     },
     {
-      "title": "8月の景気動向指数 前月比1.9ポイント低下 6か月ぶりに低下",
-      "link": "https://news.web.nhk/newsweb/na/nd-20261007de55893",
-      "published": "Wed, 07 Oct 2026 16:37:43 +0900",
+      "title": "今年度上半期の倒産 2年連続5000件超 中東情勢や円安が背景に",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261008de56677",
+      "published": "Thu, 08 Oct 2026 17:57:00 +0900",
       "source": "NHK 経済",
-      "score": 17,
-      "category": "景気・雇用"
+      "score": 16,
+      "category": "為替・金利"
+    },
+    {
+      "title": "円相場 小幅に値下がり インフレ懸念で円が売られる",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261008de56768",
+      "published": "Thu, 08 Oct 2026 18:14:23 +0900",
+      "source": "NHK 経済",
+      "score": 10,
+      "category": "物価・家計"
     }
   ]
 }
