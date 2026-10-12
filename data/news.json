@@ -1,6 +1,14 @@
 {
-  "updated_at": "2026-10-11T00:45:07.319328+00:00",
+  "updated_at": "2026-10-12T01:06:06.028975+00:00",
   "articles": [
+    {
+      "title": "消費税国会、13日から予算委論戦 審議通じ減税・給付の制度設計詰め - 日本経済新聞",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBpYVQtSm0weVNMU21YNVc5QjJ2bUpvdTJ3VnRWZDhjY0ZPa2ZoUFd4bXNDQzBmNDc2N2FlMEZjNnhsREdScEJndV9FYm5uWHZ2V0ZjbHFLN2JGeGlqVDFIUFZqb084b0g4bmFDTQ?oc=5",
+      "published": "Sun, 11 Oct 2026 20:00:00 GMT",
+      "source": "Google News 日本経済",
+      "score": 19,
+      "category": "政策・財政"
+    },
     {
       "title": "貿易摩擦の中国とEUが協議 EU「中国からの輸出抑制へ」",
       "link": "https://news.web.nhk/newsweb/na/nd-20261010de57546",
@@ -8,6 +16,14 @@
       "source": "NHK 経済",
       "score": 17,
       "category": "経済ニュース"
+    },
+    {
+      "title": "木原長官 \"野党と丁寧に議論 減税法案など成立を\" NHK日曜討論",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261011de57836",
+      "published": "Sun, 11 Oct 2026 11:21:41 +0900",
+      "source": "NHK 経済",
+      "score": 15,
+      "category": "政策・財政"
     },
     {
       "title": "食料品の消費税減税法案 国会に提出 簗農相発言 追及続く",
@@ -18,6 +34,14 @@
       "category": "政策・財政"
     },
     {
+      "title": "高市政権、一斉にリフレ否定 米国意識で「利上げ慎重」打ち消し - 日本経済新聞",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9iUTE5Ym5ZeTZxRlFxeFNxYVZhZnVzbklyQUllcmpHS1d4SXFpakE0RjBRVDRzUXVtVVQwMWxDbW5WWVBmd2JhT21kZXV4bmtVVVB5bFRmdFJUM3pyT2FQZ2tDelVIanhoeWpjWg?oc=5",
+      "published": "Sat, 10 Oct 2026 09:22:01 GMT",
+      "source": "Google News 日本経済",
+      "score": 12,
+      "category": "金融政策"
+    },
+    {
       "title": "与党 消費税法案月内審議入りを 野党 簗農相の問責含め協議",
       "link": "https://news.web.nhk/newsweb/na/nd-20261010de57530",
       "published": "Sat, 10 Oct 2026 07:48:01 +0900",
@@ -26,9 +50,9 @@
       "category": "政策・財政"
     },
     {
-      "title": "高市首相 日本経済の国際競争力を強化することで円の信認を保つ - みんかぶ FX/為替",
-      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5oUEFDMEpRUk1tNTl3ZERvYXZFTVZWUHFKcGIzSWN3QzBCd24wR2xNOVk2VmNWRnpoMEl2V0RlOGtsaEI3dmVZVg?oc=5",
-      "published": "Fri, 09 Oct 2026 01:51:29 GMT",
+      "title": "39年ぶりの円安水準 日本経済にとって必ずしも「悪い円安」ではないと考える理由 野村證券・森田京平 - 野村證券",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1xRUNyRHlWUERjUm4xdm81VklqS1lEZE5uZHBkN2R3cF9yamZJT3R5RTRnOHF3b1otaXVfR2wtbXcxcTBvdW1IeHRXOFlPV1cwX0tkcXFEWjNrbkg5ZnIw?oc=5",
+      "published": "Fri, 09 Oct 2026 07:00:00 GMT",
       "source": "Google News 日本経済",
       "score": 8,
       "category": "為替・金利"
@@ -58,27 +82,19 @@
       "category": "企業・産業"
     },
     {
-      "title": "患者通知なく診療データ提供、大病院に義務づけ 創薬活用へ政府検討 - 日本経済新聞",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE44LTFmb0VOMzlMcUk3eW1tcldacXpVOUtqZV8yR2lLeldWX1MtRFZobUtuVjZSYi1xUXY0QlVpQ1lFNjF0dkFIbVZfa1k2N1ZwbEoxam9GckF3RTNfbUlqQkxfZjk3MHY2cFVlbw?oc=5",
-      "published": "Sat, 10 Oct 2026 08:00:00 GMT",
-      "source": "Google News 日本経済",
-      "score": 5,
-      "category": "政策・財政"
-    },
-    {
-      "title": "不正アクセスが世界で急増、9月以降に情報漏洩3億人 攻撃にAIの影 - 日本経済新聞",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5IbmFWMzV2a21mSGNFMDlfb1FXTEhOR3FFeFk0VHdKWkdqbV9aeHhOYXB6YXE5dy1Kc1g5YjZ4NGJ6ajZxT2cyMTB4VkZhTzY5ajBXZ29vTlM5Ty1DaFEyTS16cE41VTVDbHExeg?oc=5",
-      "published": "Thu, 08 Oct 2026 20:00:00 GMT",
-      "source": "Google News 日本経済",
-      "score": 4,
-      "category": "企業・産業"
-    },
-    {
-      "title": "EVシフトが進み、中国EVにシェアを奪われるトヨタ。自動車産業が凋落すれば日本経済も凋落する！（山田順） - エキスパート - Yahoo!ニュース",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPVkZvWnNfOXljRGlCVUR5TjFEMXhpdm4tYnZyeVZiWmw5VVFtNjBsUThzN0dIQXZySzF4U1NwamZzOUFGNGFGeGlodXVpVU9JWlJXLXVqdHJ4XzZ5VXIzU0NvdDFFM0NzYUpqVmp4S21lek5RQTNGVjdSRlBIWUZfQUttTDg0R3E0?oc=5",
-      "published": "Sat, 10 Oct 2026 16:09:38 GMT",
+      "title": "変容する米国経済 やさしい経済学まとめ読み - 日本経済新聞",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5adXpVcTVaX0tzcGYzQURPQTA5bEFWSmdmSjB1eUdYV0FkTkdYMllyVFkyRU5vSWxNUXVSamtTOHFScGRQdzhEcC0zekp2YzBscG9HOHgzeXNKbGNGaWZSWWo3Z1AwSXNPaWE4TQ?oc=5",
+      "published": "Sun, 11 Oct 2026 20:00:00 GMT",
       "source": "Google News 日本経済",
       "score": 3,
+      "category": "経済ニュース"
+    },
+    {
+      "title": "ノーベル経済学賞 きょう発表",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261009de57272",
+      "published": "Mon, 12 Oct 2026 09:59:25 +0900",
+      "source": "NHK 経済",
+      "score": 2,
       "category": "経済ニュース"
     },
     {
@@ -138,31 +154,23 @@
       "category": "経済ニュース"
     },
     {
-      "title": "円相場 小幅な値動き 1ドル＝158円台前半",
-      "link": "https://news.web.nhk/newsweb/na/nd-20261009de57448",
-      "published": "Fri, 09 Oct 2026 18:48:45 +0900",
-      "source": "NHK 経済",
-      "score": 2,
-      "category": "経済ニュース"
-    },
-    {
-      "title": "コメ価格は5キロ2860円に 8週連続で値下がり",
-      "link": "https://news.web.nhk/newsweb/na/nd-20261009de57327",
-      "published": "Fri, 09 Oct 2026 18:10:00 +0900",
-      "source": "NHK 経済",
-      "score": 2,
-      "category": "経済ニュース"
-    },
-    {
-      "title": "海外メディアの警鐘「反移民フェイクニュース」が日本経済に大打撃を与える - クーリエ・ジャポン",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE43bTJpWTNUT2NPNURYRFlXa3lfZDZpenZOeFRCZ09wNFdJNFJxdlBVLWVXeUtsRXBORTctdFZhcXEza3BRU1Nackg0eUdBU3k3TTJv?oc=5",
-      "published": "Sat, 10 Oct 2026 21:40:55 GMT",
+      "title": "海外メディアの警鐘「反移民フェイクニュース」が日本経済に大打撃を与える（クーリエ・ジャポン） - Yahoo!ニュース",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE82TEJXY2x4QmZaRS1ZMWdLUzB4MWdUTG9RaWtsejNQcnhwdmdXMWd4b0lEZS1oZ2VESVZybkF4dmJqdU5lZTQ4T040Q1JGd0FHR3pkc2Q3Z2kyWlJiT24wcTFBWWVfVmJQRzZvMnZ0ekNWS05WeVR2eERrNlNWQVU?oc=5",
+      "published": "Sun, 11 Oct 2026 03:03:00 GMT",
       "source": "Google News 日本経済",
       "score": -5,
       "category": "経済ニュース"
     }
   ],
   "top_articles": [
+    {
+      "title": "消費税国会、13日から予算委論戦 審議通じ減税・給付の制度設計詰め - 日本経済新聞",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBpYVQtSm0weVNMU21YNVc5QjJ2bUpvdTJ3VnRWZDhjY0ZPa2ZoUFd4bXNDQzBmNDc2N2FlMEZjNnhsREdScEJndV9FYm5uWHZ2V0ZjbHFLN2JGeGlqVDFIUFZqb084b0g4bmFDTQ?oc=5",
+      "published": "Sun, 11 Oct 2026 20:00:00 GMT",
+      "source": "Google News 日本経済",
+      "score": 19,
+      "category": "政策・財政"
+    },
     {
       "title": "貿易摩擦の中国とEUが協議 EU「中国からの輸出抑制へ」",
       "link": "https://news.web.nhk/newsweb/na/nd-20261010de57546",
@@ -172,19 +180,11 @@
       "category": "経済ニュース"
     },
     {
-      "title": "食料品の消費税減税法案 国会に提出 簗農相発言 追及続く",
-      "link": "https://news.web.nhk/newsweb/na/nd-20261009de57493",
-      "published": "Fri, 09 Oct 2026 22:17:23 +0900",
+      "title": "木原長官 \"野党と丁寧に議論 減税法案など成立を\" NHK日曜討論",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261011de57836",
+      "published": "Sun, 11 Oct 2026 11:21:41 +0900",
       "source": "NHK 経済",
       "score": 15,
-      "category": "政策・財政"
-    },
-    {
-      "title": "与党 消費税法案月内審議入りを 野党 簗農相の問責含め協議",
-      "link": "https://news.web.nhk/newsweb/na/nd-20261010de57530",
-      "published": "Sat, 10 Oct 2026 07:48:01 +0900",
-      "source": "NHK 経済",
-      "score": 8,
       "category": "政策・財政"
     }
   ]
