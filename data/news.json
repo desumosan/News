@@ -1,191 +1,191 @@
 {
-  "updated_at": "2026-10-14T01:00:56.119822+00:00",
+  "updated_at": "2026-10-15T00:22:15.393867+00:00",
   "articles": [
     {
-      "title": "日経平均株価、反発で始まる アドバンテストなど買い先行 - 日本経済新聞",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFB1WnJhMWNXeFJNN29MSFMtMXRKOGc4SHhPZVRDZkNyVmEyU3N1Y2dpQ0lxOUd2LWR2R2trT0NfV3hrYWdSblRPZHVvd1N6RDdHeEVDSWVpbi1vbXg0U3pqN0M3VWpMYVVmOUNLSA?oc=5",
-      "published": "Wed, 14 Oct 2026 00:04:54 GMT",
+      "title": "米 9月の消費者物価 3.7％上昇 早期利上げ観測いくぶん高まる",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261014de59486",
+      "published": "Thu, 15 Oct 2026 00:40:43 +0900",
+      "source": "NHK 経済",
+      "score": 28,
+      "category": "金融政策"
+    },
+    {
+      "title": "日経平均株価、米半導体株安が重荷 TSMCが決算発表（先読み株式相場） - 日本経済新聞",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE4wa2FrN0p4bmUyOVNPTEU3S1EtS3FBWHdkWmQ0T2xzT0tmcVV6M1NySjNzZWdFcEZSTWJ0YjBxUlkwWHhyTU10N0VXNzBaa3BWTThtY1IzRC13NGdjQTZnUUpnaEljei1kb0kydA?oc=5",
+      "published": "Wed, 14 Oct 2026 22:30:00 GMT",
+      "source": "Google News 日本経済",
+      "score": 21,
+      "category": "企業・産業"
+    },
+    {
+      "title": "FRB経済報告“物価上昇ペース加速地区も” 追加利上げ時期焦点",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261015de59538",
+      "published": "Thu, 15 Oct 2026 06:13:52 +0900",
+      "source": "NHK 経済",
+      "score": 19,
+      "category": "金融政策"
+    },
+    {
+      "title": "日経平均株価、続落で始まる 米株安が重荷 - 日本経済新聞",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1IY1F0aGotbk9yNXljZVBkb3Y0bldXMUV5bVZwek14VHBqSUFsVEJ1VFZyNXNabzFfVlZwLTNMQTRVekV1d2lCV1NaTXRUQmY3ZE5KZ1pEVGN6OTI5LUlKMWFvdmRKSTQ2S0xhaw?oc=5",
+      "published": "Thu, 15 Oct 2026 00:04:20 GMT",
       "source": "Google News 日本経済",
       "score": 11,
       "category": "経済ニュース"
     },
     {
-      "title": "人事、日銀 - 日本経済新聞",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5weW5YUFFLTHZXNU9rUTZSYWR2cGNxTkRzeDhNc2tWZTdjdTBYWXlXS2xOUWZYSV9nVnZJU0owOG1vOVM5bnNCUU1CNnpxV2ZZUjVzVG81UnVXTXh3OFJPbVpHTDA1NWx3SXVIZg?oc=5",
-      "published": "Tue, 13 Oct 2026 12:24:32 GMT",
-      "source": "Google News 日本経済",
-      "score": 10,
-      "category": "金融政策"
-    },
-    {
-      "title": "原油の調達多角化に向けた法案を閣議決定 今国会に提出へ",
-      "link": "https://news.web.nhk/newsweb/na/nd-20261013de58562",
-      "published": "Tue, 13 Oct 2026 15:45:00 +0900",
+      "title": "円相場 小幅に値下がり 原油価格上昇で一時ドル買い広がる",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261014de59406",
+      "published": "Wed, 14 Oct 2026 18:53:43 +0900",
       "source": "NHK 経済",
       "score": 8,
       "category": "経済ニュース"
     },
     {
-      "title": "一連の不正アクセスは“AIエージェント悪用の可能性”解析で",
-      "link": "https://news.web.nhk/newsweb/na/nd-20261013de58380",
-      "published": "Tue, 13 Oct 2026 19:49:24 +0900",
-      "source": "NHK 経済",
-      "score": 6,
-      "category": "企業・産業"
-    },
-    {
-      "title": "IMF 経済成長率引き上げも AIで“二極化”",
-      "link": "https://news.web.nhk/newsweb/na/nd-20261013de58500",
-      "published": "Tue, 13 Oct 2026 13:22:07 +0900",
-      "source": "NHK 経済",
-      "score": 6,
-      "category": "企業・産業"
-    },
-    {
-      "title": "CEATEC開幕 フィジカルAIの出展相次ぐ サイバー攻撃への対応も",
-      "link": "https://news.web.nhk/newsweb/na/nd-20261013de58370",
-      "published": "Tue, 13 Oct 2026 17:06:20 +0900",
-      "source": "NHK 経済",
-      "score": 6,
-      "category": "企業・産業"
-    },
-    {
-      "title": "「さらば空室」スペイン・豪州が対策、神戸は新税導入へ ―マンション不都合な真実 - 日本経済新聞",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5XblpJSHh4OFh0NGtBbDhaMmpXYWR6UXpzcmJfWUx0aWVzbVZjcTNMT3czWGxHNXhRUHRvUkNoT3UtWUU4blNhNmRDOW9rcS1HeG5tcjZHVVM1Y1FONjlfUzRQZ3Q0UHBCSkhLVQ?oc=5",
-      "published": "Tue, 13 Oct 2026 20:00:00 GMT",
+      "title": "みずほが数千人をAI開発者に転換 事務や営業、日本企業の働き方転機 - 日本経済新聞",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9iTjYyNVA3RUc3Q0ZVSkRSMjcwWDZFVllCOXhmeEwxM2JVUXI5QVJZZWdXd1R1Qk9La0Ffc0k2UWJ4eUNKemVVUGJxXzEwSDg0TThNQkJQdUI3ejNIdnhPczVERGY5aHMtR29LSw?oc=5",
+      "published": "Wed, 14 Oct 2026 17:00:00 GMT",
       "source": "Google News 日本経済",
-      "score": 6,
-      "category": "政策・財政"
-    },
-    {
-      "title": "AI、家電乗っ取り増殖の恐れ アンソロピック「デジタル粘菌」と警告 - 日本経済新聞",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9mQzE4Y0hhZERlbEZxZFp5bWIxUXUwS0o1QnlCcFh4eWk4YU4tblkzeDkzdkNnYkEtejFpd2FDOUh2WmhjT0ZQSF80RG5GbVpIVHZteUl3U29QNEl0R0JTdi1kNHFCVjVQbDZVOA?oc=5",
-      "published": "Tue, 13 Oct 2026 21:20:39 GMT",
-      "source": "Google News 日本経済",
-      "score": 4,
+      "score": 8,
       "category": "企業・産業"
     },
     {
-      "title": "北海道でマフグの漁獲量増加 一方で養殖ホタテに被害か",
-      "link": "https://news.web.nhk/newsweb/na/nd-20261013de58896",
-      "published": "Tue, 13 Oct 2026 23:28:44 +0900",
-      "source": "NHK 経済",
-      "score": 2,
-      "category": "経済ニュース"
-    },
-    {
-      "title": "高市首相“簗農相 行政運営にあたるのがいいかどうか熟慮”",
-      "link": "https://news.web.nhk/newsweb/na/nd-20261013de58755",
-      "published": "Tue, 13 Oct 2026 22:18:18 +0900",
-      "source": "NHK 経済",
-      "score": 2,
-      "category": "経済ニュース"
-    },
-    {
-      "title": "生乳廃棄回避へ 業界団体が全国に生産の抑制呼びかけ",
-      "link": "https://news.web.nhk/newsweb/na/nd-20261013de58858",
-      "published": "Tue, 13 Oct 2026 21:40:00 +0900",
-      "source": "NHK 経済",
-      "score": 2,
-      "category": "経済ニュース"
-    },
-    {
-      "title": "ことしの新米の予想収穫量740万トン 需要大幅に上回る見通しに",
-      "link": "https://news.web.nhk/newsweb/na/nd-20261013de58826",
-      "published": "Tue, 13 Oct 2026 20:03:05 +0900",
-      "source": "NHK 経済",
-      "score": 2,
-      "category": "経済ニュース"
-    },
-    {
-      "title": "ジャパンモビリティショー開幕 EVへのワイヤレス給電など展示",
-      "link": "https://news.web.nhk/newsweb/na/nd-20261013de58526",
-      "published": "Tue, 13 Oct 2026 19:50:22 +0900",
-      "source": "NHK 経済",
-      "score": 2,
-      "category": "経済ニュース"
-    },
-    {
-      "title": "PayPay証券 日本株とETF 全銘柄の取引停止 みずほ証券の障害で",
-      "link": "https://news.web.nhk/newsweb/na/nd-20261013de58806",
-      "published": "Tue, 13 Oct 2026 22:48:35 +0900",
-      "source": "NHK 経済",
-      "score": 2,
-      "category": "経済ニュース"
-    },
-    {
-      "title": "JR東海 ECサイトで最大1万5000件 顧客情報を漏えいの可能性",
-      "link": "https://news.web.nhk/newsweb/na/nd-20261013de58796",
-      "published": "Tue, 13 Oct 2026 18:57:04 +0900",
-      "source": "NHK 経済",
-      "score": 2,
-      "category": "経済ニュース"
-    },
-    {
-      "title": "円相場 小幅な値動き",
-      "link": "https://news.web.nhk/newsweb/na/nd-20261013de58760",
-      "published": "Tue, 13 Oct 2026 18:29:57 +0900",
-      "source": "NHK 経済",
-      "score": 2,
-      "category": "経済ニュース"
-    },
-    {
-      "title": "JR東日本など鉄道7社 来春に磁気からQRコード切符に",
-      "link": "https://news.web.nhk/newsweb/na/nd-20261013de58704",
-      "published": "Tue, 13 Oct 2026 18:28:57 +0900",
-      "source": "NHK 経済",
-      "score": 2,
-      "category": "経済ニュース"
-    },
-    {
-      "title": "灯油急騰で北海道生協連合会が国に緊急要請",
-      "link": "https://news.web.nhk/newsweb/na/nd-20261013de58699",
-      "published": "Tue, 13 Oct 2026 18:07:00 +0900",
-      "source": "NHK 経済",
-      "score": 2,
-      "category": "経済ニュース"
-    },
-    {
-      "title": "「銀のさら」運営会社 最大約650万件の登録者情報漏えい可能性",
-      "link": "https://news.web.nhk/newsweb/na/nd-20261013de58643",
-      "published": "Tue, 13 Oct 2026 18:29:15 +0900",
-      "source": "NHK 経済",
-      "score": 2,
-      "category": "経済ニュース"
-    },
-    {
-      "title": "スマホアプリ解析しサーバー攻撃、情報漏洩の一因 NICTが特定 - 日本経済新聞",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1TMkZCc1dORW9aVVBoSmpXczBzQzI4UlR6azNycEx4YkJYOWtDWkxDSHJ5cUNZVnB1OW9DZUlaTGo1QTFvRjY2dF9ldUlyTWttMFV5LURJbnVlaVR0ZWFacG1zc0thOEdpTnlSSA?oc=5",
-      "published": "Tue, 13 Oct 2026 11:38:08 GMT",
+      "title": "日本経済指標【機械受注】 - みんかぶ FX/為替",
+      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5Xb1Vsb211V19fS0JtNm5vekpTNVVrd284M2ZIcU5QZVd1UnNCLVZLNWNwZDgyQlVpYUdlX09FRTZTZ1NzemhaTA?oc=5",
+      "published": "Wed, 14 Oct 2026 23:50:29 GMT",
       "source": "Google News 日本経済",
-      "score": -5,
+      "score": 8,
+      "category": "為替・金利"
+    },
+    {
+      "title": "日本のGDPが世界6位に、インドと英国に抜かれる 27年IMF見通し - 日本経済新聞",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFA2RkVLMUo3ZG1OeDI4LURVX3VmR2V5XzlDbjFsbElFdFhqUmNQX0dTVEdXUFBRVElHRlQxWTM2aVJZbGhHdnNTVDFTX0hFWGIxNXhDeUN2M3YxVGRRZEh1bjhrQkNUUWZKdjV4Rw?oc=5",
+      "published": "Wed, 14 Oct 2026 09:08:04 GMT",
+      "source": "Google News 日本経済",
+      "score": 8,
+      "category": "景気・雇用"
+    },
+    {
+      "title": "中小企業向けのセキュリティー対策セミナー",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261014de59442",
+      "published": "Wed, 14 Oct 2026 20:27:03 +0900",
+      "source": "NHK 経済",
+      "score": 6,
+      "category": "企業・産業"
+    },
+    {
+      "title": "ルクレ[648A]の株価・株主優待など。 - 日本経済新聞",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE13SUFMR19xbS13MFZHZEs3MHlGYVIwYktCazV0Y2tnYWxXQlVJcVdMVUlqVU1QZ3lvVTRRMFhiUmJNVU5BdUQwM21uRzVaV0FaR0MtbTVDdy13UQ?oc=5",
+      "published": "Wed, 14 Oct 2026 19:24:20 GMT",
+      "source": "Google News 日本経済",
+      "score": 5,
+      "category": "経済ニュース"
+    },
+    {
+      "title": "ネットフリックスが人員約1000人削減方針か 米報道",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261015de59528",
+      "published": "Thu, 15 Oct 2026 08:25:16 +0900",
+      "source": "NHK 経済",
+      "score": 2,
+      "category": "経済ニュース"
+    },
+    {
+      "title": "サイゼリヤ 原材料高騰などで10月29日から平均6％値上げ",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261015de59550",
+      "published": "Thu, 15 Oct 2026 08:02:21 +0900",
+      "source": "NHK 経済",
+      "score": 2,
+      "category": "経済ニュース"
+    },
+    {
+      "title": "アパレル 「ワールド」と「TSI」が経営統合へ",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261015de59551",
+      "published": "Thu, 15 Oct 2026 08:01:04 +0900",
+      "source": "NHK 経済",
+      "score": 2,
+      "category": "経済ニュース"
+    },
+    {
+      "title": "G20 財務相・中央銀行総裁会議 15日開幕へ",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261015de59525",
+      "published": "Thu, 15 Oct 2026 06:43:48 +0900",
+      "source": "NHK 経済",
+      "score": 2,
+      "category": "経済ニュース"
+    },
+    {
+      "title": "NY市場 円相場 一時1ドル＝158円台後半も 荒い値動きに",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261015de59540",
+      "published": "Thu, 15 Oct 2026 06:15:11 +0900",
+      "source": "NHK 経済",
+      "score": 2,
+      "category": "経済ニュース"
+    },
+    {
+      "title": "簗農相辞表提出で農業政策への影響避けられず",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261015de59519",
+      "published": "Thu, 15 Oct 2026 04:41:26 +0900",
+      "source": "NHK 経済",
+      "score": 2,
+      "category": "経済ニュース"
+    },
+    {
+      "title": "高市首相 簗農相の辞表受理 「任命責任 重く受け止めている」",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261014de59455",
+      "published": "Wed, 14 Oct 2026 23:11:39 +0900",
+      "source": "NHK 経済",
+      "score": 2,
+      "category": "経済ニュース"
+    },
+    {
+      "title": "ダイソーで販売の商品にフグのような小魚混入で自主回収",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261014de59468",
+      "published": "Wed, 14 Oct 2026 22:48:38 +0900",
+      "source": "NHK 経済",
+      "score": 2,
+      "category": "経済ニュース"
+    },
+    {
+      "title": "ソフトバンク子会社 一部顧客のデータは取り出し可能",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261014de59476",
+      "published": "Wed, 14 Oct 2026 22:18:52 +0900",
+      "source": "NHK 経済",
+      "score": 2,
+      "category": "経済ニュース"
+    },
+    {
+      "title": "止まらない個人情報漏えい 警察でも漏えいの可能性明らかに",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261014de59388",
+      "published": "Thu, 15 Oct 2026 04:32:58 +0900",
+      "source": "NHK 経済",
+      "score": 2,
       "category": "経済ニュース"
     }
   ],
   "top_articles": [
     {
-      "title": "日経平均株価、反発で始まる アドバンテストなど買い先行 - 日本経済新聞",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFB1WnJhMWNXeFJNN29MSFMtMXRKOGc4SHhPZVRDZkNyVmEyU3N1Y2dpQ0lxOUd2LWR2R2trT0NfV3hrYWdSblRPZHVvd1N6RDdHeEVDSWVpbi1vbXg0U3pqN0M3VWpMYVVmOUNLSA?oc=5",
-      "published": "Wed, 14 Oct 2026 00:04:54 GMT",
-      "source": "Google News 日本経済",
-      "score": 11,
-      "category": "経済ニュース"
-    },
-    {
-      "title": "人事、日銀 - 日本経済新聞",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5weW5YUFFLTHZXNU9rUTZSYWR2cGNxTkRzeDhNc2tWZTdjdTBYWXlXS2xOUWZYSV9nVnZJU0owOG1vOVM5bnNCUU1CNnpxV2ZZUjVzVG81UnVXTXh3OFJPbVpHTDA1NWx3SXVIZg?oc=5",
-      "published": "Tue, 13 Oct 2026 12:24:32 GMT",
-      "source": "Google News 日本経済",
-      "score": 10,
+      "title": "米 9月の消費者物価 3.7％上昇 早期利上げ観測いくぶん高まる",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261014de59486",
+      "published": "Thu, 15 Oct 2026 00:40:43 +0900",
+      "source": "NHK 経済",
+      "score": 28,
       "category": "金融政策"
     },
     {
-      "title": "原油の調達多角化に向けた法案を閣議決定 今国会に提出へ",
-      "link": "https://news.web.nhk/newsweb/na/nd-20261013de58562",
-      "published": "Tue, 13 Oct 2026 15:45:00 +0900",
+      "title": "日経平均株価、米半導体株安が重荷 TSMCが決算発表（先読み株式相場） - 日本経済新聞",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE4wa2FrN0p4bmUyOVNPTEU3S1EtS3FBWHdkWmQ0T2xzT0tmcVV6M1NySjNzZWdFcEZSTWJ0YjBxUlkwWHhyTU10N0VXNzBaa3BWTThtY1IzRC13NGdjQTZnUUpnaEljei1kb0kydA?oc=5",
+      "published": "Wed, 14 Oct 2026 22:30:00 GMT",
+      "source": "Google News 日本経済",
+      "score": 21,
+      "category": "企業・産業"
+    },
+    {
+      "title": "FRB経済報告“物価上昇ペース加速地区も” 追加利上げ時期焦点",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261015de59538",
+      "published": "Thu, 15 Oct 2026 06:13:52 +0900",
       "source": "NHK 経済",
-      "score": 8,
-      "category": "経済ニュース"
+      "score": 19,
+      "category": "金融政策"
     }
   ]
 }
