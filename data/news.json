@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-17T23:53:22.898752+00:00",
+  "updated_at": "2026-10-19T00:01:31.748207+00:00",
   "articles": [
     {
       "title": "日銀植田総裁“物価2％超の上昇容認せず” 今後も利上げ進める",
@@ -34,22 +34,6 @@
       "category": "企業・産業"
     },
     {
-      "title": "政府 タンカーの保険契約支援 原油などエネルギー安定調達へ",
-      "link": "https://news.web.nhk/newsweb/na/nd-20261016de60661",
-      "published": "Fri, 16 Oct 2026 19:07:44 +0900",
-      "source": "NHK 経済",
-      "score": 13,
-      "category": "政策・財政"
-    },
-    {
-      "title": "日本経済は見通し通りに推移と日銀総裁 - カナロコ",
-      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5KOUxkN0U4V0hMUVE1X0s2elNQa1h4REE0MXR4X3BlN2tSM1NBUGZEcUVNSWU3c2h3OEdwUnFQbTdlREwzVUFObGFSblFDTlhXOWQ4NW9kVGdsXzJfUm01SDFPUFhMd2FC?oc=5",
-      "published": "Fri, 16 Oct 2026 12:04:50 GMT",
-      "source": "Google News 日本経済",
-      "score": 10,
-      "category": "金融政策"
-    },
-    {
       "title": "財政制度等審議会 備蓄米に輸入米活用を提案",
       "link": "https://news.web.nhk/newsweb/na/nd-20261016de60772",
       "published": "Fri, 16 Oct 2026 23:27:21 +0900",
@@ -66,14 +50,6 @@
       "category": "政策・財政"
     },
     {
-      "title": "フランスで55万人が大規模デモ 教育改善や物価高対策を求め放火・略奪 - 日本経済新聞",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBXNnRxaEtTdWJWOE1vR3ZhM1JqT3FaVTdnMHZtemlFNTJ0MEUtalNKRC1lS2I4Vk9QbXpwSFpXX1JHcTRnOXIySTJ1S0tjMk5FRWNiOXZnNnlVOGt6NzJ6VnNGMXI0TVg3TGN1WA?oc=5",
-      "published": "Sat, 17 Oct 2026 21:15:25 GMT",
-      "source": "Google News 日本経済",
-      "score": 8,
-      "category": "物価・家計"
-    },
-    {
       "title": "TSMCが熊本で3ナノ半導体生産計画 国が認定",
       "link": "https://news.web.nhk/newsweb/na/nd-20261017de60777",
       "published": "Sat, 17 Oct 2026 01:21:56 +0900",
@@ -88,6 +64,30 @@
       "source": "NHK 経済",
       "score": 6,
       "category": "企業・産業"
+    },
+    {
+      "title": "AI検索普及、ゼロクリック率68%に上昇 揺らぐサイト集客 - 日本経済新聞",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBxWGtXeTJXWXBiR3p5UHR3N0YyWVJOWEZnZ0ZPOFpjWWtuUkMtOHp3OTNuWG9naS1haUM0RDNIQS12Z1BZc21zNUdXTjNQb01YUWNBZnI5OFhoZEE4M3lSb0pURnYyNFd0Yy1DTA?oc=5",
+      "published": "Sat, 17 Oct 2026 17:00:00 GMT",
+      "source": "Google News 日本経済",
+      "score": 4,
+      "category": "企業・産業"
+    },
+    {
+      "title": "声や肖像 不正競争防止法の対象として明記検討へ 経済産業省",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261018de61309",
+      "published": "Sun, 18 Oct 2026 23:44:18 +0900",
+      "source": "NHK 経済",
+      "score": 2,
+      "category": "経済ニュース"
+    },
+    {
+      "title": "SUBARU 車の衝突実験を“実機ではなくデジタルで”なぜ?【QA】",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261018de61149",
+      "published": "Sun, 18 Oct 2026 19:31:26 +0900",
+      "source": "NHK 経済",
+      "score": 2,
+      "category": "経済ニュース"
     },
     {
       "title": "スカイチケット運営会社 クレカ情報も最大6000人余流出",
@@ -138,25 +138,25 @@
       "category": "経済ニュース"
     },
     {
-      "title": "東海道・山陽新幹線で新型「S0系」 2029年から導入へ",
-      "link": "https://news.web.nhk/newsweb/na/nd-20261016de60665",
-      "published": "Fri, 16 Oct 2026 19:02:47 +0900",
-      "source": "NHK 経済",
-      "score": 2,
-      "category": "経済ニュース"
-    },
-    {
-      "title": "国家資格の出身地欄「台湾」表記可能に 医師や保育士ら、国に限らず - 日本経済新聞",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9YQUYtZ3pncFlqV1JHQTFhdjNRMGZaTFpGUk5iSnItay1SSE9OaDV0eFM5M094cTltZzZGRkF3UHc2c0J3b2FvN1ZFYmFibTVxNmtLMmJMWTgxZWNrSXV5SnpVMWt5d2FnY0lZcw?oc=5",
-      "published": "Sat, 17 Oct 2026 08:20:00 GMT",
+      "title": "よもやの「ブラックマンデー」回避の剣が峰 - 日本経済新聞",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE94a1YyVjFkUkphRjFBaW5ST09PYmJLRzVBYlBubkhKNEQ3TmN2eXpUdDFmejFUS1R3alkyRkRkVlI5bl9FemhibklkTUVaVE5zMkJNYXk3SmJlajQwR0cyLWJhNF9jSThwVVZoaQ?oc=5",
+      "published": "Sun, 18 Oct 2026 02:00:00 GMT",
       "source": "Google News 日本経済",
       "score": -5,
       "category": "経済ニュース"
     },
     {
-      "title": "日経、個人情報183万件漏洩 不正アクセスで - 日本経済新聞",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBmeGtIUU1LUWpYMkRkbDVtRmc4cl8tUXZGZ05ZZy12dGpoZnNrMUQ4a2Ixdmx3MWlna1k1ZzZrbFpfNTRWOGxiUVhXeHlxTXRicE9IWG85TXA2dzc4MDJTQjIxb3JqdzdmSlJxWA?oc=5",
-      "published": "Fri, 16 Oct 2026 06:00:00 GMT",
+      "title": "日経の情報漏えい、テレ東も影響か「サービス利用者が含まれている可能性」テレ東が発表 BSテレ東も（オリコン） - Yahoo!ニュース",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1rQ1JUM1ZEM0pvcnBQSko3SFlyOG5rWGRfOE5KbkxWNjYyZVE1MW5TVTE5X1FKWXMtSnZJcERINk0tSTcwMU11TWgwbEpaRThJTzc2WUFaMC1vT2dBSW0zX3FvZmVMRjYzSlVTRW03bi1sTkZ0aVlTMkVGb2FsRDg?oc=5",
+      "published": "Sun, 18 Oct 2026 20:10:02 GMT",
+      "source": "Google News 日本経済",
+      "score": -5,
+      "category": "経済ニュース"
+    },
+    {
+      "title": "日本、経済変動の中で世界経済ランキング6位に落ちる見通し - アラブニュース",
+      "link": "https://news.google.com/rss/articles/CBMijANBVV95cUxOX3BWQ0s2NS1GQlp5TTdfdDMzaTF1d2ZZYkpnUkYtejB3RGRXTHN5b1h1eVVMdXFhNnlkSnF4WVZQUlJsbEIxZFM0TUZ4eWQ4U2ZHMDBGSDBSN0JKMTFMTEpXRzZndmhwUXYyb1VSeFdkaWp2M21ZVjNQMHRuZlRpUHVMYWxfWGw4cHNPTzliS1R5cW5sQVBWay1oSjl1MkwxQl8yT3RCVzVWT1BZOTZjaG9fVVJ1cDdNUjlUZDhsN1RQWlZGNlJTMUtRVV9Fc01nZ19HaURFSmMxVTNQeU5qVVUwdzhWSlhFZUppOFBZcVozS2VNR2plVnZHaFRPd0ZaUHZYWURnOTFSdDhIdW1wOXRtdG1Xc01rX1JUQUMwYWxrdHhJaTBIQ254M1lsSF9DdDJsSHZvalFqY3pQOTFrLTU2NmR1QzZfOVVPckpoQWMtVXpaV2F4aVZzNFBRVWozNnJab2VtWmo2SnJsNDFlMDd3QjFQRHM2aW5tZVU1TDcxN3lTY3lfTG84bTY?oc=5",
+      "published": "Sun, 18 Oct 2026 13:05:34 GMT",
       "source": "Google News 日本経済",
       "score": -5,
       "category": "経済ニュース"
