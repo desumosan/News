@@ -1,14 +1,6 @@
 {
-  "updated_at": "2026-10-23T00:28:53.985722+00:00",
+  "updated_at": "2026-10-24T00:24:23.426304+00:00",
   "articles": [
-    {
-      "title": "日銀10月会合、連続利上げ見送りへ 2%物価目標は事実上到達 - 日本経済新聞",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5oN2VFMlV0eGM0QUhNaDV0LUd3cEZMTVV5akdVVDBST240eU1jaU5UeTFvNS1LMHZxUktZdU93QXF6LTMwejBKTnRTcEMyNlJxa0dnNW80bDNtUkoya3hjMnZXZmNtdGN1Z015ag?oc=5",
-      "published": "Thu, 22 Oct 2026 06:47:41 GMT",
-      "source": "Google News 日本経済",
-      "score": 27,
-      "category": "金融政策"
-    },
     {
       "title": "日本経済指標【消費者物価指数】 - みんかぶ FX/為替",
       "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5uSEdkWl9vblhaRmJ4VkZEUjl2Q2xMbXpSQzJpblJGOHQ3Ti1wWkVmbzV3cDNXQmNIQ2Z3WGxiejBpUEpzM0pMeA?oc=5",
@@ -18,49 +10,49 @@
       "category": "為替・金利"
     },
     {
-      "title": "9月消費者物価 生鮮食品除く指数 前年同月比＋2.1％",
-      "link": "https://news.web.nhk/newsweb/na/nd-20261023de63991",
-      "published": "Fri, 23 Oct 2026 08:51:40 +0900",
+      "title": "片山財務相 消費税減税終了時“支援金で負担感和らげたい”",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261023de64171",
+      "published": "Fri, 23 Oct 2026 22:34:37 +0900",
       "source": "NHK 経済",
-      "score": 19,
+      "score": 15,
+      "category": "政策・財政"
+    },
+    {
+      "title": "日経平均株価の指数情報・推移 - Yahoo!ファイナンス",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5SRDk1ZENIQUIzSUZyMHZRNHpCR2xlcTI5UTJRYXVoMDBrM3BmNndBT29vV0dDZWdQazZHb2tURGZNYy1OMU93R0kyUUZUT3VmU2VhbA?oc=5",
+      "published": "Fri, 23 Oct 2026 22:18:47 GMT",
+      "source": "Google News 日本経済",
+      "score": 11,
+      "category": "経済ニュース"
+    },
+    {
+      "title": "【日本株】AIで日経平均を予想したらどうなった？『AI予想との付き合い方』実践編 - マネクリ",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1xTEFoYmkzNlZNYzQzaVBFSVlPZ1plV2RSUFR2Y0ttdlhDYTRqTkFiNkdWckF4d25UTDFRYzM5em5NOGN1SDI2VDdZVUMxWEtSZllFTtIBV0FVX3lxTFAtdXMtSHZBV2lHX2xZNWphNVU3bW5pUDcwWW9IbnRsWUEwOGZrRXF2STZtTWt4T1JVU0RoN0xVanJyMGZyb2RPUHBNMDg4bVU4U1h5dkFhWQ?oc=5",
+      "published": "Fri, 23 Oct 2026 07:35:00 GMT",
+      "source": "Google News 日本経済",
+      "score": 10,
+      "category": "企業・産業"
+    },
+    {
+      "title": "高市首相 ガソリン補助 1リットル170円水準の見直し含め検討",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261023de64359",
+      "published": "Fri, 23 Oct 2026 19:26:36 +0900",
+      "source": "NHK 経済",
+      "score": 8,
       "category": "物価・家計"
     },
     {
-      "title": "ナスダック指数一時2.9％下落 AI投資への懸念が再燃",
-      "link": "https://news.web.nhk/newsweb/na/nd-20261023de63980",
-      "published": "Fri, 23 Oct 2026 07:58:34 +0900",
+      "title": "ボルボ・カー約2500人削減へ 中国販売台数減少など業績不振で",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261023de64605",
+      "published": "Fri, 23 Oct 2026 23:25:07 +0900",
       "source": "NHK 経済",
-      "score": 6,
-      "category": "企業・産業"
-    },
-    {
-      "title": "【QA】PHPにぜい弱性発見 AI時代に求められる対応とは?",
-      "link": "https://news.web.nhk/newsweb/na/nd-20261022de63922",
-      "published": "Fri, 23 Oct 2026 07:12:00 +0900",
-      "source": "NHK 経済",
-      "score": 6,
-      "category": "企業・産業"
-    },
-    {
-      "title": "【きょうのおはBiz 10/22】意図しない売買注文 AIによる攻撃か",
-      "link": "https://news.web.nhk/newsweb/na/nd-20261022de63319",
-      "published": "Thu, 22 Oct 2026 13:26:43 +0900",
-      "source": "NHK 経済",
-      "score": 6,
-      "category": "企業・産業"
+      "score": 5,
+      "category": "経済ニュース"
     },
     {
       "title": "「肥満」が日本経済に与える影響は年間11.1兆円になる予測 「肥満症」は慢性疾患 対策に企業連携が必要 - AERA DIGITAL",
       "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBsLUJaZnpaMllLUDNManRNd1oxRlRjQUd2MGZnRGdSb1kxVnBEX2Y2UGZEbExRYWMwWl9NXzhOSEJCU0dXWFhuOFhQb2FYMUZxd3F0elN3UHRZZw?oc=5",
       "published": "Thu, 22 Oct 2026 02:30:00 GMT",
-      "source": "Google News 日本経済",
-      "score": 4,
-      "category": "企業・産業"
-    },
-    {
-      "title": "日本企業、ベトナム山奥に投資機会 - 日本経済新聞",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1veGRBNV9XOGFhaDdUeUdNc0s5N0ZYUF9kZFNZNUNDQnRITW1tYnVseE9JOUx3bHRyUG1TUkFXdnBucGVZSmJ0cGpZTEVPcUtpY1dsbXJVdjZnclZoS1FDZHRXbmRibHBpN21NZA?oc=5",
-      "published": "Thu, 22 Oct 2026 20:00:00 GMT",
       "source": "Google News 日本経済",
       "score": 4,
       "category": "企業・産業"
@@ -74,103 +66,103 @@
       "category": "経済ニュース"
     },
     {
-      "title": "日本製鉄傘下のUSスチール 4700億円余の投資計画を発表",
-      "link": "https://news.web.nhk/newsweb/na/nd-20261023de63999",
-      "published": "Fri, 23 Oct 2026 09:15:04 +0900",
+      "title": "日本経済が苦境に陥った3つの原因―中国メディア - Record China",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE03MklWRDJ6UFJBTlZmcGdFSm1FNkV6bzZ0dXFSSGQ4X05paHhrblhYcXRfbWxENFdHNEVDZFpQT3g3SmlmNmt1ZHI2Y0drZG51RTN4Q0d6d2t6ekpxNGFVajVBZlZ1MDg?oc=5",
+      "published": "Thu, 22 Oct 2026 22:00:02 GMT",
+      "source": "Google News 日本経済",
+      "score": 3,
+      "category": "経済ニュース"
+    },
+    {
+      "title": "KDDI モンゴル自然保護区の大規模火災の経緯公表",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261024de64642",
+      "published": "Sat, 24 Oct 2026 05:20:57 +0900",
       "source": "NHK 経済",
       "score": 2,
       "category": "経済ニュース"
     },
     {
-      "title": "エネルギー白書「石油危機以来の対策では対応しきれない事態」",
-      "link": "https://news.web.nhk/newsweb/na/nd-20261023de63997",
-      "published": "Fri, 23 Oct 2026 09:11:28 +0900",
+      "title": "経産省が「核のごみ」文献調査について宮崎県串間市長に説明",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261023de64584",
+      "published": "Fri, 23 Oct 2026 22:55:48 +0900",
       "source": "NHK 経済",
       "score": 2,
       "category": "経済ニュース"
     },
     {
-      "title": "ANA エア・ドゥとソラシドに追加出資を検討",
-      "link": "https://news.web.nhk/newsweb/na/nd-20261023de63929",
-      "published": "Fri, 23 Oct 2026 06:39:00 +0900",
+      "title": "NHK出版 約12万件の個人情報漏えい 不正アクセスで",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261023de64585",
+      "published": "Fri, 23 Oct 2026 22:25:18 +0900",
       "source": "NHK 経済",
       "score": 2,
       "category": "経済ニュース"
     },
     {
-      "title": "ホンダ 三菱自動車からピックアップトラックの供給受ける覚書",
-      "link": "https://news.web.nhk/newsweb/na/nd-20261022de63910",
-      "published": "Thu, 22 Oct 2026 22:39:00 +0900",
+      "title": "アパレル大手「アンドエスティ」客の個人情報約250万件流出か",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261023de64499",
+      "published": "Fri, 23 Oct 2026 21:47:14 +0900",
       "source": "NHK 経済",
       "score": 2,
       "category": "経済ニュース"
     },
     {
-      "title": "生のジャガイモ解禁 野党“米との協議は慎重な姿勢で”",
-      "link": "https://news.web.nhk/newsweb/na/nd-20261022de63826",
-      "published": "Thu, 22 Oct 2026 20:00:41 +0900",
+      "title": "モスバーガー 流通済みプリペイドカード情報 約57万件が流出",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261023de64388",
+      "published": "Fri, 23 Oct 2026 22:13:49 +0900",
       "source": "NHK 経済",
       "score": 2,
       "category": "経済ニュース"
     },
     {
-      "title": "関西財界の訪中団 12月20日から3日間 北京訪問を発表",
-      "link": "https://news.web.nhk/newsweb/na/nd-20261022de63821",
-      "published": "Thu, 22 Oct 2026 19:41:00 +0900",
+      "title": "岩井コスモ証券会長 不正アクセスで陳謝 不正取引125万株",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261023de64214",
+      "published": "Fri, 23 Oct 2026 19:11:05 +0900",
       "source": "NHK 経済",
       "score": 2,
       "category": "経済ニュース"
     },
     {
-      "title": "連合 来年春闘で「6％中心に5％以上」賃上げ要求へ",
-      "link": "https://news.web.nhk/newsweb/na/nd-20261022de63733",
-      "published": "Thu, 22 Oct 2026 18:18:00 +0900",
+      "title": "円相場 値上がり",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261023de64474",
+      "published": "Fri, 23 Oct 2026 18:43:39 +0900",
       "source": "NHK 経済",
       "score": 2,
       "category": "経済ニュース"
     },
     {
-      "title": "経産省「ホワイトハッカー」のチーム立ち上げへ",
-      "link": "https://news.web.nhk/newsweb/na/nd-20261022de63664",
-      "published": "Thu, 22 Oct 2026 17:33:00 +0900",
+      "title": "滋賀銀行と大阪の池田泉州HD 経営統合に向け最終調整",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261023de64460",
+      "published": "Fri, 23 Oct 2026 22:48:25 +0900",
       "source": "NHK 経済",
       "score": 2,
       "category": "経済ニュース"
     },
     {
-      "title": "「カプコン」全世界の会員メールアドレスなど約1177万件漏えい",
-      "link": "https://news.web.nhk/newsweb/na/nd-20261022de63460",
-      "published": "Thu, 22 Oct 2026 18:27:00 +0900",
+      "title": "スーパーのコメ平均価格 5キロ2821円 10週連続値下がり",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261023de64466",
+      "published": "Fri, 23 Oct 2026 18:31:40 +0900",
       "source": "NHK 経済",
       "score": 2,
       "category": "経済ニュース"
     },
     {
-      "title": "すき家 JR 証券会社も “PHP”対応でサービス一時停止相次ぐ",
-      "link": "https://news.web.nhk/newsweb/na/nd-20261022de63324",
-      "published": "Thu, 22 Oct 2026 19:38:00 +0900",
+      "title": "「タイムズカー」運転免許証など画像流出の痕跡146万件",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261023de64213",
+      "published": "Fri, 23 Oct 2026 17:53:00 +0900",
       "source": "NHK 経済",
       "score": 2,
       "category": "経済ニュース"
     },
     {
-      "title": "メタに約3兆9000億円の制裁金 消費者保護法違反など",
-      "link": "https://news.web.nhk/newsweb/na/nd-20261022de63349",
-      "published": "Thu, 22 Oct 2026 11:26:00 +0900",
+      "title": "佐川急便 流出した個人情報は最大5300万件超の可能性",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261023de64285",
+      "published": "Fri, 23 Oct 2026 17:01:00 +0900",
       "source": "NHK 経済",
       "score": 2,
       "category": "経済ニュース"
     }
   ],
   "top_articles": [
-    {
-      "title": "日銀10月会合、連続利上げ見送りへ 2%物価目標は事実上到達 - 日本経済新聞",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5oN2VFMlV0eGM0QUhNaDV0LUd3cEZMTVV5akdVVDBST240eU1jaU5UeTFvNS1LMHZxUktZdU93QXF6LTMwejBKTnRTcEMyNlJxa0dnNW80bDNtUkoya3hjMnZXZmNtdGN1Z015ag?oc=5",
-      "published": "Thu, 22 Oct 2026 06:47:41 GMT",
-      "source": "Google News 日本経済",
-      "score": 27,
-      "category": "金融政策"
-    },
     {
       "title": "日本経済指標【消費者物価指数】 - みんかぶ FX/為替",
       "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5uSEdkWl9vblhaRmJ4VkZEUjl2Q2xMbXpSQzJpblJGOHQ3Ti1wWkVmbzV3cDNXQmNIQ2Z3WGxiejBpUEpzM0pMeA?oc=5",
@@ -180,12 +172,20 @@
       "category": "為替・金利"
     },
     {
-      "title": "9月消費者物価 生鮮食品除く指数 前年同月比＋2.1％",
-      "link": "https://news.web.nhk/newsweb/na/nd-20261023de63991",
-      "published": "Fri, 23 Oct 2026 08:51:40 +0900",
+      "title": "片山財務相 消費税減税終了時“支援金で負担感和らげたい”",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261023de64171",
+      "published": "Fri, 23 Oct 2026 22:34:37 +0900",
       "source": "NHK 経済",
-      "score": 19,
-      "category": "物価・家計"
+      "score": 15,
+      "category": "政策・財政"
+    },
+    {
+      "title": "日経平均株価の指数情報・推移 - Yahoo!ファイナンス",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5SRDk1ZENIQUIzSUZyMHZRNHpCR2xlcTI5UTJRYXVoMDBrM3BmNndBT29vV0dDZWdQazZHb2tURGZNYy1OMU93R0kyUUZUT3VmU2VhbA?oc=5",
+      "published": "Fri, 23 Oct 2026 22:18:47 GMT",
+      "source": "Google News 日本経済",
+      "score": 11,
+      "category": "経済ニュース"
     }
   ]
 }
