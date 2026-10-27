@@ -1,48 +1,32 @@
 {
-  "updated_at": "2026-10-25T23:58:58.967233+00:00",
+  "updated_at": "2026-10-27T01:19:18.676565+00:00",
   "articles": [
-    {
-      "title": "日本経済指標【消費者物価指数】 - みんかぶ FX/為替",
-      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5uSEdkWl9vblhaRmJ4VkZEUjl2Q2xMbXpSQzJpblJGOHQ3Ti1wWkVmbzV3cDNXQmNIQ2Z3WGxiejBpUEpzM0pMeA?oc=5",
-      "published": "Thu, 22 Oct 2026 23:30:28 GMT",
-      "source": "Google News 日本経済",
-      "score": 25,
-      "category": "為替・金利"
-    },
     {
       "title": "高市内閣支持率、横ばい62％ 効果のある物価高対策「食料品消費税減税」が54% テレ東・日経10月世論調査 - テレ東BIZ",
       "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFB6eFlrMGpWZTRZNHpBclBjN2NRWEsxNHRFeEItS0tPWW4ySGl4OGhNQS1ZaEhyVjVSRUxKcUUyaFdIQ1IzVFBPcEVsUXgxWXZHaHlyWA?oc=5",
-      "published": "Sun, 25 Oct 2026 10:00:00 GMT",
+      "published": "Sun, 25 Oct 2026 12:27:40 GMT",
       "source": "Google News 日本経済",
       "score": 21,
       "category": "物価・家計"
     },
     {
-      "title": "日銀10月会合 政策を維持する見通し 2%物価到達が焦点",
-      "link": "https://news.web.nhk/newsweb/na/nd-20261025de65328",
-      "published": "Mon, 26 Oct 2026 06:03:35 +0900",
+      "title": "政府 AIのリスク対応で法改正に向け検討開始へ",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261026de66039",
+      "published": "Tue, 27 Oct 2026 00:44:24 +0900",
       "source": "NHK 経済",
-      "score": 20,
-      "category": "金融政策"
+      "score": 11,
+      "category": "企業・産業"
     },
     {
-      "title": "日経平均株価の指数情報・推移 - Yahoo!ファイナンス",
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5SRDk1ZENIQUIzSUZyMHZRNHpCR2xlcTI5UTJRYXVoMDBrM3BmNndBT29vV0dDZWdQazZHb2tURGZNYy1OMU93R0kyUUZUT3VmU2VhbA?oc=5",
-      "published": "Sun, 25 Oct 2026 19:12:18 GMT",
+      "title": "日経平均3カ月ぶり安値、半導体株に売り 売買代金は半年ぶり低水準 - 日経CNBC online",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE81TTRuS1V4VFQ4THJ4WEpHYWpWbFNxcFUtWmNRQmpWZ1VRYmtISl9qWEFYV2tYUzdvZEEwSmg5anZsVlhPNTRSdlRxZjZsOFlwWXo2Tg?oc=5",
+      "published": "Mon, 26 Oct 2026 07:07:00 GMT",
       "source": "Google News 日本経済",
       "score": 11,
-      "category": "経済ニュース"
+      "category": "企業・産業"
     },
     {
-      "title": "生保各社 長期金利上昇で国債入れ替え方針",
-      "link": "https://news.web.nhk/newsweb/na/nd-20261025de65326",
-      "published": "Mon, 26 Oct 2026 06:09:18 +0900",
-      "source": "NHK 経済",
-      "score": 9,
-      "category": "為替・金利"
-    },
-    {
-      "title": "米ヘッジファンドが大打撃 AI半導体調整で「ディープシーク・ショック級」の声 - 日本経済新聞",
+      "title": "米ヘッジファンドが大打撃 AI半導体調整で「DeepSeekショック級」の声 - 日本経済新聞",
       "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFA0M1VCcWZRbGh6a0s0QmFuTlhhY1JsWE5lbDA4RTJqQ1NILTNpaUJodktNUUtzcmlvYzFJTkU3VWtzUnlma3daWVBGeUZHbGdidnUxblZ3VnhaMFNNZnJOSTVLN1IxVzRlTEF1WQ?oc=5",
       "published": "Sun, 25 Oct 2026 23:19:23 GMT",
       "source": "Google News 日本経済",
@@ -50,113 +34,129 @@
       "category": "企業・産業"
     },
     {
-      "title": "ECB、利上げ見送りの公算 仏金利上昇で「抜かずの宝刀」の出番は - 日本経済新聞",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9YdVNvZ1c4WHNjLXZxUVlicjRqVmpoSURSNE90cXAzOHA1QWNMbVM3MVIxV05kTVFxZDFPNXAxNnhHUzR1VTdubUtON1JSUmZ5a29BdmZuakg4QUdRWWVoVnBPNC1SVWNYT3hFRw?oc=5",
-      "published": "Sun, 25 Oct 2026 20:00:00 GMT",
+      "title": "止まらぬ中国株安、主力指数が最長続落記録 AI相場低迷も飛び火 - 日本経済新聞",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1ETTFDa1dBSnhQeUpicEk2TmtLaHBNSnM1LWFWUjJ4c0ozMnBTY2VMQ1lpTmtRUXRNZXk5TXpwWWZNVEk3UWN3UXJXNDQ2Wlg3TUVSZHlNQzZoZzVuOGpBMlB3LWtRVk5vcjdKMw?oc=5",
+      "published": "Mon, 26 Oct 2026 19:30:00 GMT",
       "source": "Google News 日本経済",
-      "score": 9,
-      "category": "金融政策"
+      "score": 7,
+      "category": "企業・産業"
     },
     {
-      "title": "高市首相 ガソリン補助 1リットル170円水準の見直し含め検討",
-      "link": "https://news.web.nhk/newsweb/na/nd-20261023de64359",
-      "published": "Fri, 23 Oct 2026 19:26:36 +0900",
-      "source": "NHK 経済",
-      "score": 8,
+      "title": "「なぜ賃金が上がらないのか？」30年に及ぶ日本経済の閉塞を打ち破る奥の手とは!?（週プレNEWS） - Yahoo!ニュース",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE84TnNuV0ROSUZuSmdsOGlNOGdhaHJWOEVGcDEwd2Y0M2k0TFBmX0dRZEg3VGt4UWtMUW96eXVNb3RQcXlZd1hKT05LNEZ0M2QtRTM2dmpjQ082akFLMXF5cXE2UG9aMFNtdXlwcW1DR1JTUVYyQW54OFkxWF9RSjg?oc=5",
+      "published": "Mon, 26 Oct 2026 21:31:20 GMT",
+      "source": "Google News 日本経済",
+      "score": 7,
       "category": "物価・家計"
     },
     {
-      "title": "政府に緊急要請のGMO 被害拡大防げるか 利用者に呼びかけ強化",
-      "link": "https://news.web.nhk/newsweb/na/nd-20261024de64946",
-      "published": "Sun, 25 Oct 2026 08:31:26 +0900",
+      "title": "米IT大手メタ 株式発行で最大15兆円調達 AI巨額設備投資の方針",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261027de66071",
+      "published": "Tue, 27 Oct 2026 04:26:05 +0900",
       "source": "NHK 経済",
-      "score": 7,
-      "category": "政策・財政"
-    },
-    {
-      "title": "GMO 不正アクセス問題で政府に「能動的サイバー防御」を要請",
-      "link": "https://news.web.nhk/newsweb/na/nd-20261024de64764",
-      "published": "Sat, 24 Oct 2026 18:57:00 +0900",
-      "source": "NHK 経済",
-      "score": 7,
-      "category": "政策・財政"
-    },
-    {
-      "title": "スバルが欧州でガソリン車撤退 28年にもEV専業に、日本勢初 - 日本経済新聞",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9NbUZyQUhHaEJxVFcySk5WYy1seTlFUWRRUXlMd2NXOGphZGw0UEJaNHk5QVdaZEJBdkx5OTYtMFB6Q2pHX3BGeUdRXzlOM0R6aGV0NGRFenZSaVVzUkFfdnIxck1tYzRTdzR2Wg?oc=5",
-      "published": "Sun, 25 Oct 2026 20:00:00 GMT",
-      "source": "Google News 日本経済",
       "score": 6,
-      "category": "物価・家計"
+      "category": "企業・産業"
     },
     {
-      "title": "ボルボ・カー約2500人削減へ 中国販売台数減少など業績不振で",
-      "link": "https://news.web.nhk/newsweb/na/nd-20261023de64605",
-      "published": "Fri, 23 Oct 2026 23:25:07 +0900",
+      "title": "金融大手 AI活用に向け人材育成強化の動き",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261027de66061",
+      "published": "Tue, 27 Oct 2026 03:51:44 +0900",
+      "source": "NHK 経済",
+      "score": 6,
+      "category": "企業・産業"
+    },
+    {
+      "title": "AI開発のアンソロピックが上場に向け書類 15兆円以上調達か",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261027de66050",
+      "published": "Tue, 27 Oct 2026 07:02:55 +0900",
+      "source": "NHK 経済",
+      "score": 6,
+      "category": "企業・産業"
+    },
+    {
+      "title": "日本最大級の工作機械見本市 AI活用した技術など紹介",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261026de65946",
+      "published": "Mon, 26 Oct 2026 19:04:59 +0900",
+      "source": "NHK 経済",
+      "score": 6,
+      "category": "企業・産業"
+    },
+    {
+      "title": "中国家電大手がタイに工場建設で起工式",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261026de66028",
+      "published": "Mon, 26 Oct 2026 22:54:08 +0900",
       "source": "NHK 経済",
       "score": 5,
       "category": "経済ニュース"
     },
     {
-      "title": "GMO社長 能動的サイバー防御「国民生活への影響照らし検討を」",
-      "link": "https://news.web.nhk/newsweb/na/nd-20261025de65362",
-      "published": "Sun, 25 Oct 2026 22:07:00 +0900",
+      "title": "決算:不二家が一転減益 26年12月期最終58%減、長雨や熊本地震が影響 - 日本経済新聞",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9lVmtDTnBoNW9QZWpNSEJMRUJNR2Roal9OVkV5UHA1V2hiOUFBc1NLeWJJSk11c1Fod3phNFVGYWxuelpqdkpBaUJtYnhUaTNJV0pjbHRabVFMZm5MMXN3OFBETUhtcVFERkJYOA?oc=5",
+      "published": "Mon, 26 Oct 2026 09:24:09 GMT",
+      "source": "Google News 日本経済",
+      "score": 5,
+      "category": "企業・産業"
+    },
+    {
+      "title": "GMO ハッカー集団の脅迫続くなか 注意呼びかけを一段と強化",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261027de66048",
+      "published": "Tue, 27 Oct 2026 04:54:00 +0900",
       "source": "NHK 経済",
       "score": 2,
       "category": "経済ニュース"
     },
     {
-      "title": "武部農相 台風25号で被害の千葉県視察 「早期復旧へ支援を」",
-      "link": "https://news.web.nhk/newsweb/na/nd-20261025de65313",
-      "published": "Sun, 25 Oct 2026 19:47:00 +0900",
+      "title": "ソフトバンク 緊急速報メールの配信すべて再開",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261027de66055",
+      "published": "Tue, 27 Oct 2026 01:03:00 +0900",
       "source": "NHK 経済",
       "score": 2,
       "category": "経済ニュース"
     },
     {
-      "title": "ソフトバンク 気象庁の緊急地震速報と津波警報の配信を再開",
-      "link": "https://news.web.nhk/newsweb/na/nd-20261025de65231",
-      "published": "Sun, 25 Oct 2026 17:50:00 +0900",
+      "title": "楽天トラベル 不正アクセスで氏名やクレカ番号の一部など流出",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261026de66040",
+      "published": "Tue, 27 Oct 2026 00:32:28 +0900",
       "source": "NHK 経済",
       "score": 2,
       "category": "経済ニュース"
     },
     {
-      "title": "KDDI モンゴル自然保護区の大規模火災の経緯公表",
-      "link": "https://news.web.nhk/newsweb/na/nd-20261024de64642",
-      "published": "Sat, 24 Oct 2026 05:20:00 +0900",
+      "title": "メール配信会社 不正アクセスで5162万件余の情報流出",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261027de66047",
+      "published": "Tue, 27 Oct 2026 00:17:25 +0900",
       "source": "NHK 経済",
       "score": 2,
       "category": "経済ニュース"
     },
     {
-      "title": "経産省が「核のごみ」文献調査について宮崎県串間市長に説明",
-      "link": "https://news.web.nhk/newsweb/na/nd-20261023de64584",
-      "published": "Fri, 23 Oct 2026 22:55:48 +0900",
+      "title": "電子ギフト会社に不正アクセス 5億5000万円分が不正発行",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261026de66013",
+      "published": "Mon, 26 Oct 2026 22:50:00 +0900",
       "source": "NHK 経済",
       "score": 2,
       "category": "経済ニュース"
     },
     {
-      "title": "NHK出版 約12万件の個人情報漏えい 不正アクセスで",
-      "link": "https://news.web.nhk/newsweb/na/nd-20261023de64585",
-      "published": "Fri, 23 Oct 2026 22:25:18 +0900",
+      "title": "家電量販店「Joshin」 顧客情報600万件漏えいの可能性",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261026de65955",
+      "published": "Mon, 26 Oct 2026 21:18:00 +0900",
       "source": "NHK 経済",
       "score": 2,
       "category": "経済ニュース"
     },
     {
-      "title": "アパレル大手「アンドエスティ」客の個人情報約250万件流出か",
-      "link": "https://news.web.nhk/newsweb/na/nd-20261023de64499",
-      "published": "Fri, 23 Oct 2026 21:47:14 +0900",
+      "title": "円相場 小幅に値下がり",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261026de65918",
+      "published": "Mon, 26 Oct 2026 18:31:09 +0900",
       "source": "NHK 経済",
       "score": 2,
       "category": "経済ニュース"
     },
     {
-      "title": "モスバーガー 流通済みプリペイドカード情報 約57万件が流出",
-      "link": "https://news.web.nhk/newsweb/na/nd-20261023de64388",
-      "published": "Fri, 23 Oct 2026 22:13:49 +0900",
+      "title": "「タイムズカー」個人情報漏えい問題 被害者が集団提訴へ",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261026de65793",
+      "published": "Mon, 26 Oct 2026 18:01:00 +0900",
       "source": "NHK 経済",
       "score": 2,
       "category": "経済ニュース"
@@ -164,28 +164,28 @@
   ],
   "top_articles": [
     {
-      "title": "日本経済指標【消費者物価指数】 - みんかぶ FX/為替",
-      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5uSEdkWl9vblhaRmJ4VkZEUjl2Q2xMbXpSQzJpblJGOHQ3Ti1wWkVmbzV3cDNXQmNIQ2Z3WGxiejBpUEpzM0pMeA?oc=5",
-      "published": "Thu, 22 Oct 2026 23:30:28 GMT",
-      "source": "Google News 日本経済",
-      "score": 25,
-      "category": "為替・金利"
-    },
-    {
       "title": "高市内閣支持率、横ばい62％ 効果のある物価高対策「食料品消費税減税」が54% テレ東・日経10月世論調査 - テレ東BIZ",
       "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFB6eFlrMGpWZTRZNHpBclBjN2NRWEsxNHRFeEItS0tPWW4ySGl4OGhNQS1ZaEhyVjVSRUxKcUUyaFdIQ1IzVFBPcEVsUXgxWXZHaHlyWA?oc=5",
-      "published": "Sun, 25 Oct 2026 10:00:00 GMT",
+      "published": "Sun, 25 Oct 2026 12:27:40 GMT",
       "source": "Google News 日本経済",
       "score": 21,
       "category": "物価・家計"
     },
     {
-      "title": "日銀10月会合 政策を維持する見通し 2%物価到達が焦点",
-      "link": "https://news.web.nhk/newsweb/na/nd-20261025de65328",
-      "published": "Mon, 26 Oct 2026 06:03:35 +0900",
+      "title": "政府 AIのリスク対応で法改正に向け検討開始へ",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261026de66039",
+      "published": "Tue, 27 Oct 2026 00:44:24 +0900",
       "source": "NHK 経済",
-      "score": 20,
-      "category": "金融政策"
+      "score": 11,
+      "category": "企業・産業"
+    },
+    {
+      "title": "日経平均3カ月ぶり安値、半導体株に売り 売買代金は半年ぶり低水準 - 日経CNBC online",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE81TTRuS1V4VFQ4THJ4WEpHYWpWbFNxcFUtWmNRQmpWZ1VRYmtISl9qWEFYV2tYUzdvZEEwSmg5anZsVlhPNTRSdlRxZjZsOFlwWXo2Tg?oc=5",
+      "published": "Mon, 26 Oct 2026 07:07:00 GMT",
+      "source": "Google News 日本経済",
+      "score": 11,
+      "category": "企業・産業"
     }
   ]
 }
