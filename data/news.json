@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-27T01:19:18.676565+00:00",
+  "updated_at": "2026-10-28T01:03:15.022190+00:00",
   "articles": [
     {
       "title": "高市内閣支持率、横ばい62％ 効果のある物価高対策「食料品消費税減税」が54% テレ東・日経10月世論調査 - テレ東BIZ",
@@ -10,12 +10,12 @@
       "category": "物価・家計"
     },
     {
-      "title": "政府 AIのリスク対応で法改正に向け検討開始へ",
-      "link": "https://news.web.nhk/newsweb/na/nd-20261026de66039",
-      "published": "Tue, 27 Oct 2026 00:44:24 +0900",
+      "title": "片山財務相 消費税減税の買い控えと駆け込み 関係省庁で対処",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261027de66642",
+      "published": "Tue, 27 Oct 2026 20:39:00 +0900",
       "source": "NHK 経済",
-      "score": 11,
-      "category": "企業・産業"
+      "score": 15,
+      "category": "政策・財政"
     },
     {
       "title": "日経平均3カ月ぶり安値、半導体株に売り 売買代金は半年ぶり低水準 - 日経CNBC online",
@@ -26,139 +26,139 @@
       "category": "企業・産業"
     },
     {
-      "title": "米ヘッジファンドが大打撃 AI半導体調整で「DeepSeekショック級」の声 - 日本経済新聞",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFA0M1VCcWZRbGh6a0s0QmFuTlhhY1JsWE5lbDA4RTJqQ1NILTNpaUJodktNUUtzcmlvYzFJTkU3VWtzUnlma3daWVBGeUZHbGdidnUxblZ3VnhaMFNNZnJOSTVLN1IxVzRlTEF1WQ?oc=5",
-      "published": "Sun, 25 Oct 2026 23:19:23 GMT",
+      "title": "新たな米国債保有の担い手 - 日本経済新聞",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9oT0tBRFNzRlROZjZobGRPRTFOV0lkSF9DeTZVY0lmaExVTlFmUzlMNFdIUmhaOUltLTF4aUQ4OXNWaHFoYkhvbkNsZmt6MXI3NTJwVlp4akN0V04tV215Sk1mMXpEM0NFS0oybg?oc=5",
+      "published": "Tue, 27 Oct 2026 17:00:00 GMT",
       "source": "Google News 日本経済",
-      "score": 9,
-      "category": "企業・産業"
+      "score": 10,
+      "category": "為替・金利"
     },
     {
-      "title": "止まらぬ中国株安、主力指数が最長続落記録 AI相場低迷も飛び火 - 日本経済新聞",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1ETTFDa1dBSnhQeUpicEk2TmtLaHBNSnM1LWFWUjJ4c0ozMnBTY2VMQ1lpTmtRUXRNZXk5TXpwWWZNVEk3UWN3UXJXNDQ2Wlg3TUVSZHlNQzZoZzVuOGpBMlB3LWtRVk5vcjdKMw?oc=5",
-      "published": "Mon, 26 Oct 2026 19:30:00 GMT",
-      "source": "Google News 日本経済",
+      "title": "金利上昇で価格下落の投信売却 今年度決算赤字へ JAさが",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261027de66647",
+      "published": "Tue, 27 Oct 2026 21:22:07 +0900",
+      "source": "NHK 経済",
       "score": 7,
       "category": "企業・産業"
     },
     {
-      "title": "「なぜ賃金が上がらないのか？」30年に及ぶ日本経済の閉塞を打ち破る奥の手とは!?（週プレNEWS） - Yahoo!ニュース",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE84TnNuV0ROSUZuSmdsOGlNOGdhaHJWOEVGcDEwd2Y0M2k0TFBmX0dRZEg3VGt4UWtMUW96eXVNb3RQcXlZd1hKT05LNEZ0M2QtRTM2dmpjQ082akFLMXF5cXE2UG9aMFNtdXlwcW1DR1JTUVYyQW54OFkxWF9RSjg?oc=5",
-      "published": "Mon, 26 Oct 2026 21:31:20 GMT",
+      "title": "フィジカルAI 農業分野で導入や開発の動き",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261028de66720",
+      "published": "Wed, 28 Oct 2026 05:33:00 +0900",
+      "source": "NHK 経済",
+      "score": 6,
+      "category": "企業・産業"
+    },
+    {
+      "title": "富士フイルム、磁気テープ20年ぶり大型増産 AIデータ保存リスク低く - 日本経済新聞",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5pdkdQMHFyS3pmc0p1cjZwSkR1VWFkMzFNVjhhVVhOa0tmMkRkNjk0cU5uWWh6eHd1Sng0NWJXZjU1Vy04NUhaV1NQYVlnY2VzVzJRQXR0VmJsU3BUYXlkLWMxV3NGQWp5enBvMA?oc=5",
+      "published": "Tue, 27 Oct 2026 20:00:00 GMT",
       "source": "Google News 日本経済",
-      "score": 7,
-      "category": "物価・家計"
-    },
-    {
-      "title": "米IT大手メタ 株式発行で最大15兆円調達 AI巨額設備投資の方針",
-      "link": "https://news.web.nhk/newsweb/na/nd-20261027de66071",
-      "published": "Tue, 27 Oct 2026 04:26:05 +0900",
-      "source": "NHK 経済",
-      "score": 6,
+      "score": 4,
       "category": "企業・産業"
     },
     {
-      "title": "金融大手 AI活用に向け人材育成強化の動き",
-      "link": "https://news.web.nhk/newsweb/na/nd-20261027de66061",
-      "published": "Tue, 27 Oct 2026 03:51:44 +0900",
+      "title": "GMO“懸賞金支払い”で脅迫に対抗も不安続く",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261028de66716",
+      "published": "Wed, 28 Oct 2026 05:07:00 +0900",
       "source": "NHK 経済",
-      "score": 6,
-      "category": "企業・産業"
-    },
-    {
-      "title": "AI開発のアンソロピックが上場に向け書類 15兆円以上調達か",
-      "link": "https://news.web.nhk/newsweb/na/nd-20261027de66050",
-      "published": "Tue, 27 Oct 2026 07:02:55 +0900",
-      "source": "NHK 経済",
-      "score": 6,
-      "category": "企業・産業"
-    },
-    {
-      "title": "日本最大級の工作機械見本市 AI活用した技術など紹介",
-      "link": "https://news.web.nhk/newsweb/na/nd-20261026de65946",
-      "published": "Mon, 26 Oct 2026 19:04:59 +0900",
-      "source": "NHK 経済",
-      "score": 6,
-      "category": "企業・産業"
-    },
-    {
-      "title": "中国家電大手がタイに工場建設で起工式",
-      "link": "https://news.web.nhk/newsweb/na/nd-20261026de66028",
-      "published": "Mon, 26 Oct 2026 22:54:08 +0900",
-      "source": "NHK 経済",
-      "score": 5,
+      "score": 2,
       "category": "経済ニュース"
     },
     {
-      "title": "決算:不二家が一転減益 26年12月期最終58%減、長雨や熊本地震が影響 - 日本経済新聞",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9lVmtDTnBoNW9QZWpNSEJMRUJNR2Roal9OVkV5UHA1V2hiOUFBc1NLeWJJSk11c1Fod3phNFVGYWxuelpqdkpBaUJtYnhUaTNJV0pjbHRabVFMZm5MMXN3OFBETUhtcVFERkJYOA?oc=5",
-      "published": "Mon, 26 Oct 2026 09:24:09 GMT",
+      "title": "来年産の主食用米需要“今年比最大50万トン近く少ない見通し”",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261027de66679",
+      "published": "Wed, 28 Oct 2026 05:03:44 +0900",
+      "source": "NHK 経済",
+      "score": 2,
+      "category": "経済ニュース"
+    },
+    {
+      "title": "りそな 埼玉りそな 関西みらい 3銀行も顧客情報漏えいの可能性",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261027de66670",
+      "published": "Tue, 27 Oct 2026 22:29:53 +0900",
+      "source": "NHK 経済",
+      "score": 2,
+      "category": "経済ニュース"
+    },
+    {
+      "title": "ソフトバンク子会社 サイバー攻撃受けた原因と対策を公表",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261027de66660",
+      "published": "Tue, 27 Oct 2026 21:45:13 +0900",
+      "source": "NHK 経済",
+      "score": 2,
+      "category": "経済ニュース"
+    },
+    {
+      "title": "日本生命 元社員が診断書偽造で給付金を不正に受給",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261027de66643",
+      "published": "Tue, 27 Oct 2026 21:23:04 +0900",
+      "source": "NHK 経済",
+      "score": 2,
+      "category": "経済ニュース"
+    },
+    {
+      "title": "クールジャパン機構に関する中間整理 「投資の判断が不十分」",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261027de66644",
+      "published": "Tue, 27 Oct 2026 21:21:14 +0900",
+      "source": "NHK 経済",
+      "score": 2,
+      "category": "経済ニュース"
+    },
+    {
+      "title": "金融庁長官「成長投資を拡大する段階に 海外マネーが不可欠」",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261027de66639",
+      "published": "Tue, 27 Oct 2026 21:09:29 +0900",
+      "source": "NHK 経済",
+      "score": 2,
+      "category": "経済ニュース"
+    },
+    {
+      "title": "10月の月例経済報告 「緩やかに回復」を維持",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261027de66635",
+      "published": "Tue, 27 Oct 2026 21:01:50 +0900",
+      "source": "NHK 経済",
+      "score": 2,
+      "category": "経済ニュース"
+    },
+    {
+      "title": "岩井コスモ問題受け業界全体で再発防止 日本取引所グループCEO",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261027de66636",
+      "published": "Tue, 27 Oct 2026 20:55:00 +0900",
+      "source": "NHK 経済",
+      "score": 2,
+      "category": "経済ニュース"
+    },
+    {
+      "title": "情報漏えい 27日も各社で発表相次ぐ",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261027de66611",
+      "published": "Tue, 27 Oct 2026 19:32:00 +0900",
+      "source": "NHK 経済",
+      "score": 2,
+      "category": "経済ニュース"
+    },
+    {
+      "title": "ニデック 創業者の永守氏らに損害賠償求め提訴へ",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261027de66585",
+      "published": "Tue, 27 Oct 2026 19:15:38 +0900",
+      "source": "NHK 経済",
+      "score": 2,
+      "category": "経済ニュース"
+    },
+    {
+      "title": "卵の小売価格が過去最高“鳥インフルエンザの影響続く”農水省",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261027de66318",
+      "published": "Tue, 27 Oct 2026 19:10:00 +0900",
+      "source": "NHK 経済",
+      "score": 2,
+      "category": "経済ニュース"
+    },
+    {
+      "title": "［社説］人質をとったサイバー攻撃は卑劣すぎる - 日本経済新聞",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5JZUE2VUc2MDlvSndBQUQ1bXQxaGEzd2NSZW0tZ0NtVF9NV19wNWJucGRHbmlfdHM2VFVwZW4tMzNYV2x1anRoWWJzb0swbjRvQV9uc0wtblJCQ0kyNUtUV0xQUjVkLU0teml3RA?oc=5",
+      "published": "Tue, 27 Oct 2026 10:05:00 GMT",
       "source": "Google News 日本経済",
-      "score": 5,
-      "category": "企業・産業"
-    },
-    {
-      "title": "GMO ハッカー集団の脅迫続くなか 注意呼びかけを一段と強化",
-      "link": "https://news.web.nhk/newsweb/na/nd-20261027de66048",
-      "published": "Tue, 27 Oct 2026 04:54:00 +0900",
-      "source": "NHK 経済",
-      "score": 2,
-      "category": "経済ニュース"
-    },
-    {
-      "title": "ソフトバンク 緊急速報メールの配信すべて再開",
-      "link": "https://news.web.nhk/newsweb/na/nd-20261027de66055",
-      "published": "Tue, 27 Oct 2026 01:03:00 +0900",
-      "source": "NHK 経済",
-      "score": 2,
-      "category": "経済ニュース"
-    },
-    {
-      "title": "楽天トラベル 不正アクセスで氏名やクレカ番号の一部など流出",
-      "link": "https://news.web.nhk/newsweb/na/nd-20261026de66040",
-      "published": "Tue, 27 Oct 2026 00:32:28 +0900",
-      "source": "NHK 経済",
-      "score": 2,
-      "category": "経済ニュース"
-    },
-    {
-      "title": "メール配信会社 不正アクセスで5162万件余の情報流出",
-      "link": "https://news.web.nhk/newsweb/na/nd-20261027de66047",
-      "published": "Tue, 27 Oct 2026 00:17:25 +0900",
-      "source": "NHK 経済",
-      "score": 2,
-      "category": "経済ニュース"
-    },
-    {
-      "title": "電子ギフト会社に不正アクセス 5億5000万円分が不正発行",
-      "link": "https://news.web.nhk/newsweb/na/nd-20261026de66013",
-      "published": "Mon, 26 Oct 2026 22:50:00 +0900",
-      "source": "NHK 経済",
-      "score": 2,
-      "category": "経済ニュース"
-    },
-    {
-      "title": "家電量販店「Joshin」 顧客情報600万件漏えいの可能性",
-      "link": "https://news.web.nhk/newsweb/na/nd-20261026de65955",
-      "published": "Mon, 26 Oct 2026 21:18:00 +0900",
-      "source": "NHK 経済",
-      "score": 2,
-      "category": "経済ニュース"
-    },
-    {
-      "title": "円相場 小幅に値下がり",
-      "link": "https://news.web.nhk/newsweb/na/nd-20261026de65918",
-      "published": "Mon, 26 Oct 2026 18:31:09 +0900",
-      "source": "NHK 経済",
-      "score": 2,
-      "category": "経済ニュース"
-    },
-    {
-      "title": "「タイムズカー」個人情報漏えい問題 被害者が集団提訴へ",
-      "link": "https://news.web.nhk/newsweb/na/nd-20261026de65793",
-      "published": "Mon, 26 Oct 2026 18:01:00 +0900",
-      "source": "NHK 経済",
-      "score": 2,
+      "score": -5,
       "category": "経済ニュース"
     }
   ],
@@ -172,12 +172,12 @@
       "category": "物価・家計"
     },
     {
-      "title": "政府 AIのリスク対応で法改正に向け検討開始へ",
-      "link": "https://news.web.nhk/newsweb/na/nd-20261026de66039",
-      "published": "Tue, 27 Oct 2026 00:44:24 +0900",
+      "title": "片山財務相 消費税減税の買い控えと駆け込み 関係省庁で対処",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261027de66642",
+      "published": "Tue, 27 Oct 2026 20:39:00 +0900",
       "source": "NHK 経済",
-      "score": 11,
-      "category": "企業・産業"
+      "score": 15,
+      "category": "政策・財政"
     },
     {
       "title": "日経平均3カ月ぶり安値、半導体株に売り 売買代金は半年ぶり低水準 - 日経CNBC online",
