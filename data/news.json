@@ -1,21 +1,29 @@
 {
-  "updated_at": "2026-10-29T01:39:09.119323+00:00",
+  "updated_at": "2026-10-30T01:45:09.242823+00:00",
   "articles": [
     {
-      "title": "FRB 政策金利据え置き 議長は今後の追加利上げ辞さない構えも",
-      "link": "https://news.web.nhk/newsweb/na/nd-20261029de67441",
-      "published": "Thu, 29 Oct 2026 07:45:00 +0900",
+      "title": "日銀 政策金利維持の見通し 2％物価目標 到達の判断が焦点",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261029de68131",
+      "published": "Fri, 30 Oct 2026 05:05:00 +0900",
       "source": "NHK 経済",
-      "score": 21,
+      "score": 30,
       "category": "金融政策"
     },
     {
-      "title": "FRBが金利据え置き 議長「インフレ率高すぎる」、年内利上げに含み - 日本経済新聞",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1YczhScm1VTzFEVTAtcm1XZFBhZl9NcUJxcHNiV2l0ZWppZFhocmFKQnVHNHNPYVNYUWNXM2FJWk1GTG5OTEotU2FsdkFlY0ZLRFhqbVJRYW9rYW1mS2Z0N3JQbXIwUWU1b0hENA?oc=5",
-      "published": "Wed, 28 Oct 2026 18:03:09 GMT",
+      "title": "日本経済指標【東京消費者物価指数】 - みんかぶ FX/為替",
+      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9JVVB5VFVjQVdVQW5KNUgyaUFCOFQzdXNDdzQ5cDRENTM4Ulk2dXprVjdJUFZEUEJlWld5VkQxVUdveTJZc0draw?oc=5",
+      "published": "Thu, 29 Oct 2026 23:30:29 GMT",
       "source": "Google News 日本経済",
-      "score": 17,
-      "category": "金融政策"
+      "score": 25,
+      "category": "為替・金利"
+    },
+    {
+      "title": "東京23区の10月の消費者物価指数 前年同月比2.6％上昇",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261030de68190",
+      "published": "Fri, 30 Oct 2026 08:44:00 +0900",
+      "source": "NHK 経済",
+      "score": 19,
+      "category": "物価・家計"
     },
     {
       "title": "いまや日本経済も〈AI一本足経済〉､輸出に設備投資､株価ひいては消費にもAIの恩恵…エネルギー高を和らげている - 東洋経済オンライン",
@@ -26,52 +34,108 @@
       "category": "企業・産業"
     },
     {
-      "title": "インフレ加速の抑制役を期待される「デフレ脱却宣言」 －日本経済情報2026年10月号 - 株式会社伊藤忠総研",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFB0UllUNXo0WlRyUUxuNDJZYkNjdlplcHQyaWQ4Q29lbFdQNEtQa3pqSENKbjVBSGlLeFYxOWNSU0tScHRCUlpRbER1RlEyVWR0YUxhb1Nad2JfeUZ1bjBjRVB3?oc=5",
-      "published": "Thu, 29 Oct 2026 01:34:21 GMT",
+      "title": "米 7月から9月 GDP＋3.4％ 伸び率拡大 消費AI投資活発で",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261030de68141",
+      "published": "Fri, 30 Oct 2026 00:31:00 +0900",
+      "source": "NHK 経済",
+      "score": 14,
+      "category": "景気・雇用"
+    },
+    {
+      "title": "政府 ガソリン価格など抑制で 予備費から1兆1400億円余支出へ",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261029de68118",
+      "published": "Thu, 29 Oct 2026 22:48:02 +0900",
+      "source": "NHK 経済",
+      "score": 13,
+      "category": "物価・家計"
+    },
+    {
+      "title": "欧州中銀が政策金利据え置き 12月の政策判断焦点に",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261030de68155",
+      "published": "Fri, 30 Oct 2026 05:11:27 +0900",
+      "source": "NHK 経済",
+      "score": 12,
+      "category": "金融政策"
+    },
+    {
+      "title": "日経平均、下げ幅一時1900円超す インテル急落で半導体関連に売り - 日本経済新聞",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9UV0xqM05xeE5iOE1tNkNkZXluY0JxMlJpSThpUGp0X1ZfNlFqY0oxczl3aEdRSnBDeVdDSUlrOUkwZmxHOHE2ZVlFbWdmdWpMU0ZpU19rWFNIaWpWX3JhUi1rRTk5MXA0Y2RVcg?oc=5",
+      "published": "Fri, 30 Oct 2026 01:30:23 GMT",
       "source": "Google News 日本経済",
+      "score": 11,
+      "category": "企業・産業"
+    },
+    {
+      "title": "日経平均株価に圧勝 “不老不死力”秘める指数とは - 日経CNBC online",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE56SkNhdnhyeGFnNGFlS2laczY3SDh1RkRqZzZpaV9nVHFSVGM1WTJBLUVqQWw3UGFVeHJiQ3JsZGJfejZ6eVI1YjJTTnRySFFQRWttbA?oc=5",
+      "published": "Thu, 29 Oct 2026 06:11:02 GMT",
+      "source": "Google News 日本経済",
+      "score": 11,
+      "category": "経済ニュース"
+    },
+    {
+      "title": "日経平均株価の指数情報・推移 - Yahoo!ファイナンス",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5SRDk1ZENIQUIzSUZyMHZRNHpCR2xlcTI5UTJRYXVoMDBrM3BmNndBT29vV0dDZWdQazZHb2tURGZNYy1OMU93R0kyUUZUT3VmU2VhbA?oc=5",
+      "published": "Thu, 29 Oct 2026 22:32:26 GMT",
+      "source": "Google News 日本経済",
+      "score": 11,
+      "category": "経済ニュース"
+    },
+    {
+      "title": "日本車の中国生産、ピークの4割弱 ガソリン車市場縮小でホンダ9割減 - 日本経済新聞",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1MUTljZVE4ZmdWUlgwX0RiTTc1UHFfYWdVMUw1bUQ2TTdxYUI3WTlUaTRKbjcxbjZKWERFSzNvZl8tN0o4YVI2emVFOUxxZVdsd0NyQ1BlaE14ZlR2M2VrNXYxTVBaVzZjQ0Y1Wg?oc=5",
+      "published": "Thu, 29 Oct 2026 09:00:00 GMT",
+      "source": "Google News 日本経済",
+      "score": 9,
+      "category": "物価・家計"
+    },
+    {
+      "title": "電気料金 11月使用分が大手7社で過去最高を更新",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261029de67703",
+      "published": "Thu, 29 Oct 2026 18:30:00 +0900",
+      "source": "NHK 経済",
       "score": 8,
       "category": "物価・家計"
     },
     {
-      "title": "高市政権の財政拡張による「悪い円安」論は間違い――「強い経済」のために円安を過度に恐れるべきでない理由 - ダイヤモンド・オンライン",
-      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE43cTZYUEVfN2hvalJDUlE5MDNNT1VZZV82amp6TGQtLXhRUXg1ODBKSTRSSVpOM2V6djdRY1kzSzZwcEZELTg2enFIenLSAU9BVV95cUxNeXMzblNKMmJpbHFtX3oteG9HTktiTVNkZEpIVWJNeS1hYzlHeWp5U01wVmJCQ2NUYUZNTWt4NlBockM1Q3hLZFc5RElYeUV3?oc=5",
-      "published": "Wed, 28 Oct 2026 21:15:00 GMT",
-      "source": "Google News 日本経済",
-      "score": 8,
-      "category": "為替・金利"
-    },
-    {
-      "title": "政府備蓄米追加買い戻し 自民党農林議員“もっと早く”",
-      "link": "https://news.web.nhk/newsweb/na/nd-20261028de67335",
-      "published": "Wed, 28 Oct 2026 21:14:00 +0900",
+      "title": "フォルクスワーゲン 7-9月期決算 8000億円超の大幅赤字",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261029de68034",
+      "published": "Fri, 30 Oct 2026 04:55:56 +0900",
       "source": "NHK 経済",
       "score": 7,
-      "category": "政策・財政"
+      "category": "企業・産業"
     },
     {
-      "title": "「なぜ賃金が上がらないのか？」30年に及ぶ日本経済の閉塞を打ち破る奥の手とは!?（週プレNEWS） - Yahoo!ニュース",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE84TnNuV0ROSUZuSmdsOGlNOGdhaHJWOEVGcDEwd2Y0M2k0TFBmX0dRZEg3VGt4UWtMUW96eXVNb3RQcXlZd1hKT05LNEZ0M2QtRTM2dmpjQ082akFLMXF5cXE2UG9aMFNtdXlwcW1DR1JTUVYyQW54OFkxWF9RSjg?oc=5",
-      "published": "Mon, 26 Oct 2026 21:31:20 GMT",
-      "source": "Google News 日本経済",
-      "score": 7,
-      "category": "物価・家計"
-    },
-    {
-      "title": "ウェブサイトなどの停止を告知した企業や自治体 約1200に",
-      "link": "https://news.web.nhk/newsweb/na/nd-20261028de67157",
-      "published": "Wed, 28 Oct 2026 19:52:22 +0900",
+      "title": "イオン 物流の効率化へ フィジカルAIの導入進める",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261029de68060",
+      "published": "Thu, 29 Oct 2026 20:34:55 +0900",
       "source": "NHK 経済",
       "score": 6,
       "category": "企業・産業"
     },
     {
-      "title": "非上場株の相続評価、自民決議案「白地から議論を」 国税庁案認めず - 日本経済新聞",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBuY0tNQXhhT2hTc2FMSm4taHZaQ09Rc1RWcWxpeEV0RnlzZHFrZjlHb3RMZGdIV21NRnhXY1hwYklUSHpIRzlja3ZuYWNTclRsRmplMWtQMVJMM1R2bmFHMjVnZ0c4MWhmWExjaw?oc=5",
-      "published": "Wed, 28 Oct 2026 20:00:00 GMT",
-      "source": "Google News 日本経済",
+      "title": "訪日中の独メルツ首相 核融合発電研究のベンチャー企業を視察",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261029de68038",
+      "published": "Thu, 29 Oct 2026 19:13:00 +0900",
+      "source": "NHK 経済",
       "score": 6,
-      "category": "政策・財政"
+      "category": "企業・産業"
+    },
+    {
+      "title": "トヨタ 今年度上半期の世界販売は4％減 中国市場の低迷で",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261029de68096",
+      "published": "Thu, 29 Oct 2026 20:50:38 +0900",
+      "source": "NHK 経済",
+      "score": 5,
+      "category": "経済ニュース"
+    },
+    {
+      "title": "トグルホールディングス[652A]の株価・株主優待など。 - 日本経済新聞",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE15NVEySVhPd01KbDVqdmZkcExDMmxxaEpwRHdRUW4wcVpDUE9CU1NBcXVmMzR6NEgtVzU3a0hESDhnUnRmQkxtR0F1UEYxbUFKR2djeHFtQnZHZw?oc=5",
+      "published": "Thu, 29 Oct 2026 23:44:24 GMT",
+      "source": "Google News 日本経済",
+      "score": 5,
+      "category": "経済ニュース"
     },
     {
       "title": "大企業年収、1位はキーエンス2178万円 2位は三菱商事2112万円 - 日本経済新聞",
@@ -82,110 +146,46 @@
       "category": "企業・産業"
     },
     {
-      "title": "円相場 1ドル＝157円台後半に一時値上がり FRB議長会見を受け",
-      "link": "https://news.web.nhk/newsweb/na/nd-20261029de67462",
-      "published": "Thu, 29 Oct 2026 06:17:06 +0900",
-      "source": "NHK 経済",
-      "score": 2,
-      "category": "経済ニュース"
+      "title": "「休日を出勤日に」で企業敗訴相次ぐ 変形労働時間制に厳しい司法 - 日本経済新聞",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE55bF9oOTM4bS1GMGtFYjI1amdweXVsQmxhMkJWd1ByMEhnV1BGY1lRLXlDaWxrN1hHOENqTFpaWFRPRkRSOXdTMUp5OWtfYzkyZmtPQ0FMTVJFbGg2R0lVMzkzQVV3WFJfenpIag?oc=5",
+      "published": "Thu, 29 Oct 2026 20:00:00 GMT",
+      "source": "Google News 日本経済",
+      "score": 4,
+      "category": "企業・産業"
     },
     {
-      "title": "GMO 攻撃者に関する情報精査 被害拡大防止で緊急の対応続く",
-      "link": "https://news.web.nhk/newsweb/na/nd-20261029de67431",
-      "published": "Thu, 29 Oct 2026 01:44:00 +0900",
-      "source": "NHK 経済",
-      "score": 2,
-      "category": "経済ニュース"
-    },
-    {
-      "title": "ホンダと日産 EV用バッテリーの協業へ具体的な交渉",
-      "link": "https://news.web.nhk/newsweb/na/nd-20261029de67424",
-      "published": "Thu, 29 Oct 2026 01:05:00 +0900",
-      "source": "NHK 経済",
-      "score": 2,
-      "category": "経済ニュース"
-    },
-    {
-      "title": "円相場 FOMC控え小幅な値動き",
-      "link": "https://news.web.nhk/newsweb/na/nd-20261028dw67398",
-      "published": "Wed, 28 Oct 2026 22:28:00 +0900",
-      "source": "NHK 経済",
-      "score": 2,
-      "category": "経済ニュース"
-    },
-    {
-      "title": "電力・ガス業者が販売状況を報告する国のサイトに不正アクセス",
-      "link": "https://news.web.nhk/newsweb/na/nd-20261028dw67403",
-      "published": "Wed, 28 Oct 2026 22:26:46 +0900",
-      "source": "NHK 経済",
-      "score": 2,
-      "category": "経済ニュース"
-    },
-    {
-      "title": "スカイチケット運営会社 情報悪用で口座情報流出 3万件余",
-      "link": "https://news.web.nhk/newsweb/na/nd-20261028dw67382",
-      "published": "Wed, 28 Oct 2026 21:49:00 +0900",
-      "source": "NHK 経済",
-      "score": 2,
-      "category": "経済ニュース"
-    },
-    {
-      "title": "ソニー生命 契約者サイト不正アクセス 個人情報約38万件漏えい",
-      "link": "https://news.web.nhk/newsweb/na/nd-20261028dw67390",
-      "published": "Wed, 28 Oct 2026 21:43:00 +0900",
-      "source": "NHK 経済",
-      "score": 2,
-      "category": "経済ニュース"
-    },
-    {
-      "title": "TBSショッピングの利用者 メールアドレスなど外部流出",
-      "link": "https://news.web.nhk/newsweb/na/nd-20261028de67241",
-      "published": "Wed, 28 Oct 2026 21:42:00 +0900",
-      "source": "NHK 経済",
-      "score": 2,
-      "category": "経済ニュース"
-    },
-    {
-      "title": "JR東海 リニア静岡工区の着工は来年春以降の見通し",
-      "link": "https://news.web.nhk/newsweb/na/nd-20261028de67345",
-      "published": "Wed, 28 Oct 2026 21:28:00 +0900",
-      "source": "NHK 経済",
-      "score": 2,
-      "category": "経済ニュース"
-    },
-    {
-      "title": "大阪のシンボル「通天閣」 再建７０年で点灯式",
-      "link": "https://news.web.nhk/newsweb/na/nd-20261028de67348",
-      "published": "Wed, 28 Oct 2026 21:19:00 +0900",
-      "source": "NHK 経済",
-      "score": 2,
-      "category": "経済ニュース"
+      "title": "キオクシア、「実質無借金」企業に変身 株主還元強化に市場が注目 - 日本経済新聞",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5xRmJDbFlwekd6NkhoT25ZZFkzTkQ1cm1rT3h2QU9ieTRrYnhHcFdheUEyay1aT195dDVOXzZoNzZsX0pvWEJLUnZ0NUVkampXX2tMbHRVd2dDdkJveTRDMjI0SEZISFNhR1pOVA?oc=5",
+      "published": "Thu, 29 Oct 2026 20:00:00 GMT",
+      "source": "Google News 日本経済",
+      "score": 4,
+      "category": "企業・産業"
     }
   ],
   "top_articles": [
     {
-      "title": "FRB 政策金利据え置き 議長は今後の追加利上げ辞さない構えも",
-      "link": "https://news.web.nhk/newsweb/na/nd-20261029de67441",
-      "published": "Thu, 29 Oct 2026 07:45:00 +0900",
+      "title": "日銀 政策金利維持の見通し 2％物価目標 到達の判断が焦点",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261029de68131",
+      "published": "Fri, 30 Oct 2026 05:05:00 +0900",
       "source": "NHK 経済",
-      "score": 21,
+      "score": 30,
       "category": "金融政策"
     },
     {
-      "title": "FRBが金利据え置き 議長「インフレ率高すぎる」、年内利上げに含み - 日本経済新聞",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1YczhScm1VTzFEVTAtcm1XZFBhZl9NcUJxcHNiV2l0ZWppZFhocmFKQnVHNHNPYVNYUWNXM2FJWk1GTG5OTEotU2FsdkFlY0ZLRFhqbVJRYW9rYW1mS2Z0N3JQbXIwUWU1b0hENA?oc=5",
-      "published": "Wed, 28 Oct 2026 18:03:09 GMT",
+      "title": "日本経済指標【東京消費者物価指数】 - みんかぶ FX/為替",
+      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9JVVB5VFVjQVdVQW5KNUgyaUFCOFQzdXNDdzQ5cDRENTM4Ulk2dXprVjdJUFZEUEJlWld5VkQxVUdveTJZc0draw?oc=5",
+      "published": "Thu, 29 Oct 2026 23:30:29 GMT",
       "source": "Google News 日本経済",
-      "score": 17,
-      "category": "金融政策"
+      "score": 25,
+      "category": "為替・金利"
     },
     {
-      "title": "いまや日本経済も〈AI一本足経済〉､輸出に設備投資､株価ひいては消費にもAIの恩恵…エネルギー高を和らげている - 東洋経済オンライン",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1PWFpRWEV5WEJ5aFR3cDg3RUpxa3lFZzRaellRUUhPeUNXYXhDYmtESTJRczdzMDk3Q1BWYkd1WnNxSDRsU0FyempRYWpYSHFOTTluQ0xpNE01Vks4OW5V?oc=5",
-      "published": "Wed, 28 Oct 2026 03:30:00 GMT",
-      "source": "Google News 日本経済",
-      "score": 15,
-      "category": "企業・産業"
+      "title": "東京23区の10月の消費者物価指数 前年同月比2.6％上昇",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261030de68190",
+      "published": "Fri, 30 Oct 2026 08:44:00 +0900",
+      "source": "NHK 経済",
+      "score": 19,
+      "category": "物価・家計"
     }
   ]
 }
