@@ -1,14 +1,6 @@
 {
-  "updated_at": "2026-11-01T00:50:52.029074+00:00",
+  "updated_at": "2026-11-02T01:23:32.384058+00:00",
   "articles": [
-    {
-      "title": "日銀 物価2％到達で定着に軸足移す 利上げどう進めるか焦点",
-      "link": "https://news.web.nhk/newsweb/na/nd-20261031de68799",
-      "published": "Sat, 31 Oct 2026 05:01:25 +0900",
-      "source": "NHK 経済",
-      "score": 29,
-      "category": "金融政策"
-    },
     {
       "title": "日本経済にとって円安と円高のどちらが良いか 「二匹目のどじょう」ならぬ「抹茶の二番煎じ」から考える 野村證券・岡崎康平 | NOMURA ウェルスタイル – 野村の投資＆マネーライフ - 野村證券",
       "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1jdUpKY2tHOVlvaVpqbk9UY0gzQ1U1NGdNQ2dnTXpWQTZ2SktTS1JxcFZkVHdkemJEMXRXamx6dENCZS10cjZHaDZnMlEzOHVMaE5pOTNEcjN1UFhiVXNv?oc=5",
@@ -18,28 +10,60 @@
       "category": "為替・金利"
     },
     {
-      "title": "日経平均株価は\"3カ月ぶり\"下落､モメンタム低下が続くのか - 四季報オンライン",
-      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBEWE5uOU02N3dYWVJMenRPdkJRQXFIbmRGU2hWcFVnUjd6QzV5aElJS1p0NURFZDdvYzFLQnZUdWZpX2gyOVphUmc5dlI1ME9KMmR3VE1uYw?oc=5",
-      "published": "Sat, 31 Oct 2026 23:00:00 GMT",
+      "title": "消費税減税法案 与党“採決に向け協議を”野党“首相出席を”",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261101de69291",
+      "published": "Mon, 02 Nov 2026 04:29:00 +0900",
+      "source": "NHK 経済",
+      "score": 15,
+      "category": "政策・財政"
+    },
+    {
+      "title": "避けたい「デフレ脱却宣言」 政府と日銀、緩和出口で苦悩 - 日本経済新聞",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFB2aUNoNTJMNWZfaGxQTlhXUHNJQ1Y5b1hPTHEwSUptLS1vSnp2MHluajBWT0NuSEJNNzE2MnBHWkw5ZkhocS1IOEYtR1NlQXJnTHE1b25ZUkViTkpOejhDVENfNXQ2Y2ZnUm9oSw?oc=5",
+      "published": "Sun, 01 Nov 2026 17:00:00 GMT",
+      "source": "Google News 日本経済",
+      "score": 15,
+      "category": "金融政策"
+    },
+    {
+      "title": "日経平均株価、318円09銭安で始まる - 寄り付き解説 きょうのトピック - 日経CNBC online",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9sbGoxc19PMFk3N0FoaDJ6N1JCVThLdTFNLTk2eC1VcHRGNFYwUWc1YzI1cHNkYmxqOTI3cDFFczM2UzBsNXYxc21IY0VUa1dpS0M4bA?oc=5",
+      "published": "Mon, 02 Nov 2026 00:23:10 GMT",
       "source": "Google News 日本経済",
       "score": 11,
       "category": "経済ニュース"
     },
     {
-      "title": "ユーロ圏GDP 7月から9月期 伸び率プラス0.4% 2期ぶり縮小",
-      "link": "https://news.web.nhk/newsweb/na/nd-20261030de68772",
-      "published": "Fri, 30 Oct 2026 22:04:45 +0900",
+      "title": "外国人旅行者向け免税制度 1日から「リファンド方式」導入",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261101de69141",
+      "published": "Sun, 01 Nov 2026 19:21:00 +0900",
       "source": "NHK 経済",
-      "score": 10,
-      "category": "景気・雇用"
+      "score": 8,
+      "category": "政策・財政"
     },
     {
-      "title": "キオクシアHD中間決算 最終利益は前年同期の37倍に",
-      "link": "https://news.web.nhk/newsweb/na/nd-20261030de68433",
-      "published": "Fri, 30 Oct 2026 22:37:04 +0900",
+      "title": "事業承継の相続税節税で評価方法検討 自民党内から反対論も",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261101de69080",
+      "published": "Sun, 01 Nov 2026 10:22:00 +0900",
       "source": "NHK 経済",
-      "score": 7,
-      "category": "企業・産業"
+      "score": 8,
+      "category": "政策・財政"
+    },
+    {
+      "title": "日経平均、6万2000円台に下落＝東京株式(時事通信) - Yahoo!ファイナンス",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQSmg5bTg0QzZKMmM4ZVNDZEg2SmhIWHlhc3ZIalJFaEJMMDJ6dWJzLXFxWmM0UUxfcnhhOE84QVJVM2dRNm5ncERhalFpMGRSSDhxdGlCZjRXRUxfZGFOcGhadUVGUlVHOFZPQ0lvVFYxdkRRVW5iMlFVWjZia01NUzIxejljZWs?oc=5",
+      "published": "Mon, 02 Nov 2026 00:01:38 GMT",
+      "source": "Google News 日本経済",
+      "score": 6,
+      "category": "経済ニュース"
+    },
+    {
+      "title": "日経平均の今週の予想レンジは6万1500円-6万4500円 | 今週のマーケット展望 - マネクリ",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1MMnliTjZRRktzVHRhbXptNzZGcEExcTFEZHB4SXRudUNCdTB0UUxJdl9JR19vNWZncF9Sb3FvaFVSVUNoc0xwdHJTdDJnZFJfczlqdw?oc=5",
+      "published": "Mon, 02 Nov 2026 00:07:00 GMT",
+      "source": "Google News 日本経済",
+      "score": 6,
+      "category": "経済ニュース"
     },
     {
       "title": "中国 製造業の景況感指数PMI 「50」下回る 内需の弱さを反映",
@@ -50,28 +74,60 @@
       "category": "経済ニュース"
     },
     {
-      "title": "防衛産業は日本経済を成長させるのか？ 専門家が語る政府投資の意義 - みんかぶ（マガジン）",
-      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE81SWlQZ0JZU2I3ZklBQlFPYm9ocGxjc3BabVlUenRLUktueHZfTFc2cDlUZnBJWXlBQ0RsRE9ZVVhMcDhfaWl5MW1JYw?oc=5",
-      "published": "Thu, 29 Oct 2026 07:00:00 GMT",
-      "source": "Google News 日本経済",
-      "score": 5,
-      "category": "政策・財政"
-    },
-    {
-      "title": "AIマネー争奪戦、日本に波及 円建て債発行2.5兆円で過去最大に - 日本経済新聞",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5wdmEwcW81eUtWZVA5djVHOTM2VV8zU3p0YXBGd1dTM0xTSUJfdUZKYlNJWkpHUExsa0NtU0h6MmRvUFdjTHBSSTRIbWVsRHdqd1ZfbXFQWS1fMXJYeXRZa1I5S1A1aFhMWVl0Vw?oc=5",
-      "published": "Sat, 31 Oct 2026 17:00:00 GMT",
+      "title": "攻めの知財へ「特許の怪物」も使いよう 訴訟恐れぬ日本企業に - 日本経済新聞",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5CZzlpbWtlZHdSV3NfT2N5TW8tVW1TLThHXzc1Q0xqaGxDNnc3ZmtmWF9uY0tCQVUyUGJWSlVCV2hfVVJxTm5QeXJwT0ZlczdrLWhpdHVObWxxNHBnWXJjcUU5SmpDM3JXaTZydA?oc=5",
+      "published": "Mon, 02 Nov 2026 01:00:00 GMT",
       "source": "Google News 日本経済",
       "score": 4,
       "category": "企業・産業"
     },
     {
-      "title": "NTT、サイバー防御へ企業の老朽システム刷新 国内6割が保守難しく - 日本経済新聞",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1ZX1hJSlkxMHBsMkRVdF9QYkdfcTdmSU5yWENfZllBcmFMc2Y2enJ4YlNkYmk0ZnlKczNuSzlfeTZ2TE5VT2Mzd2lCQnFUdy16M2UzekdMeFEyV2RKMTBTQUhCejUxb0NHM18zWQ?oc=5",
-      "published": "Sat, 31 Oct 2026 20:00:00 GMT",
+      "title": "高卒と大卒で同じ初任給、ミスミが30万円に統一 AI時代揺らぐ学歴 - 日本経済新聞",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9Vb0pqN3dTRnp4TERKYk4wVjkwLWZEcXF6bFJBM3Z1Ry1GXy1FYkJTeFFjSG45b0hSZFRXdFdzcUtqWGdLRlkzMjNtODRSblNGWkJjdmxKa08wV0o1c2Z0aGRBT2kxeHpENUtHVA?oc=5",
+      "published": "Sun, 01 Nov 2026 20:00:00 GMT",
       "source": "Google News 日本経済",
       "score": 4,
       "category": "企業・産業"
+    },
+    {
+      "title": "GMOきょう会見 不安の抑止やぜい弱性指摘後の対応が焦点",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261101de69276",
+      "published": "Mon, 02 Nov 2026 04:42:00 +0900",
+      "source": "NHK 経済",
+      "score": 2,
+      "category": "経済ニュース"
+    },
+    {
+      "title": "ゆうちょ銀行の貯金利子上限 撤廃めぐる議論進む",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261101de69279",
+      "published": "Mon, 02 Nov 2026 04:34:59 +0900",
+      "source": "NHK 経済",
+      "score": 2,
+      "category": "経済ニュース"
+    },
+    {
+      "title": "GMO傘下 顧客情報漏えい 9年近く外部から取得可能な状態",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261101de69281",
+      "published": "Sun, 01 Nov 2026 22:27:12 +0900",
+      "source": "NHK 経済",
+      "score": 2,
+      "category": "経済ニュース"
+    },
+    {
+      "title": "大衆車の代表格「カローラ」 発売60年で式典 トヨタ自動車",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261101de69214",
+      "published": "Sun, 01 Nov 2026 18:39:00 +0900",
+      "source": "NHK 経済",
+      "score": 2,
+      "category": "経済ニュース"
+    },
+    {
+      "title": "暗号資産大手バイナンスへのサイバー攻撃 FBI“北朝鮮が関与”",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261101de69102",
+      "published": "Sun, 01 Nov 2026 11:56:00 +0900",
+      "source": "NHK 経済",
+      "score": 2,
+      "category": "経済ニュース"
     },
     {
       "title": "G20外相会合閉幕 茂木外相“サプライチェーンでもG20協調を”",
@@ -84,7 +140,7 @@
     {
       "title": "GMO 子会社が2年前にシステムのぜい弱性を指摘 社長あす会見へ",
       "link": "https://news.web.nhk/newsweb/na/nd-20261031de69037",
-      "published": "Sun, 01 Nov 2026 05:09:50 +0900",
+      "published": "Sun, 01 Nov 2026 05:09:00 +0900",
       "source": "NHK 経済",
       "score": 2,
       "category": "経済ニュース"
@@ -104,73 +160,9 @@
       "source": "NHK 経済",
       "score": 2,
       "category": "経済ニュース"
-    },
-    {
-      "title": "NTTデータ委託先に不正アクセス 社債購入者情報漏えいの可能性",
-      "link": "https://news.web.nhk/newsweb/na/nd-20261031de68967",
-      "published": "Sat, 31 Oct 2026 17:35:00 +0900",
-      "source": "NHK 経済",
-      "score": 2,
-      "category": "経済ニュース"
-    },
-    {
-      "title": "ドイツ メルツ首相 EV優遇措置巡る懸念 EU首脳会談で検討へ",
-      "link": "https://news.web.nhk/newsweb/na/nd-20261031de68839",
-      "published": "Sat, 31 Oct 2026 07:45:00 +0900",
-      "source": "NHK 経済",
-      "score": 2,
-      "category": "経済ニュース"
-    },
-    {
-      "title": "“過去最大級被害”暗号資産大手バイナンス 複雑な攻撃あった",
-      "link": "https://news.web.nhk/newsweb/na/nd-20261031de68827",
-      "published": "Sat, 31 Oct 2026 09:21:59 +0900",
-      "source": "NHK 経済",
-      "score": 2,
-      "category": "経済ニュース"
-    },
-    {
-      "title": "日本交通 不正アクセスで29万人の個人情報漏えいおそれ",
-      "link": "https://news.web.nhk/newsweb/na/nd-20261030de68790",
-      "published": "Sat, 31 Oct 2026 00:23:49 +0900",
-      "source": "NHK 経済",
-      "score": 2,
-      "category": "経済ニュース"
-    },
-    {
-      "title": "ニデック 特別注意銘柄指定解除へ確認書を東証に提出【Q＆A】",
-      "link": "https://news.web.nhk/newsweb/na/nd-20261030de68736",
-      "published": "Fri, 30 Oct 2026 21:20:00 +0900",
-      "source": "NHK 経済",
-      "score": 2,
-      "category": "経済ニュース"
-    },
-    {
-      "title": "ジャングリア沖縄“新スポンサー探し半年程度かけて進めたい”",
-      "link": "https://news.web.nhk/newsweb/na/nd-20261030de68752",
-      "published": "Fri, 30 Oct 2026 21:18:36 +0900",
-      "source": "NHK 経済",
-      "score": 2,
-      "category": "経済ニュース"
-    },
-    {
-      "title": "高市首相 地方に投資を呼び込むための体制強化 検討加速を",
-      "link": "https://news.web.nhk/newsweb/na/nd-20261030de68722",
-      "published": "Fri, 30 Oct 2026 20:56:42 +0900",
-      "source": "NHK 経済",
-      "score": 2,
-      "category": "経済ニュース"
     }
   ],
   "top_articles": [
-    {
-      "title": "日銀 物価2％到達で定着に軸足移す 利上げどう進めるか焦点",
-      "link": "https://news.web.nhk/newsweb/na/nd-20261031de68799",
-      "published": "Sat, 31 Oct 2026 05:01:25 +0900",
-      "source": "NHK 経済",
-      "score": 29,
-      "category": "金融政策"
-    },
     {
       "title": "日本経済にとって円安と円高のどちらが良いか 「二匹目のどじょう」ならぬ「抹茶の二番煎じ」から考える 野村證券・岡崎康平 | NOMURA ウェルスタイル – 野村の投資＆マネーライフ - 野村證券",
       "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1jdUpKY2tHOVlvaVpqbk9UY0gzQ1U1NGdNQ2dnTXpWQTZ2SktTS1JxcFZkVHdkemJEMXRXamx6dENCZS10cjZHaDZnMlEzOHVMaE5pOTNEcjN1UFhiVXNv?oc=5",
@@ -180,12 +172,20 @@
       "category": "為替・金利"
     },
     {
-      "title": "日経平均株価は\"3カ月ぶり\"下落､モメンタム低下が続くのか - 四季報オンライン",
-      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBEWE5uOU02N3dYWVJMenRPdkJRQXFIbmRGU2hWcFVnUjd6QzV5aElJS1p0NURFZDdvYzFLQnZUdWZpX2gyOVphUmc5dlI1ME9KMmR3VE1uYw?oc=5",
-      "published": "Sat, 31 Oct 2026 23:00:00 GMT",
+      "title": "消費税減税法案 与党“採決に向け協議を”野党“首相出席を”",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261101de69291",
+      "published": "Mon, 02 Nov 2026 04:29:00 +0900",
+      "source": "NHK 経済",
+      "score": 15,
+      "category": "政策・財政"
+    },
+    {
+      "title": "避けたい「デフレ脱却宣言」 政府と日銀、緩和出口で苦悩 - 日本経済新聞",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFB2aUNoNTJMNWZfaGxQTlhXUHNJQ1Y5b1hPTHEwSUptLS1vSnp2MHluajBWT0NuSEJNNzE2MnBHWkw5ZkhocS1IOEYtR1NlQXJnTHE1b25ZUkViTkpOejhDVENfNXQ2Y2ZnUm9oSw?oc=5",
+      "published": "Sun, 01 Nov 2026 17:00:00 GMT",
       "source": "Google News 日本経済",
-      "score": 11,
-      "category": "経済ニュース"
+      "score": 15,
+      "category": "金融政策"
     }
   ]
 }
