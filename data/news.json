@@ -1,30 +1,6 @@
 {
-  "updated_at": "2026-11-07T01:43:39.236629+00:00",
+  "updated_at": "2026-11-08T01:13:17.276785+00:00",
   "articles": [
-    {
-      "title": "日経平均株価の終値3643円安、下げ幅歴代3位 半年ぶり6万円割れ - 日本経済新聞",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE95TVRpXzBSUWktOGdMSlprMTI5d3RINUFCMEdOWUduaHlUSmRvd0R4c1VEa1hqZExaYXpQNVJfdnhMcGhtVFVIcHRaRUIxeFdpRjVaNTJkSnllQTMxR1Q3QmZqd1Vpd3ZzSnAyUg?oc=5",
-      "published": "Fri, 06 Nov 2026 02:48:44 GMT",
-      "source": "Google News 日本経済",
-      "score": 19,
-      "category": "為替・金利"
-    },
-    {
-      "title": "来週(11/9～11/13)の日経平均株価の予想レンジは､5万4000～6万円！ 暴落後の自律反発が期待される一方、米国のAIデータセンター規制の行方には要警戒！ - ダイヤモンド・オンライン",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1SdTJncU94M1ZsWktwNTdmcXlqb29lZDV4UXN0djNTYkM4VmZ0MU53MDRlTTBPblBZUHlsY2E1ZFdVR1Y0b3VzcjlwRFJiNmhJdDdV?oc=5",
-      "published": "Sat, 07 Nov 2026 01:05:56 GMT",
-      "source": "Google News 日本経済",
-      "score": 18,
-      "category": "企業・産業"
-    },
-    {
-      "title": "共和党・中間選挙惨敗で“手負いの虎”と化したトランプ大統領の新たな脅威 日本に迫る利上げと円高、「サナエノミクス」が裏目に出て日本経済が逆回転を始めるリスク（マネーポストWEB） - Yahoo!ニュース",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE4zbGdiZFYzcnlPX2hkWFpxTnZYTDhkNk5pcUdKRl9INHNocXYtNWFrV1JfQWxvU1ZuU2lLX2JtQVZMcEJsTTlXNWpVTkV5aFREYUFxUVdTeWJxa1drNlEzTmkzbkRDemZCem1qLW1GcldhVnd3VWlxTzczMWI3UkU?oc=5",
-      "published": "Fri, 06 Nov 2026 22:16:46 GMT",
-      "source": "Google News 日本経済",
-      "score": 17,
-      "category": "金融政策"
-    },
     {
       "title": "食料品の消費税減税法案 衆院通過 与党少数の参院で議論へ",
       "link": "https://news.web.nhk/newsweb/na/nd-20261106de71864",
@@ -34,12 +10,12 @@
       "category": "政策・財政"
     },
     {
-      "title": "日経平均株価が急落 高市総理「一時的か予断許さず」 - テレ朝NEWS",
-      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE4zdzdndFR1Y3RXWk1qNUhPUW9wSG44aDAwaXdFSzJtSFloN05NMkpkVTRVX1VQdXQ3SEkzbG5CMkpESXNoRVlKdlcxUTZNV0pJV1c2YXd2ekZjd1U3TFFTVjFfMmJVbHFhSlFrZ2RzVlE5enc?oc=5",
-      "published": "Fri, 06 Nov 2026 02:37:57 GMT",
-      "source": "Google News 日本経済",
-      "score": 11,
-      "category": "経済ニュース"
+      "title": "物価高の波 大学の学園祭にも 早稲田祭の運営「少しでも安く」",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261107de72163",
+      "published": "Sat, 07 Nov 2026 19:45:54 +0900",
+      "source": "NHK 経済",
+      "score": 10,
+      "category": "物価・家計"
     },
     {
       "title": "アメリカ就業者数 市場予想上回る 来週の物価動向焦点",
@@ -50,9 +26,9 @@
       "category": "物価・家計"
     },
     {
-      "title": "日本経済の芽を摘んできた日銀、高市早苗政権の「成長戦略」と相いれない体質 高橋洋一 日本の解き方 - 産経ニュース",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQZmdkQktZSHVSYVlTX0xZQ05sLU9Fa3JWNG9wZTZ6RFRRNDJvNFJyRWs0dll0V244c3lFay1heXZ6QUw3b3JDckJaMXR3Qk9feVpZdXFaNWZoVm5yR3Z5eWNVMTBFcWNucDlYR0hpRkM3ZEdUWVE3clVoSDJ5M1dNMW5CTGpYNmFqeEg5ZTBDWXRwQXB6NlZxeG5WM2g?oc=5",
-      "published": "Sat, 07 Nov 2026 01:00:00 GMT",
+      "title": "狙われた日銀ETF売却益、果実は官民投資へ 「年1兆円」長期想定の打算 - 日本経済新聞",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE53Vjd3aWZmeHhsTDNSWlZwdlM1RUQ2dnNobWp1dlFOZGIzSEdsZkd6bzVxNzgxLWcyQnZEZkk0eU5mVzByeGpIZmw4MFBBZ182a2ZRLUw0aUVteF9zZVozeHVrSW9QY0JncE5mSw?oc=5",
+      "published": "Sat, 07 Nov 2026 20:00:00 GMT",
       "source": "Google News 日本経済",
       "score": 10,
       "category": "金融政策"
@@ -60,26 +36,34 @@
     {
       "title": "ベッセント財務長官と何副首相 貿易摩擦“休戦”の状況を協議",
       "link": "https://news.web.nhk/newsweb/na/nd-20261107de72007",
-      "published": "Sat, 07 Nov 2026 08:46:53 +0900",
+      "published": "Sat, 07 Nov 2026 08:46:00 +0900",
       "source": "NHK 経済",
       "score": 8,
       "category": "経済ニュース"
     },
     {
+      "title": "[FT]AI導入支援で潤うインドIT企業 - 日本経済新聞",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5heVBkMDE1S0lLNUNVZUY2WmY3Rngwa1RCcmR4MXhuSHpqeXJxUVlEQXBNY2NENXJyaTU0MVlsT0RIbUk2ZlMxdVRTLVJZbTRtZmRpUEU5R3J6R1VUaDhtTlAyaXhvcWhrSlFvVw?oc=5",
+      "published": "Sat, 07 Nov 2026 17:00:00 GMT",
+      "source": "Google News 日本経済",
+      "score": 8,
+      "category": "企業・産業"
+    },
+    {
       "title": "ナスダック1％超上昇で終了 AI・データセンター規制懸念根強く",
       "link": "https://news.web.nhk/newsweb/na/nd-20261107de72002",
-      "published": "Sat, 07 Nov 2026 06:41:05 +0900",
+      "published": "Sat, 07 Nov 2026 06:41:00 +0900",
       "source": "NHK 経済",
       "score": 6,
       "category": "企業・産業"
     },
     {
-      "title": "成長戦略の実行へ「フィジカルAI」など16項目を「重点項目」に",
-      "link": "https://news.web.nhk/newsweb/na/nd-20261106de71845",
-      "published": "Fri, 06 Nov 2026 19:16:00 +0900",
-      "source": "NHK 経済",
+      "title": "［社説］国民の税金を無駄にするな - 日本経済新聞",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9ZQ1BTVThVVHlBYl9BQ3BDT3drQTFDUkNpaks0RlA0YWczcWJ2c0FMTG51V3drSFFiVHlpQVFQRkhadTVqaExnVEZ4UkRDTU1pcFdQeFRSTnAxem1kckNwZ19vb1pTMllCOUh3Nw?oc=5",
+      "published": "Sat, 07 Nov 2026 10:00:00 GMT",
+      "source": "Google News 日本経済",
       "score": 6,
-      "category": "企業・産業"
+      "category": "政策・財政"
     },
     {
       "title": "高市総理 株価下落めぐり「予断できない、とにかく日本経済を強くする」（FNNプライムオンライン（フジテレビ系）） - Yahoo!ニュース",
@@ -98,17 +82,41 @@
       "category": "企業・産業"
     },
     {
-      "title": "循環する米国のポピュリズム - 日本経済新聞",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBLNHpsdHBSbnpmQ3pOZmxSWUlSOTNTSFFpYU1vbHRnZ3JNMFZ6VnJqdDBQVmExMHpwRVg4M3czcHdGVld2c0NIN3QtT0c3cmN5T2RnaXZ6TlRPeTdLa1lrbHdlM0JqSXhFMDgwOQ?oc=5",
-      "published": "Fri, 06 Nov 2026 17:00:00 GMT",
+      "title": "日本経済の長期低迷の根本的な内因―中国メディア - Infoseek",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1Zd2JMSXBCUV8wNEpfV1NQTnZxcWNZbnZ0QThpME9RMUFrMnRwWnVSZ2Z0dnhtc2N4WWY2bTRSR0lyb2YyRS1Db3hUdi1QM0JDOVhncEhoN0ZYOEFObjN4d2J0Z3VjR0owcmc?oc=5",
+      "published": "Sat, 07 Nov 2026 02:00:01 GMT",
       "source": "Google News 日本経済",
       "score": 3,
       "category": "経済ニュース"
     },
     {
+      "title": "中国で服役のアステラス社員、12月中旬に出所へ スパイ罪の刑期終え - 日本経済新聞",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5WNXJWQ0RnVlVmM1VlYjRqeUFkMmpDMkMtYnptYlhHZDN6MjA3Ti1QQnhGR1otM0tGb1BlNGxITDNBY3FSVWJTd09tdnk5TG1GWXlHMEotN1d6OTJibXlzZm1acXlLWDhIZjVaOA?oc=5",
+      "published": "Sat, 07 Nov 2026 12:45:20 GMT",
+      "source": "Google News 日本経済",
+      "score": 3,
+      "category": "経済ニュース"
+    },
+    {
+      "title": "HIS子会社がモバイルWi-Fiレンタル料で不当表示 消費者庁",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261107de72235",
+      "published": "Sat, 07 Nov 2026 22:42:24 +0900",
+      "source": "NHK 経済",
+      "score": 2,
+      "category": "経済ニュース"
+    },
+    {
+      "title": "GMO 管理者が全情報アクセス可能 リスク指摘も十分対策されず",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261107de72062",
+      "published": "Sat, 07 Nov 2026 11:41:00 +0900",
+      "source": "NHK 経済",
+      "score": 2,
+      "category": "経済ニュース"
+    },
+    {
       "title": "外務省幹部がロシア訪問 JT子会社への措置に抗議し撤回要求",
       "link": "https://news.web.nhk/newsweb/na/nd-20261107de71993",
-      "published": "Sat, 07 Nov 2026 06:53:06 +0900",
+      "published": "Sat, 07 Nov 2026 06:53:00 +0900",
       "source": "NHK 経済",
       "score": 2,
       "category": "経済ニュース"
@@ -152,40 +160,32 @@
       "source": "NHK 経済",
       "score": 2,
       "category": "経済ニュース"
-    },
-    {
-      "title": "NTTドコモ 最大29万件余の顧客情報流出で社長陳謝",
-      "link": "https://news.web.nhk/newsweb/na/nd-20261106de71859",
-      "published": "Fri, 06 Nov 2026 21:53:25 +0900",
-      "source": "NHK 経済",
-      "score": 2,
-      "category": "経済ニュース"
     }
   ],
   "top_articles": [
     {
-      "title": "日経平均株価の終値3643円安、下げ幅歴代3位 半年ぶり6万円割れ - 日本経済新聞",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE95TVRpXzBSUWktOGdMSlprMTI5d3RINUFCMEdOWUduaHlUSmRvd0R4c1VEa1hqZExaYXpQNVJfdnhMcGhtVFVIcHRaRUIxeFdpRjVaNTJkSnllQTMxR1Q3QmZqd1Vpd3ZzSnAyUg?oc=5",
-      "published": "Fri, 06 Nov 2026 02:48:44 GMT",
-      "source": "Google News 日本経済",
-      "score": 19,
-      "category": "為替・金利"
+      "title": "食料品の消費税減税法案 衆院通過 与党少数の参院で議論へ",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261106de71864",
+      "published": "Fri, 06 Nov 2026 22:30:47 +0900",
+      "source": "NHK 経済",
+      "score": 15,
+      "category": "政策・財政"
     },
     {
-      "title": "来週(11/9～11/13)の日経平均株価の予想レンジは､5万4000～6万円！ 暴落後の自律反発が期待される一方、米国のAIデータセンター規制の行方には要警戒！ - ダイヤモンド・オンライン",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1SdTJncU94M1ZsWktwNTdmcXlqb29lZDV4UXN0djNTYkM4VmZ0MU53MDRlTTBPblBZUHlsY2E1ZFdVR1Y0b3VzcjlwRFJiNmhJdDdV?oc=5",
-      "published": "Sat, 07 Nov 2026 01:05:56 GMT",
-      "source": "Google News 日本経済",
-      "score": 18,
-      "category": "企業・産業"
+      "title": "物価高の波 大学の学園祭にも 早稲田祭の運営「少しでも安く」",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261107de72163",
+      "published": "Sat, 07 Nov 2026 19:45:54 +0900",
+      "source": "NHK 経済",
+      "score": 10,
+      "category": "物価・家計"
     },
     {
-      "title": "共和党・中間選挙惨敗で“手負いの虎”と化したトランプ大統領の新たな脅威 日本に迫る利上げと円高、「サナエノミクス」が裏目に出て日本経済が逆回転を始めるリスク（マネーポストWEB） - Yahoo!ニュース",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE4zbGdiZFYzcnlPX2hkWFpxTnZYTDhkNk5pcUdKRl9INHNocXYtNWFrV1JfQWxvU1ZuU2lLX2JtQVZMcEJsTTlXNWpVTkV5aFREYUFxUVdTeWJxa1drNlEzTmkzbkRDemZCem1qLW1GcldhVnd3VWlxTzczMWI3UkU?oc=5",
-      "published": "Fri, 06 Nov 2026 22:16:46 GMT",
-      "source": "Google News 日本経済",
-      "score": 17,
-      "category": "金融政策"
+      "title": "アメリカ就業者数 市場予想上回る 来週の物価動向焦点",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261106de71979",
+      "published": "Sat, 07 Nov 2026 00:11:00 +0900",
+      "source": "NHK 経済",
+      "score": 10,
+      "category": "物価・家計"
     }
   ]
 }
