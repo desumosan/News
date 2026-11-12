@@ -1,84 +1,124 @@
 {
-  "updated_at": "2026-11-11T01:46:11.826021+00:00",
+  "updated_at": "2026-11-12T02:46:39.815318+00:00",
   "articles": [
     {
-      "title": "日銀10月会合 物価2％到達「できるときに利上げ」の指摘も",
-      "link": "https://news.web.nhk/newsweb/na/nd-20261110de73547",
-      "published": "Tue, 10 Nov 2026 16:46:24 +0900",
-      "source": "NHK 経済",
-      "score": 29,
-      "category": "金融政策"
-    },
-    {
-      "title": "米消費者物価指数 市場予想上回る FRB追加利上げの見方強まる",
-      "link": "https://news.web.nhk/newsweb/na/nd-20261110de73820",
-      "published": "Tue, 10 Nov 2026 22:57:00 +0900",
-      "source": "NHK 経済",
-      "score": 28,
-      "category": "金融政策"
-    },
-    {
-      "title": "円相場 小幅な値動き 米消費者物価指数の発表控え",
-      "link": "https://news.web.nhk/newsweb/na/nd-20261110de73733",
-      "published": "Tue, 10 Nov 2026 18:50:50 +0900",
-      "source": "NHK 経済",
-      "score": 19,
-      "category": "物価・家計"
-    },
-    {
-      "title": "景気ウォッチャー調査 6か月ぶり低下 物価上昇など消費に影響",
-      "link": "https://news.web.nhk/newsweb/na/nd-20261110de73686",
-      "published": "Tue, 10 Nov 2026 19:30:56 +0900",
-      "source": "NHK 経済",
-      "score": 17,
-      "category": "物価・家計"
-    },
-    {
-      "title": "日経平均終値1684円高、「トランプ発言」後押し 非鉄株高が映す楽観 - 日本経済新聞",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE8xOFdtTGJoc2xtcnBUTldrUHEzYjJ4RW1nUjQ4U1FrNlNfX2QtOGJ1eXlWcnlobFdZUU5NZUQ5QmVrV0xydUhLd0F1a3hnWVN5WHQtTDFtUUoyMFR4bVM3VlJDSVpESjlQSzdJNw?oc=5",
-      "published": "Tue, 10 Nov 2026 02:47:48 GMT",
+      "title": "ドル円159.70円付近 三村牽制発言とハト日銀委員で上下動 日経は堅調 - みんかぶ FX/為替",
+      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE8zTXJpX0Q0WUxzU1J6Y3VtNzFxNno3U3hNZzdwcDJGVmQ5dDBZTXAwQ0djRjZIWktmZFU4ZllEdmtkMnViTVdtcQ?oc=5",
+      "published": "Thu, 12 Nov 2026 02:00:29 GMT",
       "source": "Google News 日本経済",
-      "score": 14,
+      "score": 26,
+      "category": "金融政策"
+    },
+    {
+      "title": "石破茂前首相、消費税減税「インフレ助長する政策」 高松で講演 - 日本経済新聞",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5rN3JXbHJjU3RYVkJQczVOTnota3ZITU9YckxNOHlFN0Zub0k2SUxYV1JuUUlyM1VDcWljcWVXc2lSMTk2eGpyVXEzUnVIMk55YWctSDd3MXprZmctUFEzSlQ5RjRITUNJWkxDZA?oc=5",
+      "published": "Wed, 11 Nov 2026 10:29:41 GMT",
+      "source": "Google News 日本経済",
+      "score": 21,
+      "category": "物価・家計"
+    },
+    {
+      "title": "日本経済指標【国内企業物価】 - みんかぶ FX/為替",
+      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1CV0pmTnVueW5fV25CODVFRVU5MEVFWmN2eTRmRXg3bFRNbm80azZ2M1FXWjlwMHJ0eGtLRjljVElZODBKQ2tNQg?oc=5",
+      "published": "Wed, 11 Nov 2026 23:50:29 GMT",
+      "source": "Google News 日本経済",
+      "score": 20,
       "category": "為替・金利"
     },
     {
-      "title": "中国の貿易黒字1兆ドル超え 貿易摩擦の要因に",
-      "link": "https://news.web.nhk/newsweb/na/nd-20261110de73738",
-      "published": "Tue, 10 Nov 2026 19:47:45 +0900",
+      "title": "食料品 消費税減税法案 参院で審議入り 与党が少数 その行方は",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261111de74440",
+      "published": "Wed, 11 Nov 2026 21:56:58 +0900",
+      "source": "NHK 経済",
+      "score": 15,
+      "category": "政策・財政"
+    },
+    {
+      "title": "10月企業物価指数 前年同月比7.1％上昇 中東背景に伸び率拡大",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261112de74538",
+      "published": "Thu, 12 Nov 2026 09:20:00 +0900",
+      "source": "NHK 経済",
+      "score": 14,
+      "category": "物価・家計"
+    },
+    {
+      "title": "丸亀製麺が1割値下げ、消費減税対策で大手初 外食各社が客離れ防ぐ - 日本経済新聞",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBDY0tIdWNJQV9wdGVSV2hicWJxTEJzVFZQM0U0dUcyODlqVThtMUVrUWJvMFRqa2hTUDdXVExhUjFocF9saDN4c2diZjdIamRpM3hsMk5uY3JrbjRkbDV6aWt4LUthalNFVTFhVQ?oc=5",
+      "published": "Thu, 12 Nov 2026 01:59:42 GMT",
+      "source": "Google News 日本経済",
+      "score": 13,
+      "category": "政策・財政"
+    },
+    {
+      "title": "高市首相 \"予見可能性高い財政運営で成長力強化\" 日銀とも連携",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261111de74430",
+      "published": "Wed, 11 Nov 2026 19:58:00 +0900",
+      "source": "NHK 経済",
+      "score": 12,
+      "category": "金融政策"
+    },
+    {
+      "title": "円相場1ドル＝159円台後半 FRBの追加利上げ観測で",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261112de74514",
+      "published": "Thu, 12 Nov 2026 10:39:00 +0900",
       "source": "NHK 経済",
       "score": 11,
-      "category": "経済ニュース"
+      "category": "金融政策"
     },
     {
-      "title": "ホンダ 今年度の業績見通しを上方修正 円安やHVの販売増で",
-      "link": "https://news.web.nhk/newsweb/na/nd-20261110de73795",
-      "published": "Tue, 10 Nov 2026 21:15:46 +0900",
+      "title": "円相場 値下がり 米FRBが利上げに踏み切るとの見方 強まり",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261111de74373",
+      "published": "Wed, 11 Nov 2026 18:35:47 +0900",
       "source": "NHK 経済",
-      "score": 10,
-      "category": "為替・金利"
+      "score": 11,
+      "category": "金融政策"
     },
     {
-      "title": "秋田AIデータセンター、UAEを呼ぶ自然と人脈 税収は最大200億円増 - 日本経済新聞",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE54UVFGRUhVdERWR2lQMHRRdENDNTF0aGZwZXhhdjVnVF9IXzl1c19qWUctTUx2QnRXWk1zSW1oWEhHTW04bUNCN19tc25BRVBKMEN0aEpUVHRDTl9vYnFnLVZ6bTlUOUx5S2hjRw?oc=5",
-      "published": "Tue, 10 Nov 2026 17:00:00 GMT",
-      "source": "Google News 日本経済",
-      "score": 10,
-      "category": "企業・産業"
-    },
-    {
-      "title": "10月の倒産950件 前年同月比は微減も高い水準続く",
-      "link": "https://news.web.nhk/newsweb/na/nd-20261110de73572",
-      "published": "Tue, 10 Nov 2026 16:40:00 +0900",
-      "source": "NHK 経済",
-      "score": 8,
-      "category": "企業・産業"
-    },
-    {
-      "title": "スズキ中間決算 インドでの販売好調で売り上げ過去最高",
-      "link": "https://news.web.nhk/newsweb/na/nd-20261110de73754",
-      "published": "Tue, 10 Nov 2026 19:31:36 +0900",
+      "title": "日産自動車 中間決算 赤字幅縮小も2期連続の最終赤字",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261112de74555",
+      "published": "Thu, 12 Nov 2026 10:22:00 +0900",
       "source": "NHK 経済",
       "score": 7,
+      "category": "企業・産業"
+    },
+    {
+      "title": "人手不足解消へ ファミマがフィジカルAI導入",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261111de74472",
+      "published": "Thu, 12 Nov 2026 06:58:21 +0900",
+      "source": "NHK 経済",
+      "score": 6,
+      "category": "企業・産業"
+    },
+    {
+      "title": "経済安保対応で中堅・中小企業を支援へ 経済産業省",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261111de74475",
+      "published": "Thu, 12 Nov 2026 05:40:00 +0900",
+      "source": "NHK 経済",
+      "score": 6,
+      "category": "企業・産業"
+    },
+    {
+      "title": "AIを搭載 最新の人型ロボットの展示会",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261111de74355",
+      "published": "Wed, 11 Nov 2026 19:02:36 +0900",
+      "source": "NHK 経済",
+      "score": 6,
+      "category": "企業・産業"
+    },
+    {
+      "title": "情報漏えいリスク回避へ対策は？通販サイト閉鎖の企業も",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261111de73911",
+      "published": "Wed, 11 Nov 2026 18:51:00 +0900",
+      "source": "NHK 経済",
+      "score": 6,
+      "category": "企業・産業"
+    },
+    {
+      "title": "ビックカメラ 法人顧客の企業情報13万件余が流出 不正アクセス",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261111de74257",
+      "published": "Wed, 11 Nov 2026 17:35:31 +0900",
+      "source": "NHK 経済",
+      "score": 6,
       "category": "企業・産業"
     },
     {
@@ -90,73 +130,33 @@
       "category": "経済ニュース"
     },
     {
-      "title": "決算:ソフトバンクＧ最終赤字7680億円 4〜9月、米データセンターで損失 - 日本経済新聞",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9vc1Vmck5PNjg3QTZQSGtoMGtVMHVMTTFxR3poR2RwSWI2alA1QUhQS0xQeS1BcWJJX0RqQzhITDh6VHhZQ3MxS3V5WTYwRGxMNkVDYzhoZU5ZZFpkTUdfWjIzazF6SjFsaDJMMQ?oc=5",
-      "published": "Tue, 10 Nov 2026 06:39:48 GMT",
+      "title": "地銀・信金を事業再生の専門集団に 倒産増加に備え、金融庁が後押し - 日本経済新聞",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE02UTBkc1BBdGk1dzBYc3NwXzJhb3B3dVZxekJsNlJ3bDNMaXVpR293TDdBYUpnY3BHdTB5NzFaekVxYnhSWW9RMjZ4bGFaX25ydXR5M2NES3NLUW9SMmZtVEk5czdBYTVoUFRkNw?oc=5",
+      "published": "Wed, 11 Nov 2026 20:00:00 GMT",
       "source": "Google News 日本経済",
-      "score": 5,
+      "score": 6,
       "category": "企業・産業"
     },
     {
-      "title": "視る日経！ニュースNEXT【ＨＶ好調も米欧で逆風？日本車決算を読み解く】 - テレビ東京",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPYVFodi1DS01renRmbk5QeWhvZkJ2VlFZLU43bDBqbnV6QUxoV0NBX3ZHZ1ZBbWNaM2pTUW9rZHlKdHh1bkoteTNoR2lFb3hCSHdEVjM2R2VObTN6WEFrVkFtOVJRWERpRVhoamVPYi0xTnhfTlBMdTFoaTU3WGc4Q2hMQUpXa1NWV2piQlJUSVM5QQ?oc=5",
-      "published": "Tue, 10 Nov 2026 13:30:49 GMT",
-      "source": "Google News 日本経済",
-      "score": 5,
-      "category": "企業・産業"
-    },
-    {
-      "title": "アイグローブ[663A]の株価・株主優待など。 - 日本経済新聞",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFAzUGxjRzktMm9PYjMzSktHc1ZMXzFXdHFVMmljcU9rZWZ5ZHFvcnVQYW5XXzhDTzdZSEgwNXN5TVZtX1NWNEJfekhVcVZDbXlsMjJZazEyRUk0UQ?oc=5",
-      "published": "Tue, 10 Nov 2026 23:44:03 GMT",
-      "source": "Google News 日本経済",
-      "score": 5,
-      "category": "経済ニュース"
-    },
-    {
-      "title": "フィグマ日本代表「AIのデザインで自ら顧客支援」 - 日本経済新聞",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5sZDhqd0FmSkhyWWR3Y1pkLXNoMDNwUUJ1dzlvS3c5ajdiaW9HeEtmRlpYVWExdnlFYzI4VE1aMkp2S3lRZk8yRzlOS0l4WUJpeDRLNlZaM1VXUVZ5b25VUk51Z1Fld0ZyWnRLdg?oc=5",
-      "published": "Tue, 10 Nov 2026 20:00:00 GMT",
+      "title": "重要インフラの脅威を自衛隊が平時から探知へ AIで先回り、安保3文書に明記と日経（ビジネス＋IT） - Yahoo!ニュース",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9EaUJ4MTJGN21hM0pGNFAwM2h0M0tIUWh3VFYyMmE2SWUyTTloSU5sbWVUQTBqa3NaOF8wdGtJTDZLTDZYUEpaNG0yNHFXZDh6S1dyWWgwVnpTQzhacEI3eGIxWFpTZ3NEV1l6YXR5amNTQmdvWUc4UGZ4U0ZsSUU?oc=5",
+      "published": "Wed, 11 Nov 2026 12:40:06 GMT",
       "source": "Google News 日本経済",
       "score": 4,
       "category": "企業・産業"
     },
     {
-      "title": "「ネオクラウド」コアウィーブ最終赤字6倍 利息支払いで",
-      "link": "https://news.web.nhk/newsweb/na/nd-20261111de73895",
-      "published": "Wed, 11 Nov 2026 10:31:00 +0900",
-      "source": "NHK 経済",
-      "score": 2,
+      "title": "［社説］世界の安定へ米国は外交立て直せ - 日本経済新聞",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE0yaDhkZVF6VV9uUV9JcFRIcWJVeG4zRGp0RUxMR3BMVmlJLU1kQldKZTJ6UEFBYzBVdFVzNXU1U3Q3eU13Nlhzc2VZa1U1ZkFJMlhPaTcwa1lkMXFoRHRVVUx5bm1mVWlZNUZfYQ?oc=5",
+      "published": "Wed, 11 Nov 2026 10:00:00 GMT",
+      "source": "Google News 日本経済",
+      "score": 3,
       "category": "経済ニュース"
     },
     {
-      "title": "タマホーム社員 火災保険不正請求の疑い 損保各社調査求める",
-      "link": "https://news.web.nhk/newsweb/na/nd-20261111de73843",
-      "published": "Wed, 11 Nov 2026 04:56:00 +0900",
-      "source": "NHK 経済",
-      "score": 2,
-      "category": "経済ニュース"
-    },
-    {
-      "title": "ソフト99 クレカ情報含む 最大約13万人の個人情報漏えいか",
-      "link": "https://news.web.nhk/newsweb/na/nd-20261110de73798",
-      "published": "Tue, 10 Nov 2026 20:41:28 +0900",
-      "source": "NHK 経済",
-      "score": 2,
-      "category": "経済ニュース"
-    },
-    {
-      "title": "りそなHD M＆A支援体制強化へ 仲介大手と資本業務提携",
-      "link": "https://news.web.nhk/newsweb/na/nd-20261110de73783",
-      "published": "Tue, 10 Nov 2026 20:23:00 +0900",
-      "source": "NHK 経済",
-      "score": 2,
-      "category": "経済ニュース"
-    },
-    {
-      "title": "日商 受験者最大約98万人分の情報漏えいか 不正アクセスの影響",
-      "link": "https://news.web.nhk/newsweb/na/nd-20261110de73779",
-      "published": "Tue, 10 Nov 2026 19:53:54 +0900",
+      "title": "エヌビディア フアンCEO解任へ準備 米紙報道",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261112de74529",
+      "published": "Thu, 12 Nov 2026 10:48:02 +0900",
       "source": "NHK 経済",
       "score": 2,
       "category": "経済ニュース"
@@ -164,28 +164,28 @@
   ],
   "top_articles": [
     {
-      "title": "日銀10月会合 物価2％到達「できるときに利上げ」の指摘も",
-      "link": "https://news.web.nhk/newsweb/na/nd-20261110de73547",
-      "published": "Tue, 10 Nov 2026 16:46:24 +0900",
-      "source": "NHK 経済",
-      "score": 29,
+      "title": "ドル円159.70円付近 三村牽制発言とハト日銀委員で上下動 日経は堅調 - みんかぶ FX/為替",
+      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE8zTXJpX0Q0WUxzU1J6Y3VtNzFxNno3U3hNZzdwcDJGVmQ5dDBZTXAwQ0djRjZIWktmZFU4ZllEdmtkMnViTVdtcQ?oc=5",
+      "published": "Thu, 12 Nov 2026 02:00:29 GMT",
+      "source": "Google News 日本経済",
+      "score": 26,
       "category": "金融政策"
     },
     {
-      "title": "米消費者物価指数 市場予想上回る FRB追加利上げの見方強まる",
-      "link": "https://news.web.nhk/newsweb/na/nd-20261110de73820",
-      "published": "Tue, 10 Nov 2026 22:57:00 +0900",
-      "source": "NHK 経済",
-      "score": 28,
-      "category": "金融政策"
-    },
-    {
-      "title": "円相場 小幅な値動き 米消費者物価指数の発表控え",
-      "link": "https://news.web.nhk/newsweb/na/nd-20261110de73733",
-      "published": "Tue, 10 Nov 2026 18:50:50 +0900",
-      "source": "NHK 経済",
-      "score": 19,
+      "title": "石破茂前首相、消費税減税「インフレ助長する政策」 高松で講演 - 日本経済新聞",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5rN3JXbHJjU3RYVkJQczVOTnota3ZITU9YckxNOHlFN0Zub0k2SUxYV1JuUUlyM1VDcWljcWVXc2lSMTk2eGpyVXEzUnVIMk55YWctSDd3MXprZmctUFEzSlQ5RjRITUNJWkxDZA?oc=5",
+      "published": "Wed, 11 Nov 2026 10:29:41 GMT",
+      "source": "Google News 日本経済",
+      "score": 21,
       "category": "物価・家計"
+    },
+    {
+      "title": "日本経済指標【国内企業物価】 - みんかぶ FX/為替",
+      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1CV0pmTnVueW5fV25CODVFRVU5MEVFWmN2eTRmRXg3bFRNbm80azZ2M1FXWjlwMHJ0eGtLRjljVElZODBKQ2tNQg?oc=5",
+      "published": "Wed, 11 Nov 2026 23:50:29 GMT",
+      "source": "Google News 日本経済",
+      "score": 20,
+      "category": "為替・金利"
     }
   ]
 }
