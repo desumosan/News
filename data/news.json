@@ -1,162 +1,162 @@
 {
-  "updated_at": "2026-11-13T02:29:04.884427+00:00",
+  "updated_at": "2026-11-14T02:06:20.070793+00:00",
   "articles": [
     {
-      "title": "東京外国為替市場で円安進む 一時1ドル＝160円に迫る水準に",
-      "link": "https://news.web.nhk/newsweb/na/nd-20261112de74982",
-      "published": "Thu, 12 Nov 2026 18:19:08 +0900",
-      "source": "NHK 経済",
-      "score": 18,
-      "category": "為替・金利"
-    },
-    {
-      "title": "食料品の消費税減税見据え うどんチェーンが値下げ発表",
-      "link": "https://news.web.nhk/newsweb/na/nd-20261112de75068",
-      "published": "Thu, 12 Nov 2026 22:49:00 +0900",
+      "title": "食料品消費税減税法案 支援金“勤労者の5割以上の方向で検討”",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261113de75691",
+      "published": "Fri, 13 Nov 2026 22:03:24 +0900",
       "source": "NHK 経済",
       "score": 15,
       "category": "政策・財政"
     },
     {
-      "title": "日経平均株価、一時１０００円超上昇…６万１８００円台で推移 - 読売新聞",
-      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5zVWNqX3Z4UGhkUi1MQXIzOENBTU5sZllPU0x6dnB0b0ZjZXh6cWx5TGh4cHVpSVVEQ0VUZXhHVXgyRzdVYmFmeXg5YXloZ0tfWlY1cGdPNFk0aEFBNDdiSHV1QWg?oc=5",
-      "published": "Fri, 13 Nov 2026 01:45:00 GMT",
-      "source": "Google News 日本経済",
-      "score": 11,
-      "category": "経済ニュース"
-    },
-    {
-      "title": "円相場 一時1ドル＝160円台まで値下がり 約2か月ぶり円安水準",
-      "link": "https://news.web.nhk/newsweb/na/nd-20261113de75110",
-      "published": "Fri, 13 Nov 2026 10:16:48 +0900",
+      "title": "エヌビディア先端半導体輸出 ラトニック商務長官の責任論浮上",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261114de75753",
+      "published": "Sat, 14 Nov 2026 06:20:07 +0900",
       "source": "NHK 経済",
-      "score": 10,
-      "category": "為替・金利"
+      "score": 13,
+      "category": "企業・産業"
     },
     {
-      "title": "NVIDIAにスパイ疑惑アリス氏 中国TVで勤務、在籍企業の資産44万倍 - 日本経済新聞",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9JcGJEWDVNSDRVem9DNnBIcjZZWjZ5ckN2ZEtkek9HS0RDaWwxVUR2SmduY1EydWt2NG1KQ1ZFdlhVNm85bWxLQnhGTVRwNHNpQ0dRN0VXWjJpZEhRV05iVkJiUnd6S1d4ekNpYg?oc=5",
-      "published": "Thu, 12 Nov 2026 20:01:50 GMT",
-      "source": "Google News 日本経済",
+      "title": "3メガバンクの中間決算 金利上昇で過去最高益",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261113de75684",
+      "published": "Fri, 13 Nov 2026 21:10:54 +0900",
+      "source": "NHK 経済",
       "score": 7,
       "category": "企業・産業"
     },
     {
-      "title": "セキュリティーサービス企業に不正アクセス 顧客情報漏えいか",
-      "link": "https://news.web.nhk/newsweb/na/nd-20261112de75041",
-      "published": "Thu, 12 Nov 2026 20:39:02 +0900",
+      "title": "東芝中間決算 最終利益前年同期比8倍 キオクシア株売却益など",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261113de75685",
+      "published": "Fri, 13 Nov 2026 21:10:26 +0900",
       "source": "NHK 経済",
-      "score": 6,
+      "score": 7,
       "category": "企業・産業"
     },
     {
-      "title": "NVIDIAファン氏辞任でも日経平均6万円台維持 「売る権利」には警戒 - 日本経済新聞",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1acDdpQzNPNlFoaC1VSVVVZ2RSOFRuczM2MGhmM0dKeGhMLU1tT29EOEQ5dElZMEd2SmVKSm9oWjVDd3RsU1huajFrMVl3SlNING1BUXBVWWNITFVLekQ0T2Zxb3hxZ01CRi1WMw?oc=5",
-      "published": "Fri, 13 Nov 2026 01:53:13 GMT",
+      "title": "楽天の第3四半期決算 金融・旅行好調で売上最高も最終赤字に",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261113de75644",
+      "published": "Fri, 13 Nov 2026 19:43:40 +0900",
+      "source": "NHK 経済",
+      "score": 7,
+      "category": "企業・産業"
+    },
+    {
+      "title": "動いた農林中金、AI株を「底値買い」 長期で安定成長を期待 - 日本経済新聞",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9FbzNRcE5nZC1wb1pjZUxTbXl5bEEzRGNPX015MUJkb2wxOFExYmZfQzc0djQ0RlV3T2pmT2RabmQwMEdIYWRDdUZPdlN5UGtNT0hXaUVicWh2WGNZcW1CdWZ2ZV9lTjZyYVVhRA?oc=5",
+      "published": "Fri, 13 Nov 2026 09:00:00 GMT",
       "source": "Google News 日本経済",
-      "score": 6,
-      "category": "経済ニュース"
+      "score": 4,
+      "category": "企業・産業"
     },
     {
-      "title": "証券大手、相次ぎ日経平均見通し下げ 大和は「8万円は1年おあずけ」 - 日本経済新聞",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5KODdEeml0MlUtMlRBRWhtczUxUW8taklDX055VDVIS2IzZkxsTlJDR2xUOUUxbDN1ZWJGcllIQUd0cTk0d0tMYkg0cE95TUFCRTYxY3QxRUM1R1hHSnpSM2JLeHhSNm9KaTJqSA?oc=5",
-      "published": "Thu, 12 Nov 2026 10:16:42 GMT",
+      "title": "AIデータセンター向け債務拡大、「規模を把握できず」 FRBが警鐘 - 日本経済新聞",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE01TnZHckFlNFAtTnp4dDhlNjBLeUs4QTE5MTdxUmNPQ1pGYzQ3Q0NYQTNUMjFfWTEwVmFDWEgxZC1tRFZieWQ5Y1NUOE1jbmpqMHVNOXdFcG50dFJoRHZDRXA1MlBwZmRySGpNUw?oc=5",
+      "published": "Fri, 13 Nov 2026 22:09:48 GMT",
       "source": "Google News 日本経済",
-      "score": 6,
-      "category": "経済ニュース"
+      "score": 4,
+      "category": "企業・産業"
     },
     {
-      "title": "独メルセデス ドイツ国内の工場閉鎖を検討 コスト削減が急務",
-      "link": "https://news.web.nhk/newsweb/na/nd-20261113de75168",
-      "published": "Fri, 13 Nov 2026 11:16:00 +0900",
+      "title": "高市首相“支援金対象5割以上” 野党“さらなる具体像を”",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261114de75743",
+      "published": "Sat, 14 Nov 2026 05:32:00 +0900",
       "source": "NHK 経済",
       "score": 2,
       "category": "経済ニュース"
     },
     {
-      "title": "【きょうのおはBiz 11月13日(金)】「良品計画」顧客情報漏えい",
-      "link": "https://news.web.nhk/newsweb/na/nd-20261113de75153",
-      "published": "Fri, 13 Nov 2026 11:10:33 +0900",
+      "title": "マイクロソフト 接続障害「広範囲にわたる復旧がみられる」",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261114de75755",
+      "published": "Sat, 14 Nov 2026 05:48:54 +0900",
       "source": "NHK 経済",
       "score": 2,
       "category": "経済ニュース"
     },
     {
-      "title": "セキュリティーソフトの売り上げ増 個人情報の流出相次ぐなか",
-      "link": "https://news.web.nhk/newsweb/na/nd-20261112de75085",
-      "published": "Thu, 12 Nov 2026 23:16:00 +0900",
+      "title": "ヤマダデンキ 不正アクセスで最大350万件が影響受けた可能性",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261113de75739",
+      "published": "Fri, 13 Nov 2026 23:39:16 +0900",
       "source": "NHK 経済",
       "score": 2,
       "category": "経済ニュース"
     },
     {
-      "title": "老朽化した重要物資の生産設備 国費で買い取る制度の導入検討",
-      "link": "https://news.web.nhk/newsweb/na/nd-20261112de75071",
-      "published": "Thu, 12 Nov 2026 23:09:47 +0900",
+      "title": "マネックス証券 本人確認の画像データ1592件漏えいか",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261113de75719",
+      "published": "Fri, 13 Nov 2026 22:54:39 +0900",
       "source": "NHK 経済",
       "score": 2,
       "category": "経済ニュース"
     },
     {
-      "title": "エヌビディア フアンCEOが辞任 業界全体に影響も",
-      "link": "https://news.web.nhk/newsweb/na/nd-20261112de75078",
-      "published": "Fri, 13 Nov 2026 07:47:30 +0900",
+      "title": "不正アクセス 基本的な対策徹底で官民連携確認 古川デジタル相",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261113de75690",
+      "published": "Fri, 13 Nov 2026 20:53:22 +0900",
       "source": "NHK 経済",
       "score": 2,
       "category": "経済ニュース"
     },
     {
-      "title": "首都圏で食品スーパーを展開の会社 約6.4万件の個人情報流出か",
-      "link": "https://news.web.nhk/newsweb/na/nd-20261112de75046",
-      "published": "Thu, 12 Nov 2026 20:44:55 +0900",
+      "title": "大手金融グループのトップが情報漏えいを陳謝",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261113de75686",
+      "published": "Fri, 13 Nov 2026 20:48:00 +0900",
       "source": "NHK 経済",
       "score": 2,
       "category": "経済ニュース"
     },
     {
-      "title": "不二家 メルマガ会員のアドレス 最大で約15万件流出のおそれ",
-      "link": "https://news.web.nhk/newsweb/na/nd-20261112de75040",
-      "published": "Thu, 12 Nov 2026 20:14:32 +0900",
+      "title": "ニトリ会長 最大3700万件余の個人情報 流出のおそれで陳謝",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261113de75633",
+      "published": "Fri, 13 Nov 2026 19:17:11 +0900",
       "source": "NHK 経済",
       "score": 2,
       "category": "経済ニュース"
     },
     {
-      "title": "千葉 旭の養鶏場で鳥インフルエンザの疑い ニワトリ30羽死ぬ",
-      "link": "https://news.web.nhk/newsweb/na/nd-20261112de74995",
-      "published": "Thu, 12 Nov 2026 18:43:15 +0900",
+      "title": "米ファンド傘下のヨークHD 食品スーパー改装し店内調理強化へ",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261113de75597",
+      "published": "Fri, 13 Nov 2026 18:58:39 +0900",
       "source": "NHK 経済",
       "score": 2,
       "category": "経済ニュース"
     },
     {
-      "title": "自民 麻生副総裁 石破氏ら退席に苦言 引き締めを",
-      "link": "https://news.web.nhk/newsweb/na/nd-20261112de74970",
-      "published": "Thu, 12 Nov 2026 18:15:00 +0900",
+      "title": "コメ平均価格 5キロ2747円 2週ぶりの値下がり",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261113de75624",
+      "published": "Fri, 13 Nov 2026 18:48:00 +0900",
       "source": "NHK 経済",
       "score": 2,
       "category": "経済ニュース"
     },
     {
-      "title": "トヨタ アルファードGやカローラなど30車種 約9.6万台リコール",
-      "link": "https://news.web.nhk/newsweb/na/nd-20261112de74902",
-      "published": "Thu, 12 Nov 2026 17:39:14 +0900",
+      "title": "大手損保2社 タマホーム通じた火災保険販売停止へ",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261113de75561",
+      "published": "Fri, 13 Nov 2026 20:11:00 +0900",
       "source": "NHK 経済",
       "score": 2,
       "category": "経済ニュース"
     },
     {
-      "title": "ダイハツ「ロッキー」など3車種 17万6000台余をリコール",
-      "link": "https://news.web.nhk/newsweb/na/nd-20261112de74896",
-      "published": "Thu, 12 Nov 2026 17:38:14 +0900",
-      "source": "NHK 経済",
-      "score": 2,
+      "title": "マーケ支援のプレイド、不正アクセスでサービス停止 - 日本経済新聞",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9MU1RiQTI5c0gzYUxsR2h5ZlN0cEx1TG11cnZOSWM0bElCZkl1NkkxdWhPMmhNZ2J2bDd2U1QzQjFzY0JZNHNnTjJOaWlJTXV4dEI5VFNJcWZrLXN4eVdXMGVzSVItdk1yMmVfZA?oc=5",
+      "published": "Fri, 13 Nov 2026 11:51:28 GMT",
+      "source": "Google News 日本経済",
+      "score": -5,
       "category": "経済ニュース"
     },
     {
-      "title": "スマートニュース12月上場 時価総額430億円、評価額ピークの8割減 - 日本経済新聞",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE8tbWx3bTFLLWE0MzAyVTZrMHV6ZVBoaDlmSmZETzBuYXZpUy01OW1iTXRGNGVzd1RTU1NlQlpoVmxBUDRqWnBYZDZtcHRNSDRkbVl4UkZIb3NPQnVyaFdEcFh2ZnlrTUw3b01wLQ?oc=5",
-      "published": "Thu, 12 Nov 2026 06:33:10 GMT",
+      "title": "タマホーム、保険代理業を廃業へ 損保各社に申し入れ - 日本経済新聞",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBsdmg5ZG5vTjlmeUxKVldmOWlsSWNYaVhuVTQ5d0xvSWt1ZHYyODVOcmZWMHhWTy1tRzNndVRVdmVRbDNqdTY1SzYwWENIc28zeUdDVkgweVoyWURQa2NiTVRjdVZlb25FLXEzaQ?oc=5",
+      "published": "Sat, 14 Nov 2026 01:16:27 GMT",
+      "source": "Google News 日本経済",
+      "score": -5,
+      "category": "経済ニュース"
+    },
+    {
+      "title": "ビットコイン（BTC）の買い手はどこへ消えたのか──日経新聞へのコメントから読み解く資金流出の実態【エックスウィン】 - Yahoo!ファイナンス",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQeFVEMGZCRVdYZ21jTTE2by0wMWxaeE1JUGgzd0FYMm1SeFZvT2JvRm9HQW9sRjVwdWNmZ2NnVlZZYzNrdFl2R1hibUV3X1E3dHJJcWw2MkVXakRkWjFIeXNMVFp1akNZTzZMUzBIN3pibnFpWVNOaG0tQ2t0RHZRVTFIX0hMVmc?oc=5",
+      "published": "Fri, 13 Nov 2026 21:00:00 GMT",
       "source": "Google News 日本経済",
       "score": -5,
       "category": "経済ニュース"
@@ -164,28 +164,28 @@
   ],
   "top_articles": [
     {
-      "title": "東京外国為替市場で円安進む 一時1ドル＝160円に迫る水準に",
-      "link": "https://news.web.nhk/newsweb/na/nd-20261112de74982",
-      "published": "Thu, 12 Nov 2026 18:19:08 +0900",
-      "source": "NHK 経済",
-      "score": 18,
-      "category": "為替・金利"
-    },
-    {
-      "title": "食料品の消費税減税見据え うどんチェーンが値下げ発表",
-      "link": "https://news.web.nhk/newsweb/na/nd-20261112de75068",
-      "published": "Thu, 12 Nov 2026 22:49:00 +0900",
+      "title": "食料品消費税減税法案 支援金“勤労者の5割以上の方向で検討”",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261113de75691",
+      "published": "Fri, 13 Nov 2026 22:03:24 +0900",
       "source": "NHK 経済",
       "score": 15,
       "category": "政策・財政"
     },
     {
-      "title": "日経平均株価、一時１０００円超上昇…６万１８００円台で推移 - 読売新聞",
-      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5zVWNqX3Z4UGhkUi1MQXIzOENBTU5sZllPU0x6dnB0b0ZjZXh6cWx5TGh4cHVpSVVEQ0VUZXhHVXgyRzdVYmFmeXg5YXloZ0tfWlY1cGdPNFk0aEFBNDdiSHV1QWg?oc=5",
-      "published": "Fri, 13 Nov 2026 01:45:00 GMT",
-      "source": "Google News 日本経済",
-      "score": 11,
-      "category": "経済ニュース"
+      "title": "エヌビディア先端半導体輸出 ラトニック商務長官の責任論浮上",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261114de75753",
+      "published": "Sat, 14 Nov 2026 06:20:07 +0900",
+      "source": "NHK 経済",
+      "score": 13,
+      "category": "企業・産業"
+    },
+    {
+      "title": "3メガバンクの中間決算 金利上昇で過去最高益",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261113de75684",
+      "published": "Fri, 13 Nov 2026 21:10:54 +0900",
+      "source": "NHK 経済",
+      "score": 7,
+      "category": "企業・産業"
     }
   ]
 }
