@@ -1,45 +1,77 @@
 {
-  "updated_at": "2026-11-16T01:41:24.384024+00:00",
+  "updated_at": "2026-11-17T04:23:05.783918+00:00",
   "articles": [
     {
-      "title": "日経平均株価、下落に転じる 半導体関連に売り膨らむ - 日本経済新聞",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1Rb1NjSEJaS0xEMzBjR3VObmFpNkhTbk1ueDdzeFZYeTdaalJfbDJjNDhDZldTOVc3V1NWWWFUZDIyZWJjamticVVHSkwzUF8zbnV5bFRHaXA3dzdEcXdNdDVITmNrbzNwcGhJbA?oc=5",
-      "published": "Mon, 16 Nov 2026 00:08:41 GMT",
+      "title": "日銀 高田審議委員「グッドポジションへ 機動的利上げを」",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261116de76840",
+      "published": "Mon, 16 Nov 2026 21:58:12 +0900",
+      "source": "NHK 経済",
+      "score": 21,
+      "category": "金融政策"
+    },
+    {
+      "title": "円相場値上がり 市場介入警戒感や日銀早期利上げ意識も",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261116de76757",
+      "published": "Mon, 16 Nov 2026 18:29:56 +0900",
+      "source": "NHK 経済",
+      "score": 21,
+      "category": "金融政策"
+    },
+    {
+      "title": "日経平均株価、続落 午前終値705円安の5万8956円 - 日本経済新聞",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5iLUhVRmFYVmRkR1ZWS3JZcDdCR2dkTmdCbmZ1OGpNcFdwd2hLZkJkeHNSRmhlQVRUNTdHTzIxVnRJbVhBOW1IOUtCWnZaaGo1V3gxbWs1WDN1MFp2OTVMUnhpeXRnaEFlWmtYTg?oc=5",
+      "published": "Tue, 17 Nov 2026 00:07:06 GMT",
       "source": "Google News 日本経済",
+      "score": 19,
+      "category": "為替・金利"
+    },
+    {
+      "title": "日経平均1480円安、AI不安続きアドバンテストなど下落 消費関連には買い - 日経CNBC online",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5GMlY4bnpkZ0FNb3Q5OGpBUjZCWmNaWGd2ck9teE1PWmJJTW1ZbHN6Q1ZERENETFRNYm4yYVNkck1HamdCcTlYUmo4NDVHMm5FYm5neQ?oc=5",
+      "published": "Mon, 16 Nov 2026 07:07:00 GMT",
+      "source": "Google News 日本経済",
+      "score": 18,
+      "category": "為替・金利"
+    },
+    {
+      "title": "株価 値下がり AIや半導体関連の銘柄を中心に売り注文",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261117de77024",
+      "published": "Tue, 17 Nov 2026 12:17:37 +0900",
+      "source": "NHK 経済",
       "score": 16,
       "category": "企業・産業"
     },
     {
-      "title": "日本経済指標【実質GDP１次速報値】 - みんかぶ FX/為替",
-      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBXdVZQLV9uUjY3MXVnN2tvdExIdy1Cc0lxVEtYdFpfX2gxemtXTWZxTHQ1Y2hNdVNqMzdJdUFabUwtdUVVMlpZYg?oc=5",
-      "published": "Sun, 15 Nov 2026 23:51:28 GMT",
-      "source": "Google News 日本経済",
+      "title": "アメリカ商務省 先端半導体の中国などへのう回輸出防ぐ新規則",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261117de76902",
+      "published": "Tue, 17 Nov 2026 08:14:00 +0900",
+      "source": "NHK 経済",
       "score": 16,
-      "category": "為替・金利"
+      "category": "企業・産業"
     },
     {
-      "title": "消費税減税法案 参院で審議続く 国民 公明の協力が焦点に",
-      "link": "https://news.web.nhk/newsweb/na/nd-20261116de76325",
-      "published": "Mon, 16 Nov 2026 05:38:00 +0900",
+      "title": "片山財務相 消費税減税法案 支援金の対象“データ精査し確定”",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261116de76659",
+      "published": "Mon, 16 Nov 2026 18:55:40 +0900",
       "source": "NHK 経済",
       "score": 15,
       "category": "政策・財政"
     },
     {
-      "title": "エヌビディア先端半導体輸出 ラトニック商務長官の責任論浮上",
-      "link": "https://news.web.nhk/newsweb/na/nd-20261114de75753",
-      "published": "Sat, 14 Nov 2026 06:20:07 +0900",
+      "title": "中国・ASEAN首脳会議 中国は経済・貿易分野の協力推進呼びかけ",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261116de76642",
+      "published": "Mon, 16 Nov 2026 17:13:32 +0900",
       "source": "NHK 経済",
-      "score": 13,
-      "category": "企業・産業"
+      "score": 11,
+      "category": "経済ニュース"
     },
     {
-      "title": "7～9月GDP 年率換算で-0.1％ 4期ぶりマイナス 個人消費減少で",
-      "link": "https://news.web.nhk/newsweb/na/nd-20261116de76344",
-      "published": "Mon, 16 Nov 2026 10:33:32 +0900",
-      "source": "NHK 経済",
+      "title": "AI株下げ 日経平均一時6万円割れ - Yahoo!ニュース",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE16NEJpOWZkdHRBR3JJY0RRY2lTUlJhbnBwdFFYWVptYnkwcHh4X0l3TnhybXN1cFpYU28xVHVjcXJwTkVwaWpacERzNWJsdWhL?oc=5",
+      "published": "Mon, 16 Nov 2026 04:59:06 GMT",
+      "source": "Google News 日本経済",
       "score": 10,
-      "category": "景気・雇用"
+      "category": "企業・産業"
     },
     {
       "title": "7〜9月実質GDP年率0.1%減、4四半期ぶりマイナス 個人消費落ち込み - 日本経済新聞",
@@ -50,113 +82,81 @@
       "category": "景気・雇用"
     },
     {
-      "title": "日本経済指標【実質GDP１次速報値】 - みんかぶ",
-      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1OdlQyaW5CSUl6YldvTUlfTnM2OXUwa0t6THNaTzg2Z05YTVF4WTY4RGFmeXUxZGdGY2Z4QjIxZnF1Z1k1STFmSA?oc=5",
-      "published": "Mon, 16 Nov 2026 00:00:00 GMT",
+      "title": "2026～2027年度日本経済見通し（2026年11月）（2026年7-9月期GDP1次速報後改定） - 第一ライフ資産運用経済研究所",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBBWG5sMWFKd2dOMFJUbVFCMzVOVzE2OWtVVEJBaERlQkZEdndwcEdEeFVpVnlpM2hzVmVZbTFjd1prNW9kVVF6Q2VVZ3Z0VjVKRDhwbG5yeHRheEE?oc=5",
+      "published": "Mon, 16 Nov 2026 09:02:47 GMT",
       "source": "Google News 日本経済",
       "score": 8,
       "category": "景気・雇用"
     },
     {
-      "title": "AIの安全確保に向け 事業者はリスク情報を国に報告 法規制検討",
-      "link": "https://news.web.nhk/newsweb/na/nd-20261115de76259",
-      "published": "Mon, 16 Nov 2026 06:47:35 +0900",
+      "title": "【きょうのおはBiz 11月17日(火)】半導体 設計人材を育成せよ",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261117de76916",
+      "published": "Tue, 17 Nov 2026 11:40:47 +0900",
+      "source": "NHK 経済",
+      "score": 7,
+      "category": "企業・産業"
+    },
+    {
+      "title": "武部農相 国の公共事業受注した地元企業4社の寄付を返金",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261117de76958",
+      "published": "Tue, 17 Nov 2026 11:21:08 +0900",
       "source": "NHK 経済",
       "score": 6,
       "category": "企業・産業"
     },
     {
-      "title": "信号機AI制御8000カ所、都内全域導入へ 渋滞長さ1割減で物流円滑に - 日本経済新聞",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9EZEdIOFlqNzJWQm5oUUJHbk1HMDRxSzN4TTgzRlFueXBvZ2tkZU1mRVZzUlFTSmJMOEFsWHBWejEzNU84dm9DSm12SmREb2cwbTZ6WFlhU1lRalhLQVpETkpDRUdBcmxaeHRhYw?oc=5",
-      "published": "Sun, 15 Nov 2026 20:00:00 GMT",
+      "title": "NTT 国内完結のセキュリティーAI技術などを発表",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261116de76421",
+      "published": "Mon, 16 Nov 2026 18:29:01 +0900",
+      "source": "NHK 経済",
+      "score": 6,
+      "category": "企業・産業"
+    },
+    {
+      "title": "NYダウ、大幅反落し739ドル安 AI関連銘柄の売り膨らむ - 日本経済新聞",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE10SjExZjV2N1FZOHk5ck5aOWJGUHgyLXktNWU3UU9BaWN0NGVwQkdCNDk4YmY2SFcwT1FiQlF5Y08tVFdHcFliZW9ONlI2RlppSU1oQlQwYlhqTHZFWVpvaGh5RldJbDVwYzNiUw?oc=5",
+      "published": "Mon, 16 Nov 2026 21:33:01 GMT",
       "source": "Google News 日本経済",
       "score": 4,
       "category": "企業・産業"
     },
     {
-      "title": "AI前提で事業を再設計 ｜ 日本経済新聞 電子版特集（PR） - ps.nikkei.com",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBRSkJodU4yeE5OQ1JPN3Q5bThuVHl2cFc3UUFRbnJZVUZyaUNLX0hiSkdTb1JySkVqMVBLOVdhMEFkN3R5bXhuQjJHTzloTHV3Z0E?oc=5",
-      "published": "Sun, 15 Nov 2026 15:17:51 GMT",
-      "source": "Google News 日本経済",
-      "score": 4,
-      "category": "企業・産業"
-    },
-    {
-      "title": "フィリピンとオーストラリアが防衛協定 中国の活動念頭 - 日本経済新聞",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1KdVhyaWRTaTdRLURXQ2RzcHdiVGdJTERYTzNmcnJObkdHZVFXMXRTUG9QOVZTTmsyT1lqcUQ5R1dYbjg5ZFJ4cUpMaDBZWUN0N0x1MC1HZ05la2J5WTBwZDRrZXg3azZOUlVvTQ?oc=5",
-      "published": "Sun, 15 Nov 2026 13:26:39 GMT",
-      "source": "Google News 日本経済",
-      "score": 3,
-      "category": "経済ニュース"
-    },
-    {
-      "title": "中国が押し付ける売れ残りEV､太陽光パネルはやがて日本経済の毒になる…｢デフレ時限爆弾｣が爆発する\"Xデー\" - Yahoo!ニュース",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1BbXZSUDNkd0p0eVBlYURrQmJDbjVFZEJIazNlal9uWkRXdVVTSjFJd2RGXzZPTU5GbFFTT1Y2N3cxeHV5SjdWakszbHNObnlEckxGZDJuTnZ4RlVyY3h3NGw5bGxRYl9QNS1PUlVtMHUtZF9tck5DYV83WHg2bEk?oc=5",
-      "published": "Mon, 16 Nov 2026 00:15:41 GMT",
-      "source": "Google News 日本経済",
-      "score": 3,
-      "category": "経済ニュース"
-    },
-    {
-      "title": "ハンズ渋谷店営業終了 48年の歴史に幕 別れ惜しむ人でにぎわう",
-      "link": "https://news.web.nhk/newsweb/na/nd-20261115de76062",
-      "published": "Sun, 15 Nov 2026 19:15:00 +0900",
+      "title": "ドコモ通信障害 藤井総務相「大変遺憾」原因究明求める",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261117de76976",
+      "published": "Tue, 17 Nov 2026 11:44:53 +0900",
       "source": "NHK 経済",
       "score": 2,
       "category": "経済ニュース"
     },
     {
-      "title": "城内成長戦略相 成長戦略“民間意見聴き進捗管理”NHK日曜討論",
-      "link": "https://news.web.nhk/newsweb/na/nd-20261115de76082",
-      "published": "Sun, 15 Nov 2026 12:03:00 +0900",
+      "title": "トランプ大統領 フアン氏エヌビディアCEOへの復帰を容認の姿勢",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261117de76901",
+      "published": "Tue, 17 Nov 2026 08:22:00 +0900",
       "source": "NHK 経済",
       "score": 2,
       "category": "経済ニュース"
     },
     {
-      "title": "経産省とアジア開発銀行 アジアの原発導入支援 協力覚書で調整",
-      "link": "https://news.web.nhk/newsweb/na/nd-20261115de76028",
-      "published": "Sun, 15 Nov 2026 06:05:00 +0900",
+      "title": "ナスダック2.5％下落 エヌビディア経営混乱への懸念広がる",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261117de76894",
+      "published": "Tue, 17 Nov 2026 06:41:15 +0900",
       "source": "NHK 経済",
       "score": 2,
       "category": "経済ニュース"
     },
     {
-      "title": "JR北海道 新観光列車「赤い星」公開 ターゲットは富裕層",
-      "link": "https://news.web.nhk/newsweb/na/nd-20261114de75833",
-      "published": "Sat, 14 Nov 2026 17:51:00 +0900",
+      "title": "ニデック 半期報告書の提出期限延長を国に申請",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261116de76825",
+      "published": "Mon, 16 Nov 2026 21:04:06 +0900",
       "source": "NHK 経済",
       "score": 2,
       "category": "経済ニュース"
     },
     {
-      "title": "決済サービス手がける「Yeny」 最大133万件漏えいか",
-      "link": "https://news.web.nhk/newsweb/na/nd-20261114de75857",
-      "published": "Sat, 14 Nov 2026 13:55:00 +0900",
-      "source": "NHK 経済",
-      "score": 2,
-      "category": "経済ニュース"
-    },
-    {
-      "title": "タマホーム 不正請求疑いで保険代理業廃業へ 外部調査も検討",
-      "link": "https://news.web.nhk/newsweb/na/nd-20261114de75846",
-      "published": "Sat, 14 Nov 2026 13:09:00 +0900",
-      "source": "NHK 経済",
-      "score": 2,
-      "category": "経済ニュース"
-    },
-    {
-      "title": "京阪HD 不正アクセスで最大22万人余のLINE情報流出か",
-      "link": "https://news.web.nhk/newsweb/na/nd-20261114de75840",
-      "published": "Sat, 14 Nov 2026 13:35:00 +0900",
-      "source": "NHK 経済",
-      "score": 2,
-      "category": "経済ニュース"
-    },
-    {
-      "title": "京成電鉄 予約システムに不正アクセス 最大337万件漏えいか",
-      "link": "https://news.web.nhk/newsweb/na/nd-20261114de75830",
-      "published": "Sat, 14 Nov 2026 12:54:02 +0900",
+      "title": "バンダイナムコ 一番くじ関連の個人情報 のべ41万件余漏えいか",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261116de76767",
+      "published": "Mon, 16 Nov 2026 18:37:35 +0900",
       "source": "NHK 経済",
       "score": 2,
       "category": "経済ニュース"
@@ -164,28 +164,28 @@
   ],
   "top_articles": [
     {
-      "title": "日経平均株価、下落に転じる 半導体関連に売り膨らむ - 日本経済新聞",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1Rb1NjSEJaS0xEMzBjR3VObmFpNkhTbk1ueDdzeFZYeTdaalJfbDJjNDhDZldTOVc3V1NWWWFUZDIyZWJjamticVVHSkwzUF8zbnV5bFRHaXA3dzdEcXdNdDVITmNrbzNwcGhJbA?oc=5",
-      "published": "Mon, 16 Nov 2026 00:08:41 GMT",
-      "source": "Google News 日本経済",
-      "score": 16,
-      "category": "企業・産業"
-    },
-    {
-      "title": "日本経済指標【実質GDP１次速報値】 - みんかぶ FX/為替",
-      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBXdVZQLV9uUjY3MXVnN2tvdExIdy1Cc0lxVEtYdFpfX2gxemtXTWZxTHQ1Y2hNdVNqMzdJdUFabUwtdUVVMlpZYg?oc=5",
-      "published": "Sun, 15 Nov 2026 23:51:28 GMT",
-      "source": "Google News 日本経済",
-      "score": 16,
-      "category": "為替・金利"
-    },
-    {
-      "title": "消費税減税法案 参院で審議続く 国民 公明の協力が焦点に",
-      "link": "https://news.web.nhk/newsweb/na/nd-20261116de76325",
-      "published": "Mon, 16 Nov 2026 05:38:00 +0900",
+      "title": "日銀 高田審議委員「グッドポジションへ 機動的利上げを」",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261116de76840",
+      "published": "Mon, 16 Nov 2026 21:58:12 +0900",
       "source": "NHK 経済",
-      "score": 15,
-      "category": "政策・財政"
+      "score": 21,
+      "category": "金融政策"
+    },
+    {
+      "title": "円相場値上がり 市場介入警戒感や日銀早期利上げ意識も",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261116de76757",
+      "published": "Mon, 16 Nov 2026 18:29:56 +0900",
+      "source": "NHK 経済",
+      "score": 21,
+      "category": "金融政策"
+    },
+    {
+      "title": "日経平均株価、続落 午前終値705円安の5万8956円 - 日本経済新聞",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5iLUhVRmFYVmRkR1ZWS3JZcDdCR2dkTmdCbmZ1OGpNcFdwd2hLZkJkeHNSRmhlQVRUNTdHTzIxVnRJbVhBOW1IOUtCWnZaaGo1V3gxbWs1WDN1MFp2OTVMUnhpeXRnaEFlWmtYTg?oc=5",
+      "published": "Tue, 17 Nov 2026 00:07:06 GMT",
+      "source": "Google News 日本経済",
+      "score": 19,
+      "category": "為替・金利"
     }
   ]
 }
