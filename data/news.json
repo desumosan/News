@@ -1,18 +1,50 @@
 {
-  "updated_at": "2026-11-19T03:01:30.150858+00:00",
+  "updated_at": "2026-11-20T02:54:01.690784+00:00",
   "articles": [
     {
-      "title": "FRBが10月会合の議事録公表 ほぼ全員が「追加利上げ適切」",
-      "link": "https://news.web.nhk/newsweb/na/nd-20261119de78144",
-      "published": "Thu, 19 Nov 2026 08:36:40 +0900",
-      "source": "NHK 経済",
-      "score": 11,
-      "category": "金融政策"
+      "title": "日本経済指標【消費者物価指数】 - みんかぶ FX/為替",
+      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9WSHFKT2xwb3lnMmQ5VXhMSUZsMDc1aUtXS3RscXZhWjdXWG5BVG9LU2p2b0tuUk51ejRkZW16ZmxJWmIxQnNWbA?oc=5",
+      "published": "Thu, 19 Nov 2026 23:30:51 GMT",
+      "source": "Google News 日本経済",
+      "score": 25,
+      "category": "為替・金利"
     },
     {
-      "title": "自民税制調査会 非上場株式の評価見直し 国税庁案に批判相次ぐ",
-      "link": "https://news.web.nhk/newsweb/na/nd-20261118de77871",
-      "published": "Wed, 18 Nov 2026 18:01:00 +0900",
+      "title": "10月消費者物価 前年同月比＋2.2％ 生鮮食品除く指数",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261120de78800",
+      "published": "Fri, 20 Nov 2026 11:25:06 +0900",
+      "source": "NHK 経済",
+      "score": 19,
+      "category": "物価・家計"
+    },
+    {
+      "title": "10月の消費者物価2.2%上昇 電気・ガス代が押し上げ、2カ月連続2%台 - 日本経済新聞",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1taUZuVnZudEJTanZETnVLRnRHT01sNjR4Q21ya3JCa25GWHh0M3cwYVFYNlJxdEtRWmRaaUJLVUwwaWN2MVVlRmswVjVWakJvaHpRbTRPelMzb01ROWVGR3NicXByaE56bUFNNQ?oc=5",
+      "published": "Thu, 19 Nov 2026 23:31:14 GMT",
+      "source": "Google News 日本経済",
+      "score": 17,
+      "category": "物価・家計"
+    },
+    {
+      "title": "株価 一時2800円超の下落 AI・半導体業界の先行き懸念で",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261120de78808",
+      "published": "Fri, 20 Nov 2026 10:22:30 +0900",
+      "source": "NHK 経済",
+      "score": 16,
+      "category": "企業・産業"
+    },
+    {
+      "title": "日経平均株価、一時２５００円超下落…５万６９００円台で推移 - 読売新聞",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE12LTJsOEc3cVhnRzlFMjNnS0hwZUkzTzgzZ0g0SzNCSGRWcEhwNGQxZ2xvVHl2NE5YanhhQWptLUw4M1BTendSak1xaklvaV9DdDBWOHVxZ1BrUHlSWFNabF9lTzA?oc=5",
+      "published": "Fri, 20 Nov 2026 00:08:00 GMT",
+      "source": "Google News 日本経済",
+      "score": 11,
+      "category": "経済ニュース"
+    },
+    {
+      "title": "【きょうのおはBiz 11月20日(金)】税制改正 本格議論スタート",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261120de78814",
+      "published": "Fri, 20 Nov 2026 11:41:41 +0900",
       "source": "NHK 経済",
       "score": 8,
       "category": "政策・財政"
@@ -26,166 +58,134 @@
       "category": "景気・雇用"
     },
     {
-      "title": "日本経済指標【機械受注】 - みんかぶ FX/為替",
-      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9zeWszeUhrSlR6N2V0TnpTclVQWTQ3NjZXSTJpeVB5VVZBMXh3bkVwM2I5SjU4anBzT1FlV0hSMTYxQ1NUTHZWZw?oc=5",
-      "published": "Wed, 18 Nov 2026 23:50:50 GMT",
-      "source": "Google News 日本経済",
-      "score": 8,
-      "category": "為替・金利"
-    },
-    {
-      "title": "東京電力 12月使用分の料金 政府補助で前月を下回る見通し",
-      "link": "https://news.web.nhk/newsweb/na/nd-20261118de78043",
-      "published": "Wed, 18 Nov 2026 22:28:00 +0900",
+      "title": "ダウ平均株価が5万ドル割れ 終値としては約5か月ぶり",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261120de78760",
+      "published": "Fri, 20 Nov 2026 07:15:13 +0900",
       "source": "NHK 経済",
       "score": 7,
-      "category": "政策・財政"
+      "category": "経済ニュース"
     },
     {
-      "title": "日本企業がレアアース再起動 脱中国依存へプロテリアルは国内製錬増強 - 日本経済新聞",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5oVEFsMzY4UkdydUtVV0dnb0M3cVJvLWh2bFhLMUg2ZXYtLTZQZXpfY0duMDlzVTFKZzhtUUhxS0Q0Z0hNTjZXUzJVVzNRcHJXY0pLZVJTSTdQZGsweGI2SXFLRmpSS3pJNGM5NQ?oc=5",
-      "published": "Wed, 18 Nov 2026 20:00:00 GMT",
-      "source": "Google News 日本経済",
-      "score": 7,
-      "category": "企業・産業"
-    },
-    {
-      "title": "ソフトバンクGの孫社長「AIバブルではない」投資継続の考え",
-      "link": "https://news.web.nhk/newsweb/na/nd-20261118de78044",
-      "published": "Wed, 18 Nov 2026 22:33:00 +0900",
+      "title": "サイバー攻撃対策 日本は各国に比べAI使った検知などに遅れ",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261119de78715",
+      "published": "Fri, 20 Nov 2026 06:35:16 +0900",
       "source": "NHK 経済",
       "score": 6,
       "category": "企業・産業"
     },
     {
-      "title": "高市早苗首相と習近平氏が握手、中国・深圳のAPEC首脳会議に合わせ - 日本経済新聞",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBFZkRYUjhaUkp6RnRDMW4zMmVIQ0duNGFVdHRMeXF3LXJsbE9PTHExZ1JBU2ZpZlN1XzFUUHVmUXpVRzhlWS1Rdlk3N2tJMklXRG5yUnFaQ2d6SVlWem4xWEk5bGt0TzM3RGJZXw?oc=5",
-      "published": "Wed, 18 Nov 2026 11:31:58 GMT",
+      "title": "米AI開発「アンソロピック」上場 過去最大規模の約13兆円調達",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261120de78753",
+      "published": "Fri, 20 Nov 2026 07:23:06 +0900",
+      "source": "NHK 経済",
+      "score": 6,
+      "category": "企業・産業"
+    },
+    {
+      "title": "決算:JT、ロシア事業損失で1兆3860億円下方修正 子会社の支配喪失で - 日本経済新聞",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9qSkF6M1RFY1NDVG5KMGxLWlhPQXp6dnFKMVB4VF9oSktGOEZlWVlGSkg2a2VQYUV1Q2pXdjZLUXF5NGZ6dkpnR1dUdEFDOHhKSllaWWFkUEpHQ25PSUJIN0x5QkViellhYllEYw?oc=5",
+      "published": "Thu, 19 Nov 2026 06:40:08 GMT",
+      "source": "Google News 日本経済",
+      "score": 5,
+      "category": "企業・産業"
+    },
+    {
+      "title": "日本経済新聞社主催「NIKKEI FORUM」の特別対談に登壇、人とAIに「読まれる」開示を語る｜次世代型の株式リサーチ「ENVALITH（エンヴァリス）」 - PR TIMES",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9LRFh6Y0xGRnNkTlBLRmkyYTZ1bEVsQTBlTHpTOW9FNEtJdFJKX3FLTnU1RG5EeG82RklJWXhyMTFpQ3dfcmZ3SGJIcXVJclR1OXY1NXNjSjJvbmw2Y0FJOHdjT0FoVDRQRlE?oc=5",
+      "published": "Fri, 20 Nov 2026 00:00:02 GMT",
+      "source": "Google News 日本経済",
+      "score": 4,
+      "category": "企業・産業"
+    },
+    {
+      "title": "「中間選大敗」と真の米国の針路 - 日本経済新聞",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBkcF9TY1hkNlRvTVg5NHM4cWhWZkpPLTZfcEhXaFpDM1lUYWxvbXZQSXh5ckZYZUM0OWNyVEdxTWJlcTVMYnY4UEJMVmNhX0twX3N3VkJBMFFwSmQ0RUROMVljRjV2SHk3bzNmeg?oc=5",
+      "published": "Fri, 20 Nov 2026 02:30:00 GMT",
       "source": "Google News 日本経済",
       "score": 3,
       "category": "経済ニュース"
     },
     {
-      "title": "日本とインドとの関係強化へ 政財界の関係者が議論",
-      "link": "https://news.web.nhk/newsweb/na/nd-20261118de78046",
-      "published": "Wed, 18 Nov 2026 22:30:00 +0900",
+      "title": "H3ロケット 次の11号機の打ち上げ業務を民営化へ 三菱重工業に",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261120de78738",
+      "published": "Fri, 20 Nov 2026 11:48:19 +0900",
       "source": "NHK 経済",
       "score": 2,
       "category": "経済ニュース"
     },
     {
-      "title": "“本人確認後の画像データ削除を”レンタカー事業者に求める",
-      "link": "https://news.web.nhk/newsweb/na/nd-20261118de78036",
-      "published": "Wed, 18 Nov 2026 22:01:00 +0900",
+      "title": "井林国交相 JR東海のリニア年内公表断念「1日も早く見通しを」",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261120de78848",
+      "published": "Fri, 20 Nov 2026 11:43:00 +0900",
       "source": "NHK 経済",
       "score": 2,
       "category": "経済ニュース"
     },
     {
-      "title": "大崎電気 サイバー攻撃でスマートメーターの生産出荷を停止",
-      "link": "https://news.web.nhk/newsweb/na/nd-20261118de78017",
-      "published": "Wed, 18 Nov 2026 20:51:57 +0900",
+      "title": "片山金融相 漏えい可能性の楽天証券に“非常に遺憾”",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261120de78854",
+      "published": "Fri, 20 Nov 2026 11:25:28 +0900",
       "source": "NHK 経済",
       "score": 2,
       "category": "経済ニュース"
     },
     {
-      "title": "コメへの補助金 一部で増額案 主食用米の生産抑制の役割見直し",
-      "link": "https://news.web.nhk/newsweb/na/nd-20261118de77959",
-      "published": "Wed, 18 Nov 2026 20:17:00 +0900",
+      "title": "井林国交相 麻生コンクリートのJIS認証取消に「適切に対応」",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261120de78849",
+      "published": "Fri, 20 Nov 2026 11:16:00 +0900",
       "source": "NHK 経済",
       "score": 2,
       "category": "経済ニュース"
     },
     {
-      "title": "スカイチケット運営会社 パスポート情報15人分流出 新たに発表",
-      "link": "https://news.web.nhk/newsweb/na/nd-20261118de77997",
-      "published": "Wed, 18 Nov 2026 19:52:06 +0900",
+      "title": "資産情報漏えいした可能性の楽天証券に金融庁が報告徴求命令",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261119de78725",
+      "published": "Fri, 20 Nov 2026 00:51:34 +0900",
       "source": "NHK 経済",
       "score": 2,
       "category": "経済ニュース"
     },
     {
-      "title": "DHC 顧客の個人情報1911万件流出 「プレイド」不正アクセスで",
-      "link": "https://news.web.nhk/newsweb/na/nd-20261118de77979",
-      "published": "Wed, 18 Nov 2026 19:04:48 +0900",
+      "title": "火災保険金の不正請求疑い“タマホームは徹底調査を”損保各社",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261119de78712",
+      "published": "Thu, 19 Nov 2026 22:33:00 +0900",
       "source": "NHK 経済",
       "score": 2,
       "category": "経済ニュース"
     },
     {
-      "title": "中司規制改革相“自動運転普及へ 規制改革会議で議論本格化”",
-      "link": "https://news.web.nhk/newsweb/na/nd-20261118de77850",
-      "published": "Wed, 18 Nov 2026 18:16:00 +0900",
+      "title": "北海道「六花亭」に不正アクセス クレカ情報 約8000件流出か",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261119de78663",
+      "published": "Thu, 19 Nov 2026 20:12:55 +0900",
       "source": "NHK 経済",
       "score": 2,
-      "category": "経済ニュース"
-    },
-    {
-      "title": "EUの域内生産EV優遇措置を検討 日本の鉄鋼業界から懸念の声",
-      "link": "https://news.web.nhk/newsweb/na/nd-20261118de77689",
-      "published": "Wed, 18 Nov 2026 17:36:20 +0900",
-      "source": "NHK 経済",
-      "score": 2,
-      "category": "経済ニュース"
-    },
-    {
-      "title": "リニア中央新幹線 開業時期の年内公表断念を表明 JR東海社長",
-      "link": "https://news.web.nhk/newsweb/na/nd-20261118de77740",
-      "published": "Wed, 18 Nov 2026 17:40:00 +0900",
-      "source": "NHK 経済",
-      "score": 2,
-      "category": "経済ニュース"
-    },
-    {
-      "title": "Suicaペンギンは“ウサギ”に交代へ JR東日本",
-      "link": "https://news.web.nhk/newsweb/na/nd-20261118de77768",
-      "published": "Wed, 18 Nov 2026 16:44:00 +0900",
-      "source": "NHK 経済",
-      "score": 2,
-      "category": "経済ニュース"
-    },
-    {
-      "title": "三菱UFJグループ漏えい相次ぐ 銀行は顧客情報約650万件流出",
-      "link": "https://news.web.nhk/newsweb/na/nd-20261118de77737",
-      "published": "Wed, 18 Nov 2026 18:26:03 +0900",
-      "source": "NHK 経済",
-      "score": 2,
-      "category": "経済ニュース"
-    },
-    {
-      "title": "［社説］日本とASEANは経済安保でも連携深めよ - 日本経済新聞",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9SajkxZkE2cFVwVmpwcnh6Y0VPa2J4X3NZcTZDbHppYWJPeFItaHZPOUJTNE5VMEwtdG9EQ0dfVWxnN0VSX1JMZnh0VmFpcm5BeWZOaHBFS3BiQ0ptQjNzNFFHQW82QVJ4TFJxTg?oc=5",
-      "published": "Tue, 17 Nov 2026 10:05:00 GMT",
-      "source": "Google News 日本経済",
-      "score": -5,
       "category": "経済ニュース"
     }
   ],
   "top_articles": [
     {
-      "title": "FRBが10月会合の議事録公表 ほぼ全員が「追加利上げ適切」",
-      "link": "https://news.web.nhk/newsweb/na/nd-20261119de78144",
-      "published": "Thu, 19 Nov 2026 08:36:40 +0900",
-      "source": "NHK 経済",
-      "score": 11,
-      "category": "金融政策"
-    },
-    {
-      "title": "自民税制調査会 非上場株式の評価見直し 国税庁案に批判相次ぐ",
-      "link": "https://news.web.nhk/newsweb/na/nd-20261118de77871",
-      "published": "Wed, 18 Nov 2026 18:01:00 +0900",
-      "source": "NHK 経済",
-      "score": 8,
-      "category": "政策・財政"
-    },
-    {
-      "title": "2026～2027年度日本経済見通し（2026年11月）（2026年7-9月期GDP1次速報後改定） - 第一ライフ資産運用経済研究所",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBBWG5sMWFKd2dOMFJUbVFCMzVOVzE2OWtVVEJBaERlQkZEdndwcEdEeFVpVnlpM2hzVmVZbTFjd1prNW9kVVF6Q2VVZ3Z0VjVKRDhwbG5yeHRheEE?oc=5",
-      "published": "Mon, 16 Nov 2026 09:02:47 GMT",
+      "title": "日本経済指標【消費者物価指数】 - みんかぶ FX/為替",
+      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9WSHFKT2xwb3lnMmQ5VXhMSUZsMDc1aUtXS3RscXZhWjdXWG5BVG9LU2p2b0tuUk51ejRkZW16ZmxJWmIxQnNWbA?oc=5",
+      "published": "Thu, 19 Nov 2026 23:30:51 GMT",
       "source": "Google News 日本経済",
-      "score": 8,
-      "category": "景気・雇用"
+      "score": 25,
+      "category": "為替・金利"
+    },
+    {
+      "title": "10月消費者物価 前年同月比＋2.2％ 生鮮食品除く指数",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261120de78800",
+      "published": "Fri, 20 Nov 2026 11:25:06 +0900",
+      "source": "NHK 経済",
+      "score": 19,
+      "category": "物価・家計"
+    },
+    {
+      "title": "10月の消費者物価2.2%上昇 電気・ガス代が押し上げ、2カ月連続2%台 - 日本経済新聞",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1taUZuVnZudEJTanZETnVLRnRHT01sNjR4Q21ya3JCa25GWHh0M3cwYVFYNlJxdEtRWmRaaUJLVUwwaWN2MVVlRmswVjVWakJvaHpRbTRPelMzb01ROWVGR3NicXByaE56bUFNNQ?oc=5",
+      "published": "Thu, 19 Nov 2026 23:31:14 GMT",
+      "source": "Google News 日本経済",
+      "score": 17,
+      "category": "物価・家計"
     }
   ]
 }
