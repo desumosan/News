@@ -1,14 +1,6 @@
 {
-  "updated_at": "2026-11-21T03:01:55.471899+00:00",
+  "updated_at": "2026-11-22T01:58:55.287130+00:00",
   "articles": [
-    {
-      "title": "日経平均終値3007円安、AI・半導体に売り アンソロピックに祝杯ならず - 日本経済新聞",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5Ec0IzZWNDNk9XVmZGOUJjbkFGTVZFeW9yTlBFRHQyY1Z2OVpMRW1TNG5jbmRyN3NQakdGN1dfSTh3b0x0ckZDc3hPVmpWWEtFUjhXOWtqT3JhcHZhSnBQWmRUM1k4MzFuczl0WA?oc=5",
-      "published": "Fri, 20 Nov 2026 02:43:24 GMT",
-      "source": "Google News 日本経済",
-      "score": 23,
-      "category": "為替・金利"
-    },
     {
       "title": "日本企業などから高額収入の海外居住者 課税強化へ",
       "link": "https://news.web.nhk/newsweb/na/nd-20261120de79460",
@@ -18,20 +10,12 @@
       "category": "企業・産業"
     },
     {
-      "title": "世界の原油輸出最大に、1日4700万バレル ホルムズ迂回・代替で回復 - 日本経済新聞",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9WSFdxVTdHaDd6T2dBQVdWN2p6VlJNUjd4TVZJMnVxR2NOUkg1UUd1QUtETEhVNlFWSE51dm9BZzRoSmF5YURyUVJpTjlCd29BQ2JVVGVzV1ZrU1BydW1IY0JOdFZFQ3NLZDg4UA?oc=5",
-      "published": "Sat, 21 Nov 2026 02:00:00 GMT",
+      "title": "［FT］AI株投資が招く円安圧力 - 日本経済新聞",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9pTnc3X0YweWVpVXd1a0VCZERPcHFPSzY1V1JjT0NCWlkyTGZRclVQamZfZGktaHpuREMtdWd4RlR4ZFM3bnBWZmJ5RUg4OVpyd0JnZXc0OXcwRlNfM2RTUXVaa0ZGN0pjWVIwOA?oc=5",
+      "published": "Sat, 21 Nov 2026 20:00:00 GMT",
       "source": "Google News 日本経済",
       "score": 12,
-      "category": "経済ニュース"
-    },
-    {
-      "title": "世界株安、半導体発のリスク回避加速 日経平均3007円下げ - 日本経済新聞",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFAxQngwYXBmY2dEMldpejBuRDV4bUczbVJrVW5yQm0wSV9xZnQ3WHREUGphV0tUam5ZVGN6QThDQ0t2Qy1nMUFYNUc5dXlkM0ZXVndXR3FxOUtRa1o4MHpKWVI3UE9XMlJHLVRCaA?oc=5",
-      "published": "Fri, 20 Nov 2026 13:35:20 GMT",
-      "source": "Google News 日本経済",
-      "score": 11,
-      "category": "企業・産業"
+      "category": "為替・金利"
     },
     {
       "title": "財政審“物価高騰や金利上昇リスク意識して市場の信認確保を”",
@@ -42,20 +26,28 @@
       "category": "物価・家計"
     },
     {
+      "title": "米国株急落で強まるリスク回避 日経平均「年内5万円接近」の声 - 日本経済新聞",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1DSUIycW9td1ZocjVaMzFSbWc1ZXFUc3BadHVFaHhseXdjWmtwN2NrbWplRF9HTjgyOGd3b0xUR3dfd0NBSTdUM1hNY1BYRFdCbEM1cHdCMzI2VjhBVUMxeTJNcHNSc2dYbzVaRw?oc=5",
+      "published": "Sat, 21 Nov 2026 08:41:47 GMT",
+      "source": "Google News 日本経済",
+      "score": 9,
+      "category": "経済ニュース"
+    },
+    {
+      "title": "暗号資産利用者の申告漏れ多く 国税当局が調査体制強化へ",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261121de79765",
+      "published": "Sun, 22 Nov 2026 05:51:00 +0900",
+      "source": "NHK 経済",
+      "score": 8,
+      "category": "政策・財政"
+    },
+    {
       "title": "日本とサウジアラビア 原油の備蓄可能量 3倍で合意",
       "link": "https://news.web.nhk/newsweb/na/nd-20261120de79347",
       "published": "Fri, 20 Nov 2026 18:46:00 +0900",
       "source": "NHK 経済",
       "score": 8,
       "category": "経済ニュース"
-    },
-    {
-      "title": "自民 税制調査会「賃上げ促進税制」の存続求める意見",
-      "link": "https://news.web.nhk/newsweb/na/nd-20261120de79237",
-      "published": "Fri, 20 Nov 2026 17:58:05 +0900",
-      "source": "NHK 経済",
-      "score": 8,
-      "category": "政策・財政"
     },
     {
       "title": "2026～2027年度日本経済見通し（2026年11月）（2026年7-9月期GDP1次速報後改定） - 第一ライフ資産運用経済研究所",
@@ -66,6 +58,22 @@
       "category": "景気・雇用"
     },
     {
+      "title": "ナスダック株価指数急落 今週4兆ドル時価総額が消失",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261121de79604",
+      "published": "Sat, 21 Nov 2026 13:33:00 +0900",
+      "source": "NHK 経済",
+      "score": 7,
+      "category": "経済ニュース"
+    },
+    {
+      "title": "メルカリ AIに入力した個人情報漏えいか「リスト型攻撃」も",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261121de79616",
+      "published": "Sat, 21 Nov 2026 14:33:40 +0900",
+      "source": "NHK 経済",
+      "score": 6,
+      "category": "企業・産業"
+    },
+    {
       "title": "ナスダック指数が一時5%超の急落 AIブーム持続性に疑問符",
       "link": "https://news.web.nhk/newsweb/na/nd-20261121de79481",
       "published": "Sat, 21 Nov 2026 07:01:32 +0900",
@@ -74,41 +82,17 @@
       "category": "企業・産業"
     },
     {
-      "title": "税は搾取でなく権利だ 小説家・真山仁氏、財政破綻後の日本描く理由 - 日本経済新聞",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9takFuWGxYZXk0c1BCUHZsY2JjUXZUS3AwWTFOS3FRSFV2SUhqeU9sdnZQNzN4ZUoxdUJiYkJzS3kyN3EzNmxZOW04RDlhbjlidUpiWlppNUNCYWZVWE1vWVd0SlhROUh2TjNhbw?oc=5",
-      "published": "Fri, 20 Nov 2026 20:00:00 GMT",
+      "title": "日本経済新聞社、日経平均の基礎情報をSnowflakeマーケットプレイスで提供開始 - Media Innovation",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9vNTVkQTBxVlBWUWZKYnE5QmpQd3BBemxNbk5ObHRSalUwblBLQUg3eGdOOGgyVFFGdU0tS3dkd1RDVjJneTZJdXdIZWRJTUktSThob2Y2d3REeWlKUmQtZXh1STFKaFYwdEE?oc=5",
+      "published": "Sun, 22 Nov 2026 01:00:03 GMT",
       "source": "Google News 日本経済",
       "score": 6,
-      "category": "政策・財政"
-    },
-    {
-      "title": "NVIDIA、株価14%急落 米SECが会計処理を調査とロイター報道 - 日本経済新聞",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9yaHNVeGpla3FzNVNST2pvV291VGtDcTdNQVBlYU92ZWYyVl9mT0d1OFQ4cHlWZmdrNVRNRFdDanhfWlpmeU9nWG15WlZ3NmxOaUtIOHBvdnA1Z041dXQ4M05DUC0zV1BiNUREMA?oc=5",
-      "published": "Fri, 20 Nov 2026 20:42:26 GMT",
-      "source": "Google News 日本経済",
-      "score": 5,
       "category": "経済ニュース"
     },
     {
-      "title": "アンソロピック研究者、数学難問「リーマン予想」をAIで解決と発表 - 日本経済新聞",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5EaVJUdXRuWHY0M3UwUXljX0FxZjM1OGM3TFRMSFVTS0NDU3JQMmhhd2M4TDNhWmgydlVjcU14U2Y1Tlk0NnJOd2NqanZsSjZBYXRWOVh6Zk1pckhEbWlDd09BS0JjRXAwV2hPQQ?oc=5",
-      "published": "Sat, 21 Nov 2026 00:44:41 GMT",
-      "source": "Google News 日本経済",
-      "score": 4,
-      "category": "企業・産業"
-    },
-    {
-      "title": "日本ブラジル経済合同委員会メンバーによる高市総理大臣表敬｜外務省 - Ministry of Foreign Affairs of Japan",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1WWDhLVG1KbzJIQTlvYm83MXdXUklNeHplZ1llQVZseXUwWjRid3ZJT3IzVnFuMGxnZzF0TGlPa0hQMjBMZ3pZN2N4X29GY3Y0Tl9vWkxjSXZFLWI5UUQ5T0s1cEQxeXZFTzRORlpKOFRzZw?oc=5",
-      "published": "Fri, 20 Nov 2026 08:07:24 GMT",
-      "source": "Google News 日本経済",
-      "score": 4,
-      "category": "経済ニュース"
-    },
-    {
-      "title": "日本経済は終わる？中国ネットで反論続々＝「よく他国のことを言えたものだ」 - ｄメニューニュース",
-      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQYTVfRUZ5MnN3eUdlTGJjaV9SVVZla05fTmh1U2VEN0dFandxTFdyZjM2NWFXNzJVeVF2ZVJlQVJ0XzNKbElyaWRCOWRhcGtGMDFyTENRcU4tV0g5cDNRbDVURHdmWFJNVlpFNFVJSXlzVktFblVSazlBMjhucWpZdmh3TktDd9IBiwFBVV95cUxPMGR1dzBsVmRjbU5VYkxBVkJVR0NsZFAxVHVwSjJQaUUyYVVnaTVoemtqR0QtdnhMejRHOTMyanp5R1VVeWk3TThVb2U2YkNlV3VJMlEwbHZxdFNYQUk5OHVBRG1GR0RWazF0Q1FHVzFHcUxyYUxwNjl1eS0tTEJPOW5YVGhDSGRMQ3A4?oc=5",
-      "published": "Wed, 18 Nov 2026 22:00:00 GMT",
+      "title": "自動運転の自家用車、日本で普及するか 中国では機能搭載「当たり前」 - 日本経済新聞",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBWakZBYjZlUEwxby1feDJzWi1GZ2ZIeExsUkNCaHBQRDc5X0ptR3pjNVRHang5T1ZleUd6OVFhNV9MWVo2cm14b1ZXcE11MGlRSk1rZjloMHU3a3QxeGxiOE85RWJST25QTkJnbQ?oc=5",
+      "published": "Sat, 21 Nov 2026 20:00:00 GMT",
       "source": "Google News 日本経済",
       "score": 3,
       "category": "経済ニュース"
@@ -116,7 +100,7 @@
     {
       "title": "東電 資本提携後も重要事項の意思決定に国が拒否権保持 提示",
       "link": "https://news.web.nhk/newsweb/na/nd-20261121de79559",
-      "published": "Sat, 21 Nov 2026 11:16:00 +0900",
+      "published": "Sat, 21 Nov 2026 17:28:00 +0900",
       "source": "NHK 経済",
       "score": 2,
       "category": "経済ニュース"
@@ -160,17 +144,25 @@
       "source": "NHK 経済",
       "score": 2,
       "category": "経済ニュース"
+    },
+    {
+      "title": "太平洋クロマグロ 韓国や台湾との協議で大型魚25％増枠へ",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261120de79372",
+      "published": "Fri, 20 Nov 2026 19:59:00 +0900",
+      "source": "NHK 経済",
+      "score": 2,
+      "category": "経済ニュース"
+    },
+    {
+      "title": "KARTE 不正アクセス 情報漏えいや漏えいおそれ のべ約2200社に",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261120de79350",
+      "published": "Fri, 20 Nov 2026 20:03:54 +0900",
+      "source": "NHK 経済",
+      "score": 2,
+      "category": "経済ニュース"
     }
   ],
   "top_articles": [
-    {
-      "title": "日経平均終値3007円安、AI・半導体に売り アンソロピックに祝杯ならず - 日本経済新聞",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5Ec0IzZWNDNk9XVmZGOUJjbkFGTVZFeW9yTlBFRHQyY1Z2OVpMRW1TNG5jbmRyN3NQakdGN1dfSTh3b0x0ckZDc3hPVmpWWEtFUjhXOWtqT3JhcHZhSnBQWmRUM1k4MzFuczl0WA?oc=5",
-      "published": "Fri, 20 Nov 2026 02:43:24 GMT",
-      "source": "Google News 日本経済",
-      "score": 23,
-      "category": "為替・金利"
-    },
     {
       "title": "日本企業などから高額収入の海外居住者 課税強化へ",
       "link": "https://news.web.nhk/newsweb/na/nd-20261120de79460",
@@ -180,12 +172,20 @@
       "category": "企業・産業"
     },
     {
-      "title": "世界の原油輸出最大に、1日4700万バレル ホルムズ迂回・代替で回復 - 日本経済新聞",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9WSFdxVTdHaDd6T2dBQVdWN2p6VlJNUjd4TVZJMnVxR2NOUkg1UUd1QUtETEhVNlFWSE51dm9BZzRoSmF5YURyUVJpTjlCd29BQ2JVVGVzV1ZrU1BydW1IY0JOdFZFQ3NLZDg4UA?oc=5",
-      "published": "Sat, 21 Nov 2026 02:00:00 GMT",
+      "title": "［FT］AI株投資が招く円安圧力 - 日本経済新聞",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9pTnc3X0YweWVpVXd1a0VCZERPcHFPSzY1V1JjT0NCWlkyTGZRclVQamZfZGktaHpuREMtdWd4RlR4ZFM3bnBWZmJ5RUg4OVpyd0JnZXc0OXcwRlNfM2RTUXVaa0ZGN0pjWVIwOA?oc=5",
+      "published": "Sat, 21 Nov 2026 20:00:00 GMT",
       "source": "Google News 日本経済",
       "score": 12,
-      "category": "経済ニュース"
+      "category": "為替・金利"
+    },
+    {
+      "title": "財政審“物価高騰や金利上昇リスク意識して市場の信認確保を”",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261120de79395",
+      "published": "Fri, 20 Nov 2026 21:14:32 +0900",
+      "source": "NHK 経済",
+      "score": 10,
+      "category": "物価・家計"
     }
   ]
 }
